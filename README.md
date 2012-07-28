@@ -1,4 +1,1 @@
-ruconf
-======
-
-Международные научные конференции
+См. http://github.com/grammarware/ruconf/wiki
