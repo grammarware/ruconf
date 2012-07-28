@@ -21,11 +21,11 @@
 * SLE 2009 (США, Денвер)
 ** Second International Conference on Software Language Engineering
 ** [http://dblp.uni-trier.de/db/conf/sle/sle2009.html DBLP] • [http://web.archive.org/web/20101011091928/http://planet-sl.org/sle2009/ Архив сайта]
-** Совместно с: [[MODELS]], [[GPCE]]
+** Совместно с: [[MoDELS]], [[GPCE]]
 * SLE 2008 (Франция, Тулуза)
 ** First International Conference on Software Language Engineering
 ** [http://dblp.uni-trier.de/db/conf/sle/sle2008.html DBLP] • [http://planet-sl.org/sle2008/ Сайт] • [http://web.archive.org/web/20081013114121/http://planet-sl.org/sle2008/ Архив сайта]
-** Совместно с: [[MODELS]]
+** Совместно с: [[MoDELS]]
 
 == Ссылки ==
 * [http://dblp.uni-trier.de/db/conf/sle/ SLE] на [[DBLP]]
