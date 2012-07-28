@@ -8,23 +8,23 @@
 == Архив ==
 * SLE 2012 (Германия, Дрезден)
 ** Fifth International Conference on Software Language Engineering
-** [http://planet-sl.org/sle2012/ Сайт] • [http://events.linkedin.com/sle-2012-905279 LinkedIn]
+** [http://planet-sl.org/sle2012/ Сайт] • [http://events.linkedin.com/sle-2012-905279 LinkedIn] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=20977&copyownerid=420 CfP]
 ** Совместно с: [[GPCE]], [[FOSD]], [[ITSLE]]
 * SLE 2011 (Португалия, Брага)
 ** Fourth International Conference on Software Language Engineering
-** [http://dblp.uni-trier.de/db/conf/sle/sle2011.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sle/sle2011.html DBLP] • [http://planet-sl.org/sle2011/ Сайт] (не работает) • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=14544&copyownerid=21277 CfP]
 ** Совместно с: [[GTTSE]], [[ITSLE]]
 * SLE 2010 (Нидерланды, Эйндховен)
 ** Third International Conference on Software Language Engineering
-** [http://dblp.uni-trier.de/db/conf/sle/sle2010.html DBLP] • [http://planet-sl.org/sle2010/ Сайт] (не работает)
+** [http://dblp.uni-trier.de/db/conf/sle/sle2010.html DBLP] • [http://planet-sl.org/sle2010/ Сайт] (не работает) • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=8563&copyownerid=9565 CfP]
 ** Совместно с: [[GPCE]]
 * SLE 2009 (США, Денвер)
 ** Second International Conference on Software Language Engineering
-** [http://dblp.uni-trier.de/db/conf/sle/sle2009.html DBLP] • [http://web.archive.org/web/20101011091928/http://planet-sl.org/sle2009/ Архив сайта]
+** [http://dblp.uni-trier.de/db/conf/sle/sle2009.html DBLP] • [http://web.archive.org/web/20101011091928/http://planet-sl.org/sle2009/ Архив сайта] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=4668&copyownerid=3290 CfP]
 ** Совместно с: [[MoDELS]], [[GPCE]]
 * SLE 2008 (Франция, Тулуза)
 ** First International Conference on Software Language Engineering
-** [http://dblp.uni-trier.de/db/conf/sle/sle2008.html DBLP] • [http://planet-sl.org/sle2008/ Сайт] • [http://web.archive.org/web/20081013114121/http://planet-sl.org/sle2008/ Архив сайта]
+** [http://dblp.uni-trier.de/db/conf/sle/sle2008.html DBLP] • [http://planet-sl.org/sle2008/ Сайт] • [http://web.archive.org/web/20081013114121/http://planet-sl.org/sle2008/ Архив сайта] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=3151&copyownerid=2 CfP]
 ** Совместно с: [[MoDELS]]
 
 == Ссылки ==

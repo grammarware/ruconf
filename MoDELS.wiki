@@ -8,27 +8,27 @@
 == Архив ==
 * MoDELS 2012 (Австрия, Иннсбрук)
 ** ACM/IEEE 15th International Conference on Model Driven Engineering Languages and Systems 
-** [http://models2012.info/ Сайт]
+** [http://models2012.info/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=21525&copyownerid=25474 CfP]
 ** Совместно с: [[VL/HCC]], [[ME]], [[OCL]], [[CMA]], [[ACES MB]], [[MoDeVVa]], [[VARY]], [[XM]], [[MPM]], [[MDsec]], [[NFSP-DSML]], [[MOTPW]], [[AMT]], [[MRT]], [[MDHPCL]], [[EESSMOD]]
 * MoDELS 2011 (Новая Зеландия, Веллингтон)
 ** ACM/IEEE 14th International Conference on Model Driven Engineering Languages and Systems
-** [http://dblp.uni-trier.de/db/conf/models/models2011.html DBLP] • [http://ecs.victoria.ac.nz/Events/MODELS2011/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2011.html DBLP] • [http://ecs.victoria.ac.nz/Events/MODELS2011/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=14009&copyownerid=2 CfP]
 ** Совместно с: [[VARY]], [[MPM]], [[EESSMod]], [[MRT]], [[MoDeVVa]], [[CMA]], [[ME]], [[ACES MB]]
 * MoDELS 2010 (Норвегия, Осло)
 ** ACM/IEEE 13th International Conference on Model Driven Engineering Languages and Systems
-** [http://dblp.uni-trier.de/db/conf/models/models2010-1.html DBLP I] • [http://dblp.uni-trier.de/db/conf/models/models2010-2.html DBLP II] • [http://models2010.ifi.uio.no/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2010-1.html DBLP I] • [http://dblp.uni-trier.de/db/conf/models/models2010-2.html DBLP II] • [http://models2010.ifi.uio.no/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=7183&copyownerid=2 CfP]
 ** Совместно с: [[NFPinDSML]], [[ME]], [[OCL]], [[EOOLT]], [[MoDeVVa]], [[MPM]], [[AOM]], [[QUASOSS]], [[ACES MB]], [[MDI]], [[MRT]], [[RoSyM]]
 * MoDELS 2009 (США, Денвер)
 ** ACM/IEEE 12th International Conference on Model Driven Engineering Languages and Systems
-** [http://dblp.uni-trier.de/db/conf/models/models2009.html DBLP] • [http://www.cs.colostate.edu/models09/index.html Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2009.html DBLP] • [http://www.cs.colostate.edu/models09/index.html Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=4470&copyownerid=619 CfP]
 ** Совместно с: [[GPCE]], [[SLE]], [[ACES MB]], [[AOM]], [[FOSD]], [[MODSE]], [[MCCM]], [[MRT]], [[MoDeVVa]], [[MPM]], [[NFPinDSML]], [[OCL]], [[TWOMDE]]
 * MoDELS 2008 (Франция, Тулуза)
 ** ACM/IEEE 11th International Conference on Model Driven Engineering Languages and Systems 
-** [http://dblp.uni-trier.de/db/conf/models/models2008.html DBLP] • [http://www.irit.fr/models/index.html Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2008.html DBLP] • [http://www.irit.fr/models/index.html Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=1272&copyownerid=2 CfP]
 ** Совместно с: [[SLE]], [[MRT]], [[ModSec]], [[ChaMDE]], [[NFPinDSML]], [[TWOMDE]], [[ESMDE]], [[ACES MB]], [[MCCM]], [[QiM]], [[MOTHIS]], [[MDWE]], [[OCL]]
 * MoDELS 2007 (США, Нашвилл)
 ** ACM/IEEE 10th International Conference on Model Driven Engineering Languages and Systems
-** [http://dblp.uni-trier.de/db/conf/models/models2007.html DBLP] • [http://models2007.isis.vanderbilt.edu/index.html Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2007.html DBLP] • [http://models2007.isis.vanderbilt.edu/index.html Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=1271&copyownerid=2 CfP]
 ** Совместно с: [[AOM]], [[ATEM]], [[MDDAUI]], [[MSM]], [[MOTHIS]], [[MoDeVVa]], [[OCL]], [[MRT]], [[MPM]], [[QiM]]
 * MoDELS 2006 (Италия, Генуя)
 ** ACM/IEEE 9th International Conference on Model Driven Engineering Languages and Systems

@@ -12,23 +12,23 @@
 ** Совместно с [[ISMM]], [[LCTES]], [[PASTE]], [[X10]], [[MSPC]]
 * PLDI 2012 (Китай, Пекин):
 ** 33rd ACM SIGPLAN Conference on Programming Language Design and Implementation
-** [http://dblp.uni-trier.de/db/conf/pldi/pldi2012.html DBLP] • [http://pldi12.cs.purdue.edu/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/pldi/pldi2012.html DBLP] • [http://pldi12.cs.purdue.edu/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=18676&copyownerid=692 CfP]
 ** Совместно с [[LCTES]], [[ECOOP]], [[ISMM]], [[APPLC]]
 * PLDI 2011 (США, Сан-Хосе)
 ** 32nd ACM SIGPLAN Conference on Programming Language Design and Implementation
-** [http://dblp.uni-trier.de/db/conf/pldi/pldi2011.html DBLP] • [http://pldi11.cs.utah.edu/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/pldi/pldi2011.html DBLP] • [http://pldi11.cs.utah.edu/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=11254&copyownerid=5598 CfP]
 ** Как часть: [[FCRC]]
 * PLDI 2010 (Канада, Торонто)
 ** 31st ACM SIGPLAN Conference on Programming Language Design and Implementation
-** [http://dblp.uni-trier.de/db/conf/pldi/pldi2010.html DBLP] • [http://cs.stanford.edu/pldi10/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/pldi/pldi2010.html DBLP] • [http://cs.stanford.edu/pldi10/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=6266&copyownerid=602 CfP]
 ** Совместно с [[ISMM]], [[PASTE]], [[APLWACA]], [[AMP]], [[LFX]], [[PLAS]]
 * PLDI 2009 (Ирландия, Дублин)
 ** 30th ACM SIGPLAN Conference on Programming Language Design and Implementation
-** [http://dblp.uni-trier.de/db/conf/pldi/pldi2009.html DBLP] • [http://www-plan.cs.colorado.edu/~pldi09/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/pldi/pldi2009.html DBLP] • [http://www-plan.cs.colorado.edu/~pldi09/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=3264&copyownerid=2 CfP]
 ** Совместно с: [[PLAS]], [[LCTES]], [[ISMM]]
 * PLDI 2008 (США, Тусон)
 ** 29th ACM SIGPLAN Conference on Programming Language Design and Implementation
-** [http://dblp.uni-trier.de/db/conf/pldi/pldi2008.html DBLP] • [http://pldi2008.cs.ucr.edu/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/pldi/pldi2008.html DBLP] • [http://pldi2008.cs.ucr.edu/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=1179&copyownerid=2 CfP]
 ** Совместно с: [[PLAS]], [[SAW]], [[LCTES]], [[ISMM]]
 * PLDI 2007 (США, Сан-Диего)
 ** 28th ACM SIGPLAN Conference on Programming Language Design and Implementation
