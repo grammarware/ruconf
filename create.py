@@ -8,7 +8,7 @@ if __name__ == '__main__':
 		print 'Create what?'
 		sys.exit(-1)
 	name = sys.argv[1]
-	fname = 'wiki/%s.wiki' % name
+	fname = '%s.wiki' % name
 	print 'Creating %s...' % name
 	if os.path.exists(fname):
 		print 'Already exists.'

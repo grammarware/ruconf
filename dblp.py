@@ -7,7 +7,7 @@ if __name__ == '__main__':
 		print 'Crawl what?'
 		sys.exit(-1)
 	name = sys.argv[1]
-	f = open('wiki/%s.wiki' % name, 'r')
+	f = open('%s.wiki' % name, 'r')
 	content = f.read()
 	dblp = content.split(' %s] на [[DBLP]]' % name)[0].split('[')[-1]
 	s = urllib.urlopen(dblp).read()
@@ -21,7 +21,7 @@ if __name__ == '__main__':
 	print 'Crawling...'
 	f.close()
 	c1,c2 = content.split('== Ссылки ==')
-	f = open('wiki/%s.wiki' % name, 'w')
+	f = open('%s.wiki' % name, 'w')
 	f.write(c1)
 	f.write('== Архив ==\n')
 	for s in lst:
