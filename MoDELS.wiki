@@ -1,0 +1,74 @@
+* Название: '''International Conference on Model Driven Engineering Languages and Systems'''
+* Перевод: '''Международная конференция по модельной разработке языков и систем'''
+* Статус: [[International Conference|международная конференция]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* MoDELS 2012 (Австрия, Иннсбрук)
+** ACM/IEEE 15th International Conference on Model Driven Engineering Languages and Systems 
+** [http://models2012.info/ Сайт]
+** Совместно с: [[VL/HCC]], [[ME]], [[OCL]], [[CMA]], [[ACES MB]], [[MoDeVVa]], [[VARY]], [[XM]], [[MPM]], [[MDsec]], [[NFSP-DSML]], [[MOTPW]], [[AMT]], [[MRT]], [[MDHPCL]], [[EESSMOD]]
+* MoDELS 2011 (Новая Зеландия, Веллингтон)
+** ACM/IEEE 14th International Conference on Model Driven Engineering Languages and Systems
+** [http://dblp.uni-trier.de/db/conf/models/models2011.html DBLP] • [http://ecs.victoria.ac.nz/Events/MODELS2011/ Сайт]
+** Совместно с: [[VARY]], [[MPM]], [[EESSMod]], [[MRT]], [[MoDeVVa]], [[CMA]], [[ME]], [[ACES MB]]
+* MoDELS 2010 (Норвегия, Осло)
+** ACM/IEEE 13th International Conference on Model Driven Engineering Languages and Systems
+** [http://dblp.uni-trier.de/db/conf/models/models2010-1.html DBLP I] • [http://dblp.uni-trier.de/db/conf/models/models2010-2.html DBLP II] • [http://models2010.ifi.uio.no/ Сайт]
+** Совместно с: [[NFPinDSML]], [[ME]], [[OCL]], [[EOOLT]], [[MoDeVVa]], [[MPM]], [[AOM]], [[QUASOSS]], [[ACES MB]], [[MDI]], [[MRT]], [[RoSyM]]
+* MoDELS 2009 (США, Денвер)
+** ACM/IEEE 12th International Conference on Model Driven Engineering Languages and Systems
+** [http://dblp.uni-trier.de/db/conf/models/models2009.html DBLP] • [http://www.cs.colostate.edu/models09/index.html Сайт]
+** Совместно с: [[GPCE]], [[SLE]], [[ACES MB]], [[AOM]], [[FOSD]], [[MODSE]], [[MCCM]], [[MRT]], [[MoDeVVa]], [[MPM]], [[NFPinDSML]], [[OCL]], [[TWOMDE]]
+* MoDELS 2008 (Франция, Тулуза)
+** ACM/IEEE 11th International Conference on Model Driven Engineering Languages and Systems 
+** [http://dblp.uni-trier.de/db/conf/models/models2008.html DBLP] • [http://www.irit.fr/models/index.html Сайт]
+** Совместно с: [[SLE]], [[MRT]], [[ModSec]], [[ChaMDE]], [[NFPinDSML]], [[TWOMDE]], [[ESMDE]], [[ACES MB]], [[MCCM]], [[QiM]], [[MOTHIS]], [[MDWE]], [[OCL]]
+* MoDELS 2007 (США, Нашвилл)
+** ACM/IEEE 10th International Conference on Model Driven Engineering Languages and Systems
+** [http://dblp.uni-trier.de/db/conf/models/models2007.html DBLP] • [http://models2007.isis.vanderbilt.edu/index.html Сайт]
+** Совместно с: [[AOM]], [[ATEM]], [[MDDAUI]], [[MSM]], [[MOTHIS]], [[MoDeVVa]], [[OCL]], [[MRT]], [[MPM]], [[QiM]]
+* MoDELS 2006 (Италия, Генуя)
+** ACM/IEEE 9th International Conference on Model Driven Engineering Languages and Systems
+** [http://dblp.uni-trier.de/db/conf/models/models2006.html DBLP] • [http://web.archive.org/web/20090215015846/http://www.disi.unige.it/researchsites/models06/ Архив сайта]
+** Совместно с: [[AOM]], [[CSDUML]], [[ATEM]], [[QiM]], [[MDDAUI]], [[MARTES]], [[OCL]], [[MoDeVVa|MoDeV2a]], [[MSM]], [[MRT]], [[MPM]]
+* MoDELS 2005 (Ямайка, Монтего-Бей)
+** ACM/IEEE 8th International Conference on Model Driven Engineering Languages and Systems
+** [http://dblp.uni-trier.de/db/conf/models/../uml/models2005.html DBLP] • [http://www.cs.colostate.edu/models05/ Сайт]
+** Совместно с: [[OCL]], [[MoDeVVa|MoDeVA]], [[MARTES]], [[AOM]], [[MTP]], [[WiSME]], [[MDDAUI]], [[NfC]], [[MDD SPL]], [[WUsCaM]]
+* UML 2004 (Португалия, Лиссабон)
+** Seventh Conference on the Unified Modeling Language
+** [http://dblp.uni-trier.de/db/conf/uml/uml2004.html DBLP] • [http://ctp.di.fct.unl.pt/UML2004/ Сайт]
+** Совместно с: [[ConsistencyUML]], [[AOM]], [[SADUML]], [[SVERTS]], [[WiSME]], [[IUCM]], [[NfC]], [[OCL]], [[CSDUML]]
+* UML 2003 (США, Сан-Франциско)
+** Sixth International Conference on the Unified Modeling Language
+** [http://dblp.uni-trier.de/db/conf/uml/uml2003.html DBLP] • [http://web.archive.org/web/20041207030726/http://ase.arc.nasa.gov/uml03/ Архив сайта]
+** Совместно с: [[CSDUML]], [[WiSME]], [[SIVOES-MDA]], [[AOM]], [[SVERTS]], [[CompUML]], [[ConsistencyUML]], [[SAP-UML]], [[OCL]]
+* UML 2002 (Германия, Дрезден)
+** Fifth International Conference on the Unified Modeling Language — the Language and Its Applications
+** [http://dblp.uni-trier.de/db/conf/uml/uml2002.html DBLP] • [http://web.archive.org/web/20021109171924/www.inf.tu-dresden.de/uml/index.html Архив сайта]
+** Совместно с: [[CSDUML]], [[AOM]], [[WiSME]], [[NfC|SIVOES-MONA]], [[ConsistencyUML]]
+* UML 2001 (Канада, Торонто)
+** Fourth International Conference on the Unified Modeling Language
+** [http://dblp.uni-trier.de/db/conf/uml/uml2001.html DBLP] • [http://www.cs.toronto.edu/uml2001/ Сайт]
+** Совместно с: [[PracticalUML]], [[ConcurrencyUML]], [[ConstraintUML]]
+* UML 2000 (Англия, Йорк)
+** Third International Conference on the Unified Modeling Language
+** [http://dblp.uni-trier.de/db/conf/uml/uml2000.html DBLP] • [http://web.archive.org/web/20011211123038/http://www.cs.york.ac.uk/uml2000/ Архив сайта]
+** Совместно с: [[WebUML]], [[DynamicUML]], [[TUPIS]], [[RT UML]], [[OCL]], [[XPM]]
+* UML 1999 (США, Форт-Коллинз)
+** The Second International Conference on The Unified Modeling Language
+** [http://dblp.uni-trier.de/db/conf/uml/uml1999.html DBLP] • [http://web.archive.org/web/200012180046/http://www.cs.colostate.edu/UML99/ Архив сайта]
+* UML 1998 (Франция, Мюлуз)
+** International Workshop on UML: Beyond the Notation
+** [http://dblp.uni-trier.de/db/conf/uml/uml1998.html DBLP] • [http://web.archive.org/web/20001205155000/www.essaim.univ-mulhouse.fr/uml/evenements/index.html Архив сайта]
+* UML 1997 (Германия, Мангейм)
+** Слабо связанная с серией одноимённых конференций немецкая рабочая встреча
+** Einsatz, Bewertung und Stand der Unified Modeling Language
+** [http://dblp.uni-trier.de/db/conf/uml/uml1997.html DBLP] • [http://www.db.informatik.uni-bremen.de/umlbib/conf/UML97.html Сайт]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/models/ MoDELS] и [http://dblp.uni-trier.de/db/conf/uml/ UML] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/2202/ MoDELS] на [[Academic]]

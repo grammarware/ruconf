@@ -1,0 +1,33 @@
+* Название: '''International Conference on Software Language Engineering'''
+* Перевод: '''Международная конференция по проектированию компьютерных языков'''
+* Статус: [[International Conference|международная конференция]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* SLE 2012 (Германия, Дрезден)
+** Fifth International Conference on Software Language Engineering
+** [http://planet-sl.org/sle2012/ Сайт] • [http://events.linkedin.com/sle-2012-905279 LinkedIn]
+** Совместно с: [[GPCE]], [[FOSD]], [[ITSLE]]
+* SLE 2011 (Португалия, Брага)
+** Fourth International Conference on Software Language Engineering
+** [http://dblp.uni-trier.de/db/conf/sle/sle2011.html DBLP]
+** Совместно с: [[GTTSE]], [[ITSLE]]
+* SLE 2010 (Нидерланды, Эйндховен)
+** Third International Conference on Software Language Engineering
+** [http://dblp.uni-trier.de/db/conf/sle/sle2010.html DBLP] • [http://planet-sl.org/sle2010/ Сайт] (не работает)
+** Совместно с: [[GPCE]]
+* SLE 2009 (США, Денвер)
+** Second International Conference on Software Language Engineering
+** [http://dblp.uni-trier.de/db/conf/sle/sle2009.html DBLP] • [http://web.archive.org/web/20101011091928/http://planet-sl.org/sle2009/ Архив сайта]
+** Совместно с: [[MoDELS]], [[GPCE]]
+* SLE 2008 (Франция, Тулуза)
+** First International Conference on Software Language Engineering
+** [http://dblp.uni-trier.de/db/conf/sle/sle2008.html DBLP] • [http://planet-sl.org/sle2008/ Сайт] • [http://web.archive.org/web/20081013114121/http://planet-sl.org/sle2008/ Архив сайта]
+** Совместно с: [[MoDELS]]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/sle/ SLE] на [[DBLP]]
+* @[http://twitter.com/sleconf SLEconf] в [[Twitter]]
+* [http://www.facebook.com/sleconf SLE Conference] в [[Facebook]]
