@@ -24,7 +24,7 @@ if __name__ == '__main__':
 	f.write('* Статус: %s\n' % explode(status))
 	f.write('\n== Тематика ==\n* …\n\n== Ссылки ==\n')
 	dblp = name.lower()
-	while not exists('http://dblp.uni-trier.de/db/conf/%s/index.html' % dblp):
+	while dblp != '' and not exists('http://dblp.uni-trier.de/db/conf/%s/index.html' % dblp):
 		dblp = raw_input("DBLP[%s]? " % dblp)
 	f.write('* [http://dblp.uni-trier.de/db/conf/%s/ %s] на [[DBLP]]\n' % (dblp, name))
 	acad = raw_input("Academic? ")

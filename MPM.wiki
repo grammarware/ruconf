@@ -1,0 +1,44 @@
+* Название: '''Workshop on Multi-Paradigm Modeling'''
+* Перевод: '''Рабочая встреча по мультипарадигменному моделированию'''
+* Статус: [[Workshop|рабочая встреча]]
+
+== Детали ==
+* Анонимное рецензирование (рецензентам видны авторы, авторам виден только список всех рецензентов)
+* Стиль оформления — ACM (две колонки, девятый шрифт)
+* Предельный объём — 6 страниц
+* Короткие статьи — 2 страницы
+
+== Тематика ==
+* Однородность моделей (многопредметное моделирование, мультифизические модели, множественные точки зрения, множественные абстракции)
+* Однородность языков моделирования (проектирование языков моделирования, моделирование моделей вычисления, оценка качества и полезности языков моделирования)
+* Техники мультипарадигменного моделирования (преобразования моделей, совмещение моделей, основанное на моделях определение непредсказуемого поведения разнородных систем)
+* Приложения существующих техник мультипарадигменного моделирования (особенно в индустрии)
+
+== Архив ==
+* MPM 2012 (Австрия, Иннсбрук)
+** Sixth MoDELS Workshop on Multi-Paradigm Modeling
+** [http://avalon.aut.bme.hu/mpm12/ Сайт]
+** Как часть: [[MoDELS]]
+* MPM 2011 (Новая Зеландия, Веллингтон)
+** Fifth MoDELS Workshop on Multi-Paradigm Modeling
+** [http://avalon.aut.bme.hu/~mesztam/conferences/mpm11 Сайт]
+** Как часть: [[MoDELS]]
+* MPM 2010 (Норвегия, Осло)
+** Fourth MoDELS Workshop on Multi-Paradigm Modeling
+** [http://avalon.aut.bme.hu/mpm10 Сайт]
+** Как часть: [[MoDELS]]
+* MPM 2009 (США, Денвер)
+** Third MoDELS Workshop on Multi-Paradigm Modeling
+** [http://avalon.aut.bme.hu/mpm09 Сайт]
+** Как часть: [[MoDELS]]
+* MPM 2007 (США, Нашвилл)
+** Second MoDELS Workshop on Multi-Paradigm Modeling
+** [http://avalon.aut.bme.hu/~mesztam/conferences/mpm07 Сайт]
+** Как часть: [[MoDELS]]
+* MPM 2006 (Италия, Генуя)
+** First MoDELS Workshop on Multi-Paradigm Modeling
+** [http://avalon.aut.bme.hu/~mesztam/conferences/mpm06 Сайт]
+** Как часть: [[MoDELS]]
+
+== Ссылки ==
+* Рабочие встречи [http://dblp.uni-trier.de/db/conf/models/ MoDELS] на [[DBLP]]
