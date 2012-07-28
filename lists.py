@@ -22,7 +22,7 @@ if __name__ == '__main__':
 		names[n] = content.split("* Перевод: '''")[1].split("'''")[0]
 		for link in content.split('[[')[1:]:
 			link = link.split(']]')[0].split('|')[0]
-			if link not in refd:
+			if link.replace(' ','-') not in refd:
 				refd.append(link.replace(' ','-'))
 		f.close()
 	refd.sort()
@@ -42,9 +42,13 @@ if __name__ == '__main__':
 		f = open('%s.wiki' % namelist(status),'w')
 		if b:
 			f.writelines(b)
+		b = []
 		for n in found:
 			if sts[n] == status:
-				f.write("* '''[[%s]]''': [[%s|%s]]\n" % (n,n,names[n]))
+				b.append("* '''[[%s]]''': [[%s|%s]]\n" % (n,n,names[n]))
+		if b:
+			b.sort()
+			f.writelines(b)
 		f.write("--''Список обновлён %s''" % date)
 		f.close()
 	print 'Done, %i conferences to write.' % cx
