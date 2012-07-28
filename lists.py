@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-import os, datetime
+import os, glob, datetime
 from conflib import implode, namelist
 
 if __name__ == '__main__':
@@ -9,9 +9,8 @@ if __name__ == '__main__':
 	sts = {}
 	names = {}
 	refd = []
-	for f in os.listdir('.'):
-		if f not in ('.git','.gitignore'):
-			found.append(f.replace('.wiki',''))
+	for f in glob.glob('*.wiki'):
+		found.append(f.replace('.wiki',''))
 	for n in found:
 		if n in ('Home','TODO','International-Conference','Working-Conference','Workshop','Summer-School','Symposium','Miniconference'):
 			sts[n] = ''
