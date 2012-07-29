@@ -1,0 +1,68 @@
+* Название: '''Symposium on the Foundations of Software Engineering'''
+* Перевод: '''Симпозиум по основам разработки программного обеспечения'''
+* Статус: [[Symposium|симпозиум]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* 19. SIGSOFT FSE 2011: Szeged, Hungary
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2011.html DBLP]
+** Совместно с: [[ESEC]]
+* 18. SIGSOFT FSE 2010: Santa Fe, NM, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2010.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/foser2010.html DBLP]
+* 17. SIGSOFT FSE 2009: Amsterdam, The Netherlands
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2009.html DBLP]
+** Совместно с: [[ESEC]]
+* 16. SIGSOFT FSE: Atlanta, Georgia, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2008.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/weh2008.html DBLP]
+* 15. SIGSOFT FSE 2007: Dubrovnik, Croatia
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007c.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/efts2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/dosta2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/esspe2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/../soqua/soqua2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/../iwpse/iwpse2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/savcbs2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/syanco2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/soswe2007.html DBLP]
+** Совместно с: [[ESEC]]
+* 14. SIGSOFT FSE 2006: Portland, Oregon, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2006.html DBLP]
+* 13. SIGSOFT FSE 2005: Lisbon, Portugal
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2005.html DBLP]
+** Совместно с: [[ESEC]]
+* 12. SIGSOFT FSE 2004: Newport Beach, California, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2004.html DBLP]
+* 11. SIGSOFT FSE 2003: Helsinki, Finland
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2003.html DBLP]
+** Совместно с: [[ESEC]]
+* 10. FSE 2002: Charleston, South Carolina, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2002.html DBLP]
+* 9. FSE 2001:Vienna,  Austria
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2001.html DBLP]
+** Совместно с: [[ESEC]]
+* 8. SIGSOFT FSE 2000: San Diego, California, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2000.html DBLP]
+* 7. SIGSOFT FSE 1999: Toulouse, France
+** [http://dblp.uni-trier.de/db/conf/sigsoft/../esec/esec99.html DBLP]
+** Совместно с: [[ESEC]]
+* 6. SIGSOFT FSE 1998: Lake Buena Vista, Florida, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse98.html DBLP]
+* 5. SIGSOFT FSE 1997: Zurich, Switzerland
+** [http://dblp.uni-trier.de/db/conf/sigsoft/../esec/esec97.html DBLP]
+** Совместно с: [[ESEC]]
+* 4. SIGSOFT FSE 1996: San Francisco, California, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse96.html DBLP]
+* 3. SIGSOFT FSE 1995: Washington, DC, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse95.html DBLP]
+* 2. SIGSOFT FSE 1994: New Orleans, Louisiana, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse94.html DBLP]
+* 1. SIGSOFT FSE 1993: Los Angeles, California, USA
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse93.html DBLP]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/sigsoft/ FSE] на [[DBLP]]
