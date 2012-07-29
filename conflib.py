@@ -4,6 +4,28 @@
 import os, sys
 import urllib, urllib2, httplib, socket
 
+listnames = {
+				'ic':'International-Conference',
+				'wc':'Working-Conference',
+				'ws':'Workshop',
+				'sy':'Symposium',
+				'ss':'Summer-School',
+				'mc':'Miniconference',
+				'se':'Seminar',
+				'co':'Colloquium'
+			}
+
+rusnames = {
+				'ic':'международная конференция',
+				'wc':'рабочая конференция',
+				'ws':'рабочая встреча',
+				'sy':'симпозиум',
+				'ss':'летняя школа',
+				'mc':'миниконференция',
+				'se':'семинар',
+				'co':'коллоквиум'
+			}
+
 def exists(url):
 	try:
 		s = urllib.urlopen(url).read()
@@ -31,37 +53,24 @@ def implode(z):
 		return 'mc'
 	elif s.find('symposium') > -1:
 		return 'sy'
+	elif s.find('seminar') > -1:
+		return 'se'
+	elif s.find('colloquium') > -1:
+		return 'co'
 	else:
 		return 'ic'
 
 def explode(s):
-	if s == 'ic':
-		return '[[International Conference|международная конференция]]'
-	elif s == 'wc':
-		return '[[Working Conference|рабочая конференция]]'
-	elif s == 'ws':
-		return '[[Workshop|рабочая встреча]]'
-	elif s == 'sy':
-		return '[[Symposium|Симпозиум]]'
-	elif s == 'ss':
-		return '[[Summer School|Летняя школа]]'
-	elif s == 'mc':
-		return '[[Miniconference|Миниконференция]]'
+	return '[[%s|%s]]' % (namelist(s),namerus(s))
+
+def namelist(s):
+	if listnames.has_key(s):
+		return listnames[s]
 	else:
 		return 'ERROR'
 
-def namelist(s):
-	if s == 'ic':
-		return 'International-Conference'
-	elif s == 'wc':
-		return 'Working-Conference'
-	elif s == 'ws':
-		return 'Workshop'
-	elif s == 'sy':
-		return 'Symposium'
-	elif s == 'ss':
-		return 'Summer-School'
-	elif s == 'mc':
-		return 'Miniconference'
+def namerus(s):
+	if rusnames.has_key(s):
+		return rusnames[s]
 	else:
 		return 'ERROR'
