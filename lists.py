@@ -12,7 +12,7 @@ if __name__ == '__main__':
 	for f in glob.glob('*.wiki'):
 		found.append(f.replace('.wiki',''))
 	for n in found:
-		if n in ('Home','TODO') or n in listnames.values():
+		if n in ('Home','All','TODO') or n in listnames.values():
 			continue
 		f = open('%s.wiki' % n,'r')
 		content = f.read()
@@ -26,14 +26,22 @@ if __name__ == '__main__':
 		f.close()
 	refd.sort()
 	f = open('TODO.wiki','w')
+	g = open('All.wiki','w')
 	f.write('Статьи, требующие создания:\n\n')
-	cx = 0
+	g.write('Вики уже содержит следующие статьи:\n\n')
+	cx1 = cx2 = 0
 	for n in refd:
 		if n not in found:
 			f.write('* [[%s]]\n' % n)
-			cx += 1
+			cx2 += 1
+	for n in found:
+		if n not in ('All','Home','TODO') and n not in listnames.values():
+			g.write("* '''[[%s]]''': [[%s|%s]]\n" % (n,n,names[n]))
+			cx1 += 1
 	f.write("\n--''Список обновлён %s''\n" % date)
+	g.write("\n--''Список обновлён %s''\n" % date)
 	f.close()
+	g.close()
 	for status in sts.keys():
 		try:
 			f = open('%s.wiki' % namelist(status),'r')
@@ -55,4 +63,4 @@ if __name__ == '__main__':
 			f.writelines(b)
 		f.write("--''Список обновлён %s''" % date)
 		f.close()
-	print 'Done, %i conferences to write.' % cx
+	print 'Done, %i venues done, %i yet to go.' % (cx1, cx2)
