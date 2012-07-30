@@ -40,6 +40,24 @@
 ** International Conference on Software Language Engineering
 ** [http://dblp.uni-trier.de/db/conf/sle/sle2008.html DBLP] • [http://planet-sl.org/sle2008/ Сайт] • [http://web.archive.org/web/20081013114121/http://planet-sl.org/sle2008/ Архив сайта] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=3151&copyownerid=2 CfP]
 ** Совместно с: [[MoDELS]]
+* ATEM 2007 (США, Нашвилл)
+** «Рабочая встреча по метамоделям, схемам, грамматикам и онтологиям в обратной разработке» — один из основных предшественников конференций SLE
+** 4th International Workshop on Software Language Engineering: Engineering of Metamodels, Schemas, Grammars and Onthologies
+** [http://www.megaplanet.org/atem2007/ Сайт] • [http://web.archive.org/web/20090316063623/http://models2007.isis.vanderbilt.edu/workshops.html#w2 Архив описания]
+** Совместно с: [[MoDELS]]
+* ATEM 2006 (Италия, Генуя)
+** 3rd International Workshop on Metamodels, Schemas, Grammars and Ontologies for Reverse Engineering
+** [http://planet-mde.org/atem2006/ Сайт] • [http://web.archive.org/web/20071102151834/http://www.disi.unige.it/researchsites/models06/workshops.php Архив описания]
+** Совместно с: [[MoDELS]]
+* ATEM 2004 (Италия, Генуя)
+** 1st International Workshop on Metamodels, Schemas and Grammars for Reverse Engineering
+** [http://planet-mde.org/atem2004/ Сайт]
+** Совместно с: [[WCRE]]
+* ATEM 2003 (Италия, Генуя)
+** 1st International Workshop on Meta-Models and Schemas for Reverse Engineering
+** [http://planet-mde.org/atem2003/ Сайт]
+** Совместно с: [[WCRE]]
+
 
 == Ссылки ==
 * [http://dblp.uni-trier.de/db/conf/sle/ SLE] на [[DBLP]]

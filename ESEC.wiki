@@ -19,7 +19,7 @@
 * ESEC 2007 (Хорватия, Дубровник)
 ** 11th European Software Engineering Conference
 ** The 6th joint meeting of ESEC and FSE
-** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007.html DBLP] • [http://www.idt.mdh.se/esec-fse-2007/ Сайт]
 ** Совместно с: [[FSE]]
 * ESEC 2005 (Португалия, Лиссабан)
 ** 10th European Software Engineering Conference

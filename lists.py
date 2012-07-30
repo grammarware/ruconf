@@ -76,7 +76,7 @@ if __name__ == '__main__':
 		f.write('\n; [[%s]]\n: ' % year)
 		g = open(year+'.wiki','w')
 		g.write('Конференции, проведённые в %s году:\n' % year)
-		for c in sorted(byyear[year],key=lambda x:x[0].lower()):
+		for c in sorted(byyear[year],key=lambda x:x[1].lower()):
 			if c[0]==c[1]:
 				g.write('* [[%s]]\n' % c[0])
 				y.append('[[%s]]' % c[0])
