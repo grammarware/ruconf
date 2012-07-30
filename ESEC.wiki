@@ -9,43 +9,43 @@
 * ESEC 2011 (Венгрия, Сегед)
 ** 13th European Software Engineering Conference
 ** The 8th joint meeting of ESEC and FSE
-** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2011.html DBLP]
-** Совместно с: [[FSE]]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2011.html DBLP] • [http://2011.esec-fse.org/ Сайт]
+** Совместно с: [[FSE]], [[WoSQ]], [[ASAS]], [[PASTE]], [[SSE]], [[IWPSE]]/[[EVOL]], [[WebQUeST]]
 * ESEC 2009 (Нидерланды, Амстердам)
 ** 12th European Software Engineering Conference
 ** The 7th joint meeting of ESEC and FSE
-** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2009.html DBLP]
-** Совместно с: [[FSE]]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2009.html DBLP] • [http://www.esec-fse-2009.ewi.tudelft.nl/ Сайт]
+** Совместно с: [[FSE]], [[IWPSE]]/[[EVOL]], [[IWOCE]], [[SoSEA]], [[SINTER]], [[CASTA]], [[QUASOSS]], [[SAVCBS]]
 * ESEC 2007 (Хорватия, Дубровник)
 ** 11th European Software Engineering Conference
 ** The 6th joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007.html DBLP] • [http://www.idt.mdh.se/esec-fse-2007/ Сайт]
-** Совместно с: [[FSE]]
-* ESEC 2005 (Португалия, Лиссабан)
+** Совместно с: [[FSE]], [[EFTS]], [[DOSTA]], [[ESSPE]], [[SOQUA]], [[IWPSE]], [[SAVCBS]], [[SYANCO]], [[SOSWE]]
+* ESEC 2005 (Португалия, Лиссабон)
 ** 10th European Software Engineering Conference
 ** The 5th joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2005.html DBLP]
-** Совместно с: [[FSE]]
+** Совместно с: [[FSE]], [[IWPSE]], [[FMICS]], [[RAMSS]], [[PASTE]], [[SEM]], [[SCM]], [[SAVCBS]]
 * ESEC 2003 (Финляндия, Хельсинки)
 ** 9th European Software Engineering Conference
 ** The 4th joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2003.html DBLP]
-** Совместно с: [[FSE]]
+** Совместно с: [[FSE]], [[WITSE]], [[SAVCBS]], [[TIS]], [[IWPSE]], [[EWSPT]]
 * ESEC 2001 (Австрия, Вена)
 ** 8th European Software Engineering Conference
 ** The 3rd joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2001.html DBLP]
-** Совместно с: [[FSE]]
+** Совместно с: [[FSE]], [[IWPSE]], [[WCL]]
 * ESEC 1999 (Франция, Тулуза)
 ** 7th European Software Engineering Conference
 ** The 2nd joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/esec/esec99.html DBLP]
-** Совместно с: [[FSE]]
+** Совместно с: [[FSE]], [[OOR]], [[PASTE]], [[SCM]], [[CREWS]]
 * ESEC 1997 (Швейцария, Цюрих)
 ** 6th European Software Engineering Conference
 ** The 1st joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/esec/esec97.html DBLP]
-** Совместно с: [[FSE]]
+** Совместно с: [[FSE]], [[MNAC]], [[FoCBS]], [[OOR]]
 * ESEC 1995 (Испания, Ситжес)
 ** 5th European Software Engineering Conference
 ** [http://dblp.uni-trier.de/db/conf/esec/esec95.html DBLP]

@@ -6,11 +6,15 @@
 * …
 
 == Архив ==
+* FSE 2012 (США, Кэри)
+** ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering
+** [http://www.sigsoft.org/fse20/ Сайт]
+** Совместно с: [[EASE]], [[JPF]], [[WoSQ]], [[AISE]], [[SEES]], [[SLESE]], [[WebQUeST]]
 * FSE 2011 (Венгрия, Сегед)
 ** ACM SIGSOFT 19th Symposium on the Foundations of Software Engineering
 ** The 8th joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2011.html DBLP] • [http://2011.esec-fse.org/ Сайт]
-** Совместно с: [[ESEC]]
+** Совместно с: [[ESEC]], [[WoSQ]], [[ASAS]], [[PASTE]], [[SSE]], [[IWPSE]]/[[EVOL]], [[WebQUeST]]
 * FSE 2010 (США, Санта-Фе)
 ** ACM SIGSOFT 18th Symposium on the Foundations of Software Engineering
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2010.html DBLP] • [http://fse18.cse.wustl.edu/ Сайт]
@@ -19,7 +23,7 @@
 ** ACM SIGSOFT 17th Symposium on the Foundations of Software Engineering
 ** The 7th joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2009.html DBLP] • [http://www.esec-fse-2009.ewi.tudelft.nl/ Сайт]
-** Совместно с: [[ESEC]]
+** Совместно с: [[ESEC]], [[IWPSE]]/[[EVOL]], [[IWOCE]], [[SoSEA]], [[SINTER]], [[CASTA]], [[QUASOSS]], [[SAVCBS]]
 * FSE 2008 (США, Атланта)
 ** ACM SIGSOFT 16th Symposium on the Foundations of Software Engineering
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2008.html DBLP] • [https://cgi4.cc.gatech.edu/phps/conferences/fse16/ Сайт]
