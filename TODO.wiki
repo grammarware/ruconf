@@ -12,6 +12,7 @@
 * [[CD]]
 * [[CMA]]
 * [[CSDUML]]
+* [[CSXW]]
 * [[ChaMDE]]
 * [[CompUML]]
 * [[ConcurrencyUML]]
@@ -30,8 +31,8 @@
 * [[FOSD]]
 * [[FPCA]]
 * [[Facebook]]
+* [[FoSER]]
 * [[GPCE]]
-* [[GTTSE]]
 * [[ISMM]]
 * [[ITSLE]]
 * [[IUCM]]
@@ -87,6 +88,7 @@
 * [[VARY]]
 * [[VEE]]
 * [[VL/HCC]]
+* [[WEH]]
 * [[WUsCaM]]
 * [[WebUML]]
 * [[WiSME]]
@@ -94,4 +96,4 @@
 * [[XM]]
 * [[XPM]]
 
---''Список обновлён 2012-07-29''
+--''Список обновлён 2012-07-30''

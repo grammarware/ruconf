@@ -55,27 +55,27 @@
 ** [http://dblp.uni-trier.de/db/conf/models/../uml/models2005.html DBLP] • [http://www.cs.colostate.edu/models05/ Сайт]
 ** Совместно с: [[OCL]], [[MoDeVVa|MoDeVA]], [[MARTES]], [[AOM]], [[MTP]], [[WiSME]], [[MDDAUI]], [[NfC]], [[MDD SPL]], [[WUsCaM]]
 * UML 2004 (Португалия, Лиссабон)
-** Seventh Conference on the Unified Modeling Language
+** 7th Conference on the Unified Modeling Language
 ** [http://dblp.uni-trier.de/db/conf/uml/uml2004.html DBLP] • [http://ctp.di.fct.unl.pt/UML2004/ Сайт]
 ** Совместно с: [[ConsistencyUML]], [[AOM]], [[SADUML]], [[SVERTS]], [[WiSME]], [[IUCM]], [[NfC]], [[OCL]], [[CSDUML]]
 * UML 2003 (США, Сан-Франциско)
-** Sixth International Conference on the Unified Modeling Language
+** 6th International Conference on the Unified Modeling Language
 ** [http://dblp.uni-trier.de/db/conf/uml/uml2003.html DBLP] • [http://web.archive.org/web/20041207030726/http://ase.arc.nasa.gov/uml03/ Архив сайта]
 ** Совместно с: [[CSDUML]], [[WiSME]], [[SIVOES-MDA]], [[AOM]], [[SVERTS]], [[CompUML]], [[ConsistencyUML]], [[SAP-UML]], [[OCL]]
 * UML 2002 (Германия, Дрезден)
-** Fifth International Conference on the Unified Modeling Language — the Language and Its Applications
+** 5th International Conference on the Unified Modeling Language — the Language and Its Applications
 ** [http://dblp.uni-trier.de/db/conf/uml/uml2002.html DBLP] • [http://web.archive.org/web/20021109171924/www.inf.tu-dresden.de/uml/index.html Архив сайта]
 ** Совместно с: [[CSDUML]], [[AOM]], [[WiSME]], [[NfC|SIVOES-MONA]], [[ConsistencyUML]]
 * UML 2001 (Канада, Торонто)
-** Fourth International Conference on the Unified Modeling Language
+** 4th International Conference on the Unified Modeling Language
 ** [http://dblp.uni-trier.de/db/conf/uml/uml2001.html DBLP] • [http://www.cs.toronto.edu/uml2001/ Сайт]
 ** Совместно с: [[PracticalUML]], [[ConcurrencyUML]], [[ConstraintUML]]
 * UML 2000 (Англия, Йорк)
-** Third International Conference on the Unified Modeling Language
+** 3rd International Conference on the Unified Modeling Language
 ** [http://dblp.uni-trier.de/db/conf/uml/uml2000.html DBLP] • [http://web.archive.org/web/20011211123038/http://www.cs.york.ac.uk/uml2000/ Архив сайта]
 ** Совместно с: [[WebUML]], [[DynamicUML]], [[TUPIS]], [[RT UML]], [[OCL]], [[XPM]]
 * UML 1999 (США, Форт-Коллинз)
-** The Second International Conference on The Unified Modeling Language
+** The 2nd International Conference on The Unified Modeling Language
 ** [http://dblp.uni-trier.de/db/conf/uml/uml1999.html DBLP] • [http://web.archive.org/web/200012180046/http://www.cs.colostate.edu/UML99/ Архив сайта]
 * UML 1998 (Франция, Мюлуз)
 ** International Workshop on UML: Beyond the Notation

@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-
-import os, sys
+import os, sys, datetime
 import urllib, urllib2, httplib, socket
 
 listnames = {
@@ -74,3 +73,7 @@ def namerus(s):
 		return rusnames[s]
 	else:
 		return 'ERROR'
+
+def sign(f):
+	f.write("\n--''Список обновлён %s''\n" % str(datetime.datetime.now()).split()[0])
+	f.close()

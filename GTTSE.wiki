@@ -1,0 +1,24 @@
+* Название: '''Summer School on Generative and Transformational Techniques in Software Engineering'''
+* Перевод: '''Летняя школа по порождающим и преобразующим техникам в разработке программного обеспечения'''
+* Статус: [[Summer-School|летняя школа]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* GTTSE 2011 (Португалия, Брага)
+** 4th Summer School on Generative and Transformational Techniques in Software Engineering
+** [http://gttse.wikidot.com/2011 Сайт]
+** Совместно с: [[SLE]], [[CSXW]], [[ITSLE]]
+* GTTSE 2009 (Португалия, Брага)
+** 3rd Summer School on Generative and Transformational Techniques in Software Engineering
+** [http://dblp.uni-trier.de/db/conf/gttse/gttse2009.html DBLP] • [http://gttse.wikidot.com/2009 Сайт]
+* GTTSE 2007 (Португалия, Брага)
+** 2nd Summer School on Generative and Transformational Techniques in Software Engineering
+** [http://dblp.uni-trier.de/db/conf/gttse/gttse2007.html DBLP] • [http://www.di.uminho.pt/GTTSE2007 Сайт]
+* GTTSE 2005 (Португалия, Брага)
+** Summer School on Generative and Transformational Techniques in Software Engineering
+** [http://dblp.uni-trier.de/db/conf/gttse/gttse2006.html DBLP] • [http://www.di.uminho.pt/GTTSE2005 Сайт]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/gttse/ GTTSE] на [[DBLP]]
