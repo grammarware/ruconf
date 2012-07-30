@@ -1,9 +1,10 @@
 Конференции, проведённые в 2007 году:
-* [[FSE|FSE]]
-* [[GTTSE|GTTSE]]
-* [[MoDELS|MoDELS]]
-* [[MPM|MPM]]
-* [[PEPM|PEPM]]
-* [[PLDI|PLDI]]
+* [[ESEC]]
+* [[FSE]]
+* [[GTTSE]]
+* [[MoDELS]]
+* [[MPM]]
+* [[PEPM]]
+* [[PLDI]]
 
 --''Список обновлён 2012-07-30''

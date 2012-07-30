@@ -6,39 +6,60 @@
 * …
 
 == Архив ==
-* 13. ESEC 2011: Szeged, Hungary
-** [http://dblp.uni-trier.de/db/conf/esec/../sigsoft/fse2011.html DBLP]
+* ESEC 2011 (Венгрия, Сегед)
+** 13th European Software Engineering Conference
+** The 8th joint meeting of ESEC and FSE
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2011.html DBLP]
 ** Совместно с: [[FSE]]
-* 12. ESEC 2009: Amsterdam, The Netherlands
-** [http://dblp.uni-trier.de/db/conf/esec/../sigsoft/fse2009.html DBLP]
+* ESEC 2009 (Нидерланды, Амстердам)
+** 12th European Software Engineering Conference
+** The 7th joint meeting of ESEC and FSE
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2009.html DBLP]
 ** Совместно с: [[FSE]]
-* 11. ESEC 2007: Dubrovnik, Croatia
-** [http://dblp.uni-trier.de/db/conf/esec/../sigsoft/fse2007.html DBLP]
+* ESEC 2007 (Хорватия, Дубровник)
+** 11th European Software Engineering Conference
+** The 6th joint meeting of ESEC and FSE
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007.html DBLP]
 ** Совместно с: [[FSE]]
-* 10. ESEC 2005: Lisbon, Portugal
-** [http://dblp.uni-trier.de/db/conf/esec/../sigsoft/fse2005.html DBLP]
+* ESEC 2005 (Португалия, Лиссабан)
+** 10th European Software Engineering Conference
+** The 5th joint meeting of ESEC and FSE
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2005.html DBLP]
 ** Совместно с: [[FSE]]
-* 9. ESEC 2003: Helsinki, Finland
-** [http://dblp.uni-trier.de/db/conf/esec/../sigsoft/fse2003.html DBLP]
+* ESEC 2003 (Финляндия, Хельсинки)
+** 9th European Software Engineering Conference
+** The 4th joint meeting of ESEC and FSE
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2003.html DBLP]
 ** Совместно с: [[FSE]]
-* 8. ESEC 2001: Vienna,  Austria
-** [http://dblp.uni-trier.de/db/conf/esec/../sigsoft/fse2001.html DBLP]
+* ESEC 2001 (Австрия, Вена)
+** 8th European Software Engineering Conference
+** The 3rd joint meeting of ESEC and FSE
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2001.html DBLP]
 ** Совместно с: [[FSE]]
-* 7. ESEC 1999: Toulouse, France
+* ESEC 1999 (Франция, Тулуза)
+** 7th European Software Engineering Conference
+** The 2nd joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/esec/esec99.html DBLP]
 ** Совместно с: [[FSE]]
-* 6. ESEC 1997: Zurich, Switzerland
+* ESEC 1997 (Швейцария, Цюрих)
+** 6th European Software Engineering Conference
+** The 1st joint meeting of ESEC and FSE
 ** [http://dblp.uni-trier.de/db/conf/esec/esec97.html DBLP]
 ** Совместно с: [[FSE]]
-* 5. ESEC 1995: Sitges, Spain
+* ESEC 1995 (Испания, Ситжес)
+** 5th European Software Engineering Conference
 ** [http://dblp.uni-trier.de/db/conf/esec/esec95.html DBLP]
-* 4. ESEC 1993: Garmisch-Partenkirchen, Germany
+* ESEC 1993 (Германия, Гармиш-Партенкирхен)
+** 4th European Software Engineering Conference
 ** [http://dblp.uni-trier.de/db/conf/esec/esec93.html DBLP]
-* 3. ESEC 1991: Milan, Italy
+* ESEC 1991 (Италия, Милан)
+** 3rd European Software Engineering Conference
 ** [http://dblp.uni-trier.de/db/conf/esec/esec91.html DBLP]
-* 2. ESEC 1989: Warwick, Coventry, UK
+* ESEC 1989 (Англия, Уорик)
+** 2nd European Software Engineering Conference
 ** [http://dblp.uni-trier.de/db/conf/esec/esec89.html DBLP]
-* 1. ESEC 1987: Strasbourg, France
+* ESEC 1987 (Франция, Страсбург)
+** 1st European Software Engineering Conference
 ** [http://dblp.uni-trier.de/db/conf/esec/esec87.html DBLP]
 
 == Ссылки ==

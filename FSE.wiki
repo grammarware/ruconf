@@ -27,17 +27,8 @@
 * FSE 2007 (Хорватия, Дубровник)
 ** ACM SIGSOFT 15th Symposium on the Foundations of Software Engineering
 ** The 6th joint meeting of ESEC and FSE
-** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007c.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/efts2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/dosta2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/esspe2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/../soqua/soqua2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/../iwpse/iwpse2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/savcbs2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/syanco2007.html DBLP]
-** [http://dblp.uni-trier.de/db/conf/sigsoft/soswe2007.html DBLP]
-** Совместно с: [[ESEC]]
+** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007.html DBLP] • [http://dblp.uni-trier.de/db/conf/sigsoft/fse2007c.html DBLP]
+** Совместно с: [[ESEC]], [[EFTS]], [[DOSTA]], [[ESSPE]], [[SOQUA]], [[IWPSE]], [[SAVCBS]], [[SYANCO]], [[SOSWE]]
 * FSE 2006 (США, Портленд)
 ** ACM SIGSOFT 14th Symposium on the Foundations of Software Engineering
 ** [http://dblp.uni-trier.de/db/conf/sigsoft/fse2006.html DBLP]

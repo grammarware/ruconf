@@ -1,10 +1,11 @@
 Конференции, проведённые в 2009 году:
-* [[FSE|FSE]]
-* [[GTTSE|GTTSE]]
-* [[MoDELS|MoDELS]]
-* [[MPM|MPM]]
-* [[PEPM|PEPM]]
-* [[PLDI|PLDI]]
-* [[SLE|SLE]]
+* [[ESEC]]
+* [[FSE]]
+* [[GTTSE]]
+* [[MoDELS]]
+* [[MPM]]
+* [[PEPM]]
+* [[PLDI]]
+* [[SLE]]
 
 --''Список обновлён 2012-07-30''

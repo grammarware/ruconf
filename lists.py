@@ -55,7 +55,7 @@ if __name__ == '__main__':
 	for status in sts.keys():
 		try:
 			f = open('%s.wiki' % namelist(status),'r')
-			b = filter(lambda x:not x.startswith('* ') and not x.startswith('--'), f.readlines())
+			b = filter(lambda x:not x.startswith('* ') and not x.startswith('--') and x.strip(), f.readlines())
 			f.close()
 		except IOError,e:
 			b = []
@@ -65,9 +65,6 @@ if __name__ == '__main__':
 		b = []
 		for n in sts[status]:
 			b.append("* '''[[%s]]''': [[%s|%s]]\n" % (n,n,names[n]))
-		# for n in found:
-		# 	if sts[n] == status:
-		# 		b.append("* '''[[%s]]''': [[%s|%s]]\n" % (n,n,names[n]))
 		if b:
 			b.sort()
 			f.writelines(b)
@@ -80,8 +77,12 @@ if __name__ == '__main__':
 		g = open(year+'.wiki','w')
 		g.write('Конференции, проведённые в %s году:\n' % year)
 		for c in sorted(byyear[year],key=lambda x:x[0].lower()):
-			g.write('* [[%s|%s]]\n' % c)
-			y.append('[[%s|%s]]' % c)
+			if c[0]==c[1]:
+				g.write('* [[%s]]\n' % c[0])
+				y.append('[[%s]]' % c[0])
+			else:
+				g.write('* [[%s|%s]]\n' % c)
+				y.append('[[%s|%s]]' % c)
 		f.write(' • '.join(y))
 		sign(g)
 	sign(f)

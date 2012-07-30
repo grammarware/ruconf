@@ -1,9 +1,9 @@
 Конференции, проведённые в 2010 году:
-* [[FSE|FSE]]
-* [[MoDELS|MoDELS]]
-* [[MPM|MPM]]
-* [[PEPM|PEPM]]
-* [[PLDI|PLDI]]
-* [[SLE|SLE]]
+* [[FSE]]
+* [[MoDELS]]
+* [[MPM]]
+* [[PEPM]]
+* [[PLDI]]
+* [[SLE]]
 
 --''Список обновлён 2012-07-30''

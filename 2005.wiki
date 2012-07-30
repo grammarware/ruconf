@@ -1,7 +1,8 @@
 Конференции, проведённые в 2005 году:
-* [[FSE|FSE]]
-* [[GTTSE|GTTSE]]
-* [[MoDELS|MoDELS]]
-* [[PLDI|PLDI]]
+* [[ESEC]]
+* [[FSE]]
+* [[GTTSE]]
+* [[MoDELS]]
+* [[PLDI]]
 
 --''Список обновлён 2012-07-30''
