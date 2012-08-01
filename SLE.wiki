@@ -50,7 +50,7 @@
 ** [http://planet-mde.org/atem2006/ Сайт] • [http://web.archive.org/web/20071102151834/http://www.disi.unige.it/researchsites/models06/workshops.php Архив описания]
 ** Совместно с: [[MoDELS]]
 * ATEM 2004 (Италия, Генуя)
-** 1st International Workshop on Metamodels, Schemas and Grammars for Reverse Engineering
+** 2nd International Workshop on Metamodels, Schemas and Grammars for Reverse Engineering
 ** [http://planet-mde.org/atem2004/ Сайт]
 ** Совместно с: [[WCRE]]
 * ATEM 2003 (Италия, Генуя)

@@ -8,33 +8,41 @@ if __name__ == '__main__':
 	sts = {'ws':[],'wc':[],'ss':[],'sy':[],'ic':[],'mc':[],'se':[],'co':[]}
 	names = {}
 	refd = []
+	refby = {}
 	byyear = {}
 	for f in glob.glob('*.wiki'):
 		found.append(f.replace('.wiki',''))
 	for n in found:
-		if n in ('Home','All','Years','TODO') or n in listnames.values() or n.isdigit():
+		if n in ('All','Years','TODO') or n in listnames.values() or n.isdigit():
 			continue
 		# print 'Processing',n
 		f = open('%s.wiki' % n,'r')
 		content = f.read()
-		for st in content.split('* Статус: [[')[1].split('\n')[0].split('[['):
-			sts[implode(st.split('|')[0])].append(n)
-		names[n] = content.split("* Перевод: '''")[1].split("'''")[0]
+		if n != 'Home':
+			for st in content.split('* Статус: [[')[1].split('\n')[0].split('[['):
+				sts[implode(st.split('|')[0])].append(n)
+			names[n] = content.split("* Перевод: '''")[1].split("'''")[0]
 		for link in content.split('[[')[1:]:
 			link = link.split(']]')[0].split('|')[0]
 			if link.replace(' ','-') not in refd:
 				refd.append(link.replace(' ','-'))
-		for link in content.split('== Архив ==')[1].split('== Ссылки ==')[0].split('\n'):
-			if link.startswith('* '):
-				# print link
-				year = link.split('(')[0].split()[-1]
-				if not year.isdigit():
-					continue
-				rname = link.split(year)[0][2:].strip()
-				# print '-->',n,'as',rname,'in',year
-				if year not in byyear.keys():
-					byyear[year] = []
-				byyear[year].append((n,rname))
+			# print n,'to',link.replace(' ','-')
+			if link.replace(' ','-') not in refby.keys():
+				refby[link.replace(' ','-')] = []
+			if n not in refby[link.replace(' ','-')]:
+				refby[link.replace(' ','-')].append(n)
+		if n != 'Home':
+			for link in content.split('== Архив ==')[1].split('== Ссылки ==')[0].split('\n'):
+				if link.startswith('* '):
+					# print link
+					year = link.split('(')[0].split()[-1]
+					if not year.isdigit():
+						continue
+					rname = link.split(year)[0][2:].strip()
+					# print '-->',n,'as',rname,'in',year
+					if year not in byyear.keys():
+						byyear[year] = []
+					byyear[year].append((n,rname))
 		f.close()
 	refd.sort()
 	f = open('TODO.wiki','w')
@@ -44,7 +52,8 @@ if __name__ == '__main__':
 	cx1 = cx2 = 0
 	for n in refd:
 		if n not in found:
-			f.write('* [[%s]]\n' % n)
+			# print n,'is needed by',refby[n]
+			f.write("* '''[[%s]]''' (⇐ %s)\n" % (n,', '.join(map(lambda x:'[[%s]]' % x,refby[n]))))
 			cx2 += 1
 	for n in found:
 		if n not in ('All','Home','Years','TODO') and n not in listnames.values() and not n.isdigit():

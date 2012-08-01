@@ -1,145 +1,236 @@
 Статьи, требующие создания:
 
-* [[ACES-MB]]
-* [[AISE]]
-* [[AMP]]
-* [[AMT]]
-* [[AOM]]
-* [[APLWACA]]
-* [[APPLC]]
-* [[ASAS]]
-* [[Academic]]
-* [[Alloy]]
-* [[Bugs]]
-* [[CASTA]]
-* [[CD]]
-* [[CMA]]
-* [[CREWS]]
-* [[CSDUML]]
-* [[CSXW]]
-* [[ChaMDE]]
-* [[CompUML]]
-* [[ConcurrencyUML]]
-* [[ConsistencyUML]]
-* [[ConstraintUML]]
-* [[DBLP]]
-* [[DOSTA]]
-* [[DSPL]]
-* [[Dagstuhl]]
-* [[DynamicUML]]
-* [[EASE]]
-* [[ECOOP]]
-* [[EESSMod]]
-* [[EFTS]]
-* [[EOOLT]]
-* [[ESMDE]]
-* [[ESSPE]]
-* [[EVOL]]
-* [[EWSPT]]
-* [[FCRC]]
-* [[FLOPS]]
-* [[FMICS]]
-* [[FMSPLE]]
-* [[FPCA]]
-* [[Facebook]]
-* [[FoCBS]]
-* [[FoSER]]
-* [[GPCE]]
-* [[ISAW]]
-* [[ISMM]]
-* [[ITSLE]]
-* [[IUCM]]
-* [[IVME]]
-* [[IWOCE]]
-* [[IWPSE]]
-* [[IWSSD]]
-* [[JPF]]
-* [[KOPLE]]
-* [[LCTES]]
-* [[LFP]]
-* [[LFX]]
-* [[LOPSTR]]
-* [[MAPLE]]
-* [[MARTES]]
-* [[MCCM]]
-* [[MDD-SPL]]
-* [[MDDAUI]]
-* [[MDHPCL]]
-* [[MDI]]
-* [[MDWE]]
-* [[MDsec]]
-* [[ME]]
-* [[MNAC]]
-* [[MODSE]]
-* [[MOTHIS]]
-* [[MOTPW]]
-* [[MRT]]
-* [[MSM]]
-* [[MSP]]
-* [[MSPC]]
-* [[MTP]]
-* [[MoDeVVa]]
-* [[ModSec]]
-* [[NFPinDSML]]
-* [[NFSP-DSML]]
-* [[NfC]]
-* [[OCL]]
-* [[OOR]]
-* [[PASTE]]
-* [[PLAS]]
-* [[POPL]]
-* [[PPDP]]
-* [[PPoPP]]
-* [[PracticalUML]]
-* [[QMSPLE]]
-* [[QUASOSS]]
-* [[QUTE-SWAP]]
-* [[QiM]]
-* [[RAMSS]]
-* [[RT-UML]]
-* [[RoSyM]]
-* [[SADUML]]
-* [[SAP-UML]]
-* [[SAS]]
-* [[SAVCBS]]
-* [[SAW]]
-* [[SCALE]]
-* [[SCArVeS]]
-* [[SCM]]
-* [[SCOPES]]
-* [[SEES]]
-* [[SEM]]
-* [[SINTER]]
-* [[SIVOES-MDA]]
-* [[SLESE]]
-* [[SOQUA]]
-* [[SOSWE]]
-* [[SPLC]]
-* [[SSE]]
-* [[SVERTS]]
-* [[SYANCO]]
-* [[SoSEA]]
-* [[TIS]]
-* [[TRANSACT]]
-* [[TUPIS]]
-* [[TWOMDE]]
-* [[Twitter]]
-* [[VARY]]
-* [[VEE]]
-* [[VL/HCC]]
-* [[WCL]]
-* [[WCRE]]
-* [[WEH]]
-* [[WISER]]
-* [[WITSE]]
-* [[WOSS]]
-* [[WUsCaM]]
-* [[WebQUeST]]
-* [[WebUML]]
-* [[WiSME]]
-* [[WoSQ]]
-* [[X10]]
-* [[XM]]
-* [[XPM]]
+* '''[[ACES-MB]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[AISE]]''' (⇐ [[FSE]])
+* '''[[AMP]]''' (⇐ [[PLDI]])
+* '''[[AMT]]''' (⇐ [[MoDELS]])
+* '''[[AOM]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[AOSD]]''' (⇐ [[Home]])
+* '''[[APLWACA]]''' (⇐ [[PLDI]])
+* '''[[APPLC]]''' (⇐ [[PLDI]])
+* '''[[ASAS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[ASE]]''' (⇐ [[Home]])
+* '''[[ASPLOS]]''' (⇐ [[Home]])
+* '''[[Academic]]''' (⇐ [[ESEC]], [[Home]], [[MoDELS]], [[PEPM]], [[PLDI]])
+* '''[[Alloy]]''' (⇐ [[FSE]])
+* '''[[Bugs]]''' (⇐ [[PLDI]])
+* '''[[CASTA]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[CAV]]''' (⇐ [[Home]])
+* '''[[CAiSE]]''' (⇐ [[Home]])
+* '''[[CCGRID]]''' (⇐ [[Home]])
+* '''[[CD]]''' (⇐ [[PLDI]])
+* '''[[CDC]]''' (⇐ [[Home]])
+* '''[[CHES]]''' (⇐ [[Home]])
+* '''[[CHI]]''' (⇐ [[Home]])
+* '''[[CIKM]]''' (⇐ [[Home]])
+* '''[[CISS]]''' (⇐ [[Home]])
+* '''[[CIVR]]''' (⇐ [[Home]])
+* '''[[CMA]]''' (⇐ [[MoDELS]])
+* '''[[COMPSAC]]''' (⇐ [[Home]])
+* '''[[CREWS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[CSDUML]]''' (⇐ [[MoDELS]])
+* '''[[CSXW]]''' (⇐ [[GTTSE]])
+* '''[[CVPR]]''' (⇐ [[Home]])
+* '''[[ChaMDE]]''' (⇐ [[MoDELS]])
+* '''[[CompUML]]''' (⇐ [[MoDELS]])
+* '''[[ConcurrencyUML]]''' (⇐ [[MoDELS]])
+* '''[[ConsistencyUML]]''' (⇐ [[MoDELS]])
+* '''[[ConstraintUML]]''' (⇐ [[MoDELS]])
+* '''[[DAC]]''' (⇐ [[Home]])
+* '''[[DATE]]''' (⇐ [[Home]])
+* '''[[DBLP]]''' (⇐ [[ESEC]], [[FSE]], [[GTTSE]], [[Home]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[SLE]])
+* '''[[DOSTA]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[DSPL]]''' (⇐ [[FOSD]])
+* '''[[Dagstuhl]]''' (⇐ [[PEPM]])
+* '''[[DynamicUML]]''' (⇐ [[MoDELS]])
+* '''[[EASE]]''' (⇐ [[FSE]])
+* '''[[ECIR]]''' (⇐ [[Home]])
+* '''[[ECOOP]]''' (⇐ [[Home]], [[PLDI]])
+* '''[[EDBT]]''' (⇐ [[Home]])
+* '''[[EESSMod]]''' (⇐ [[MoDELS]])
+* '''[[EFTS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[EOOLT]]''' (⇐ [[MoDELS]])
+* '''[[ESMDE]]''' (⇐ [[MoDELS]])
+* '''[[ESOP]]''' (⇐ [[Home]])
+* '''[[ESSPE]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[ESWS]]''' (⇐ [[Home]])
+* '''[[EUROSYS]]''' (⇐ [[Home]])
+* '''[[EVOL]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[EWSPT]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[FCRC]]''' (⇐ [[PEPM]], [[PLDI]])
+* '''[[FLOPS]]''' (⇐ [[PEPM]])
+* '''[[FMICS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[FMSPLE]]''' (⇐ [[FOSD]])
+* '''[[FOCS]]''' (⇐ [[Home]])
+* '''[[FPCA]]''' (⇐ [[PLDI]])
+* '''[[FPL]]''' (⇐ [[Home]])
+* '''[[FSKD]]''' (⇐ [[Home]])
+* '''[[Facebook]]''' (⇐ [[Home]], [[SLE]])
+* '''[[FoCBS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[FoSER]]''' (⇐ [[FSE]])
+* '''[[GPCE]]''' (⇐ [[FOSD]], [[MoDELS]], [[SLE]])
+* '''[[HCI]]''' (⇐ [[Home]])
+* '''[[HPCA]]''' (⇐ [[Home]])
+* '''[[HUC]]''' (⇐ [[Home]])
+* '''[[ICALP]]''' (⇐ [[Home]])
+* '''[[ICALT]]''' (⇐ [[Home]])
+* '''[[ICC]]''' (⇐ [[Home]])
+* '''[[ICCAD]]''' (⇐ [[Home]])
+* '''[[ICCS]]''' (⇐ [[Home]])
+* '''[[ICDAR]]''' (⇐ [[Home]])
+* '''[[ICDCS]]''' (⇐ [[Home]])
+* '''[[ICDE]]''' (⇐ [[Home]])
+* '''[[ICDM]]''' (⇐ [[Home]])
+* '''[[ICFP]]''' (⇐ [[Home]])
+* '''[[ICMCS]]''' (⇐ [[Home]])
+* '''[[ICML]]''' (⇐ [[Home]])
+* '''[[ICPT]]''' (⇐ [[Home]])
+* '''[[ICS]]''' (⇐ [[Home]])
+* '''[[ICSE]]''' (⇐ [[Home]])
+* '''[[ICSOC]]''' (⇐ [[Home]])
+* '''[[ICTEI]]''' (⇐ [[Home]])
+* '''[[ICWSM]]''' (⇐ [[Home]])
+* '''[[INFOCOM]]''' (⇐ [[Home]])
+* '''[[IPDPS]]''' (⇐ [[Home]])
+* '''[[ISAW]]''' (⇐ [[FSE]])
+* '''[[ISCA]]''' (⇐ [[Home]])
+* '''[[ISLPED]]''' (⇐ [[Home]])
+* '''[[ISMAR]]''' (⇐ [[Home]])
+* '''[[ISMM]]''' (⇐ [[PLDI]])
+* '''[[ISNN]]''' (⇐ [[Home]])
+* '''[[ISQED]]''' (⇐ [[Home]])
+* '''[[ISSTA]]''' (⇐ [[Home]])
+* '''[[ISWC]]''' (⇐ [[Home]])
+* '''[[ITC]]''' (⇐ [[Home]])
+* '''[[ITSLE]]''' (⇐ [[FOSD]], [[GTTSE]], [[SLE]])
+* '''[[IUCM]]''' (⇐ [[MoDELS]])
+* '''[[IUI]]''' (⇐ [[Home]])
+* '''[[IVME]]''' (⇐ [[PLDI]])
+* '''[[IWOCE]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[IWPSE]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[IWSSD]]''' (⇐ [[FSE]])
+* '''[[JCDL]]''' (⇐ [[Home]])
+* '''[[JPF]]''' (⇐ [[FSE]])
+* '''[[KDD]]''' (⇐ [[Home]])
+* '''[[KOPLE]]''' (⇐ [[FOSD]])
+* '''[[LCTES]]''' (⇐ [[PLDI]])
+* '''[[LFP]]''' (⇐ [[PEPM]])
+* '''[[LFX]]''' (⇐ [[PLDI]])
+* '''[[LICS]]''' (⇐ [[Home]])
+* '''[[LOPSTR]]''' (⇐ [[PEPM]])
+* '''[[LinkedIn]]''' (⇐ [[Home]])
+* '''[[MAPLE]]''' (⇐ [[FOSD]])
+* '''[[MARTES]]''' (⇐ [[MoDELS]])
+* '''[[MCCM]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[MDD-SPL]]''' (⇐ [[MoDELS]])
+* '''[[MDDAUI]]''' (⇐ [[MoDELS]])
+* '''[[MDHPCL]]''' (⇐ [[MoDELS]])
+* '''[[MDI]]''' (⇐ [[MoDELS]])
+* '''[[MDWE]]''' (⇐ [[MoDELS]])
+* '''[[MDsec]]''' (⇐ [[MoDELS]])
+* '''[[ME]]''' (⇐ [[MoDELS]])
+* '''[[MICRO]]''' (⇐ [[Home]])
+* '''[[MM]]''' (⇐ [[Home]])
+* '''[[MNAC]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[MODSE]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[MOTHIS]]''' (⇐ [[MoDELS]])
+* '''[[MOTPW]]''' (⇐ [[MoDELS]])
+* '''[[MRT]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[MSM]]''' (⇐ [[MoDELS]])
+* '''[[MSP]]''' (⇐ [[PLDI]])
+* '''[[MSPC]]''' (⇐ [[PLDI]])
+* '''[[MTP]]''' (⇐ [[MoDELS]])
+* '''[[MoDeVVa]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[ModSec]]''' (⇐ [[MoDELS]])
+* '''[[NFPinDSML]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[NFSP-DSML]]''' (⇐ [[MoDELS]])
+* '''[[NIPS]]''' (⇐ [[Home]])
+* '''[[NSDI]]''' (⇐ [[Home]])
+* '''[[NfC]]''' (⇐ [[MoDELS]])
+* '''[[OCL]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[OOR]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[OSDI]]''' (⇐ [[Home]])
+* '''[[PACT]]''' (⇐ [[Home]])
+* '''[[PASTE]]''' (⇐ [[ESEC]], [[FSE]], [[PLDI]])
+* '''[[PKDD]]''' (⇐ [[Home]])
+* '''[[PLAS]]''' (⇐ [[PLDI]])
+* '''[[PODC]]''' (⇐ [[Home]])
+* '''[[PODS]]''' (⇐ [[Home]])
+* '''[[POPL]]''' (⇐ [[Home]], [[PEPM]])
+* '''[[PPDP]]''' (⇐ [[PEPM]])
+* '''[[PPoPP]]''' (⇐ [[Home]], [[PLDI]])
+* '''[[PracticalUML]]''' (⇐ [[MoDELS]])
+* '''[[QMSPLE]]''' (⇐ [[FOSD]])
+* '''[[QUASOSS]]''' (⇐ [[ESEC]], [[FSE]], [[MoDELS]])
+* '''[[QUTE-SWAP]]''' (⇐ [[FSE]])
+* '''[[QiM]]''' (⇐ [[MoDELS]])
+* '''[[RAMSS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[RT-UML]]''' (⇐ [[MoDELS]])
+* '''[[RTSS]]''' (⇐ [[Home]])
+* '''[[RoSyM]]''' (⇐ [[MoDELS]])
+* '''[[SAC]]''' (⇐ [[Home]])
+* '''[[SADUML]]''' (⇐ [[MoDELS]])
+* '''[[SAP-UML]]''' (⇐ [[MoDELS]])
+* '''[[SAS]]''' (⇐ [[PEPM]], [[PLDI]])
+* '''[[SAVCBS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[SAW]]''' (⇐ [[PLDI]])
+* '''[[SC]]''' (⇐ [[Home]])
+* '''[[SCALE]]''' (⇐ [[FOSD]])
+* '''[[SCArVeS]]''' (⇐ [[FOSD]])
+* '''[[SCM]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[SCOPES]]''' (⇐ [[PLDI]])
+* '''[[SDM]]''' (⇐ [[Home]])
+* '''[[SEES]]''' (⇐ [[FSE]])
+* '''[[SEM]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[SIGCSE]]''' (⇐ [[Home]])
+* '''[[SIGIR]]''' (⇐ [[Home]])
+* '''[[SIGMETRICS]]''' (⇐ [[Home]])
+* '''[[SIGMOD]]''' (⇐ [[Home]])
+* '''[[SINTER]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[SIVOES-MDA]]''' (⇐ [[MoDELS]])
+* '''[[SLESE]]''' (⇐ [[FSE]])
+* '''[[SODA]]''' (⇐ [[Home]])
+* '''[[SOQUA]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[SOSP]]''' (⇐ [[Home]])
+* '''[[SOSWE]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[SPAA]]''' (⇐ [[Home]])
+* '''[[SPLASH]]''' (⇐ [[Home]])
+* '''[[SPLC]]''' (⇐ [[FOSD]])
+* '''[[SSE]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[STOC]]''' (⇐ [[Home]])
+* '''[[SVERTS]]''' (⇐ [[MoDELS]])
+* '''[[SYANCO]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[SenSys]]''' (⇐ [[Home]])
+* '''[[SoSEA]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[Summer-school]]''' (⇐ [[Home]])
+* '''[[TACAS]]''' (⇐ [[Home]])
+* '''[[TASE]]''' (⇐ [[Home]])
+* '''[[TIS]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[TRANSACT]]''' (⇐ [[PLDI]])
+* '''[[TUPIS]]''' (⇐ [[MoDELS]])
+* '''[[TWOMDE]]''' (⇐ [[FOSD]], [[MoDELS]])
+* '''[[Twitter]]''' (⇐ [[Home]], [[PLDI]], [[SLE]])
+* '''[[USENIX]]''' (⇐ [[Home]])
+* '''[[VARY]]''' (⇐ [[MoDELS]])
+* '''[[VEE]]''' (⇐ [[PLDI]])
+* '''[[VL/HCC]]''' (⇐ [[MoDELS]])
+* '''[[VLDB]]''' (⇐ [[Home]])
+* '''[[WCL]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[WCRE]]''' (⇐ [[SLE]])
+* '''[[WEH]]''' (⇐ [[FSE]])
+* '''[[WISER]]''' (⇐ [[FSE]])
+* '''[[WITSE]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[WOSS]]''' (⇐ [[FSE]])
+* '''[[WOWMOM]]''' (⇐ [[Home]])
+* '''[[WSDM]]''' (⇐ [[Home]])
+* '''[[WUsCaM]]''' (⇐ [[MoDELS]])
+* '''[[WWW]]''' (⇐ [[Home]])
+* '''[[WebQUeST]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[WebUML]]''' (⇐ [[MoDELS]])
+* '''[[WiSME]]''' (⇐ [[MoDELS]])
+* '''[[WoSQ]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[X10]]''' (⇐ [[PLDI]])
+* '''[[XM]]''' (⇐ [[MoDELS]])
+* '''[[XPM]]''' (⇐ [[MoDELS]])
 
---''Список обновлён 2012-07-30''
+--''Список обновлён 2012-08-01''
