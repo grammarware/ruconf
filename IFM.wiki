@@ -1,0 +1,42 @@
+* Название: '''International Conference on Integrated Formal Methods'''
+* Перевод: '''Международная конференция по интегрированным формальным методам'''
+* Статус: [[International-Conference|международная конференция]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* IFM 2012 (Италия, Пиза)
+** 9th International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2012.html DBLP] • [http://ifm-abz.isti.cnr.it/page21/indexifm.html Сайт]
+** Совместно с: [[ABZ]]
+* IFM 2010 (Франция, Нанси)
+** 8th International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2010.html DBLP] • [http://ifm2010.loria.fr/ Сайт]
+** Совместно с: [[WTS]]
+* IFM 2009 (Германия, Дюссельдорф)
+** 7th International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2009.html DBLP] • [http://www.formal-methods.de/ifm09/ Сайт]
+** Совместно с: [[FM SOA]]
+* IFM 2007 (Англия, Оксфорд)
+** 6th International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2007.html DBLP]
+* IFM 2005 (Нидерланды, Эйндховен)
+** 5th International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2005.html DBLP] • [http://www.win.tue.nl/ifm/ Сайт]
+* IFM 2004 (Англия, Кент)
+** 4th International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2004.html DBLP] • [http://www.cs.kent.ac.uk/events/conf/2004/ifm/ Сайт]
+* IFM 2002 (Финляндия, Турку)
+** 3rd International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2002.html DBLP]
+* IFM 2000 (Германия, Дагштуль)
+** 2nd International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm2000.html DBLP] • [http://web.archive.org/web/20100419200511/http://www.uebb.cs.tu-berlin.de/ifm00/ Архив сайта]
+* IFM 1999 (Англия, Йорк)
+** 1st International Conference on Integrated Formal Methods
+** [http://dblp.uni-trier.de/db/conf/ifm/ifm1999.html DBLP]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/ifm/ IFM] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/59/ IFM] на [[Academic]]
