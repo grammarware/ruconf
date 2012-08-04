@@ -1,0 +1,15 @@
+* Название: '''International Workshop on Model-Driven Engineering for High Performance and Cloud Computing'''
+* Перевод: '''Международная рабочая встреча по модельной разработке высокопроизводительных и облачных вычислений'''
+* Статус: [[Workshop|рабочая встреча]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* MDHPCL 2012 (Австрия, Иннсбрук)
+** 1st International Workshop on Model-Driven Engineering for High Performance and CLoud computing
+** [http://www.irit.fr/MDHPCL2012/MDHPCL2012/Home.html Сайт]
+** Совместно с: [[MoDELS]]
+
+== Ссылки ==
+* 

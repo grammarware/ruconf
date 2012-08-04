@@ -1,0 +1,67 @@
+* Название: '''Workshop on OCL and Textual Modelling'''
+* Перевод: '''Рабочая встреча по OCL и текстовому моделированию'''
+* Статус: [[Workshop|рабочая встреча]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* OCL 2012 (Австрия, Иннсбрук)
+** 12th Workshop on OCL and Textual Modelling
+** [http://st.inf.tu-dresden.de/OCL2012/ Сайт]
+** Совместно с: [[MoDELS]]
+* OCL 2011 (Швейцария, Цюрих)
+** 11th International Workshop on OCL and Textual Modelling 
+** [http://gres.uoc.edu/OCL2011/ Сайт]
+** Совместно с: [[TOOLS]], [[ICMT]], [[SAP]], [[SC]]
+* OCL 2010 (Норвегия, Осло)
+** 10th Workshop on OCL and Textual Modelling
+** [http://dblp.uni-trier.de/db/conf/models/models2010w.html DBLP] • [http://modeling-languages.com/events/OCLWorkshop2010/ Сайт]
+** Совместно с: [[MoDELS]]
+* OCL 2009 (США, Денвер)
+** 9th OCL Workshop on the Pragmatics of OCL and Other Textual Specification Languages
+** [http://dblp.uni-trier.de/db/conf/models/models2009w.html DBLP] • [http://modeling-languages.com/events/OCLWorkshop2009/ Сайт]
+** Совместно с: [[MoDELS]]
+* OCL 2008 (Франция, Тулуза)
+** 8th Workshop on OCL Concepts and Tools: From Implementation to Evaluation and Comparison
+** [http://dblp.uni-trier.de/db/conf/models/models2008w.html DBLP] • [http://fots.ua.ac.be/events/ocl2008/ Сайт]
+** Совместно с: [[MoDELS]]
+* OCL4All 2007 (США, Нашвилл)
+** 7th Workshop on Modelling Systems with OCL
+** [http://dblp.uni-trier.de/db/conf/models/models2007w.html DBLP] • [http://st.inf.tu-dresden.de/Ocl4All2007/ Сайт]
+** Совместно с: [[MoDELS]]
+* OCLApps 2006 (Италия, Генуя)
+** 6th Workshop on OCL for (Meta-)Models in Multiple Application Domains
+** [http://dblp.uni-trier.de/db/conf/models/models2006w.html DBLP] • [http://st.inf.tu-dresden.de/OCLApps2006/ Сайт]
+** Совместно с: [[MoDELS]]
+* OCL 2005 (Ямайка, Монтего-Бей)
+** 5th Workshop on Tool Support for OCL and Related Formalisms: Needs and Trends
+** [http://dblp.uni-trier.de/db/conf/uml/models2005se.html DBLP] • [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.175.1503&rep=rep1&type=pdf Сборник трудов] • [http://web.archive.org/web/20070206060141/http://lgl.epfl.ch/members/baar/oclwsAtModels05/ Архив сайта]
+** Совместно с: [[MoDELS]]
+* OCL 2004 (Португалия, Лиссабон)
+** 4th Workshop on OCL and Model Driven Engineering
+** [http://dblp.uni-trier.de/db/conf/uml/ml2004.html DBLP] • [http://www.cs.kent.ac.uk/projects/ocl/oclmdewsuml04/ Сайт]
+** Совместно с: [[MoDELS|UML]]
+* OCL 2003 (США, Сан-Франциско)
+** 3rd Workshop on OCL 2.0: Industry Standard or Scientific Playground?
+** [http://dblp.uni-trier.de/db/journals/entcs/entcs102.html DBLP]
+** Совместно с: [[MoDELS|UML]]
+* OCL 2001 (Канада, Торонто)
+** 2nd Workshop on the Constraint Language for UML 2.0
+** [http://www.cs.toronto.edu/uml2001/workshop.html Описание]
+** Совместно с: [[MoDELS|UML]]
+* OCL 2000 (Англия, Йорк)
+** Workshop on the Future of the UML Object Constraint Language
+** [http://www.comp.brad.ac.uk/research/OCL2000/index.html Сайт]
+** Совместно с: [[MoDELS|UML]]
+* OCL 1999
+** The Kent Workshop on OCL
+** Страница рабочей группы канула в лету вместе со всей информацией, но на сайте OCL 2000 говорится, что такая встреча была.
+* OCL 1998 (Нидерланды, Амстердам)
+** Meeting of the Amsterdam Group on OCL Development
+** [http://web.archive.org/web/20050327085952/http://www.trireme.com/amsterdam/19981112mtg.htm Архив сайта]
+** Одна из рабочих групп, ставшая предшественником серии при [[MoDELS|UML/MoDELS]].
+
+== Ссылки ==
+* [http://en.wikipedia.org/wiki/Object_Constraint_Language OCL] в английской Википедии
+* [http://www-st.inf.tu-dresden.de/ocl/ OCL Portal]

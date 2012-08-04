@@ -83,16 +83,33 @@ if __name__ == '__main__':
 	for year in sorted(byyear.keys()):
 		y = []
 		f.write('\n; [[%s]]\n: ' % year)
-		g = open(year+'.wiki','w')
-		g.write('Конференции, проведённые в %s году:\n' % year)
-		for c in sorted(byyear[year],key=lambda x:x[1].lower()):
-			if c[0]==c[1]:
-				g.write('* [[%s]]\n' % c[0])
-				y.append('[[%s]]' % c[0])
+		g = open(year+'.wiki','r')
+		csold = []
+		for c in filter(lambda x:x.startswith('* '),map(lambda x:x.strip(),g.readlines())):
+			a = c.split('[[')[1].split(']]')[0].split('|')
+			if len(a)==1:
+				csold.append((a[0],a[0]))
 			else:
-				g.write('* [[%s|%s]]\n' % c)
-				y.append('[[%s|%s]]' % c)
+				csold.append((a[0],a[1]))
+		g.close()
+		csnew = sorted(byyear[year],key=lambda x:x[1].lower())
+		if csnew == csold:
+			print 'Year %s is unchanged.' % year
+		else:
+			csupd = []
+			g = open(year+'.wiki','w')
+			g.write('Конференции, проведённые в %s году:\n' % year)
+			for c in csnew:
+				if c not in csold:
+					csupd.append(c[0])
+				if c[0]==c[1]:
+					g.write('* [[%s]]\n' % c[0])
+					y.append('[[%s]]' % c[0])
+				else:
+					g.write('* [[%s|%s]]\n' % c)
+					y.append('[[%s|%s]]' % c)
+			sign(g)
+			print 'Year %s is updated with %s.' % (year,', '.join(csupd))
 		f.write(' • '.join(y))
-		sign(g)
 	sign(f)
 	print 'Done, %i venues done, %i yet to go.' % (cx1, cx2)

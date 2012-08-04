@@ -1,0 +1,17 @@
+* Название: '''Experiences and Empirical Studies in Software Modelling'''
+* Перевод: '''Опыт моделирования и эмпирические исследования моделирования программного обеспечения'''
+* Статус: [[Workshop|рабочая встреча]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* EESSMod 2012 (Австрия, Иннсбрук)
+** [http://www.eesmod.org/ Сайт]
+** Совместно с: [[MoDELS]]
+* EESSMod 2011 (Новая Зеландия, Веллингтон)
+** [http://dblp.uni-trier.de/db/conf/models/eessmod2011.html DBLP] • [http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=17044 CfP] • [http://dl.dropbox.com/u/12330750/EESSMod%202011%20-%20Proceedings.pdf Сборник трудов]
+** Совместно с: [[MoDELS]]
+
+== Ссылки ==
+* 
