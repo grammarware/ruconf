@@ -1,0 +1,109 @@
+* Название: '''European Conference on Object-Oriented Programming'''
+* Перевод: '''Европейская конференция по объектно-ориентированному программированию'''
+* Статус: [[International-Conference|международная конференция]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* ECOOP 2013 (Франция, Монпелье)
+** 27th European Conference on Object-Oriented Programming
+* ECOOP 2012 (Китай, Пекин)
+** 26th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2012.html DBLP] • [http://ecoop12.cs.purdue.edu/ Site]
+** Совместно с: [[PLDI]], [[LCTES]], [[ISMM]]
+* ECOOP 2011 (Англия, Ланкастер)
+** 25th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2011.html DBLP] • [http://scc-sentinel.lancs.ac.uk/ecoop11/ Site]
+* ECOOP 2010 (Словения, Марибор)
+** 24th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2010.html DBLP] • [http://ecoop2010.uni-mb.si/ Site]
+** Совместно с: [[FSM]], [[FML]], [[ETOOS]], [[COP]], [[FTfJP]], [[ICOOOLPS]], [[ELW]], [[MASPEGHI]], [[RAM-SE]]
+* ECOOP 2009 (Италия, Генуя)
+** 23rd European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2009.html DBLP] • [http://ecoop09.disi.unige.it/ Site]
+** Совместно с: [[ELW]], [[ICOOOLPS]], [[STOP]], [[FTfJP]], [[COP]], [[DO21]], [[XOODB]], [[POOSC]], [[RAOOL]], [[IWACO]], [[RAM-SE]]
+* ECOOP 2008 (Кипр, Пафос)
+** 22nd European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2008.html DBLP] • [http://ecoop08.cs.ucy.ac.cy/ Site]
+** Совместно с: [[DLS]], [[IWACO]], [[MPOOL]], [[RAM-SE]], [[ELW]], [[ICOOOLPS]], [[FTfJP]], [[WASDeTT]], [[POOSC]], [[ADI]], [[EOOLT]], [[QAOOSE]]
+* ECOOP 2007 (Германия, Берлин)
+** 21st European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2007.html DBLP] • [http://ecoop07.swt.cs.tu-berlin.de/ Site]
+** Совместно с: [[M-ADAPT]], [[ADI]], [[WOOR]], [[EOOLT]], [[ELW]], [[Roles]], [[OT4AmI]], [[ICOOOLPS]], [[IWACO]]
+* ECOOP 2006 (Франция, Нант)
+** 20th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2006.html DBLP] • [http://www.emn.fr/z-info/ecoop2006/ Site]
+** Совместно с: [[ACE]], [[ADI]], [[DSPD]], [[ELW]], [[Fractal]], [[ICOOOLPS]], [[MA]], [[POOSC]], [[QAOOSE]], [[RDL]], [[TLOOC]], [[WCOP]], [[FTfJP]], [[OT4AmI]], [[PASSWORD]], [[RAM-SE]], [[TEAM]], [[WCAT]], [[WOOR]], [[eTX]]
+* ECOOP 2005 (Шотландия, Глазго)
+** 19th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2005.html DBLP] • [http://www.dcs.gla.ac.uk/research/conference/ecoop2005/ Site]
+** Совместно с: [[EHOOS]], [[WCAT]], [[MOS]], [[QAOOSE]], [[OT4AmI]], [[POOSC]], [[RAM-SE]], [[WCOP]], [[VAR]], [[WOOR]], [[PPPL]], [[ACE]], [[BSUP]], [[FTfJP]], [[MA]], [[PLOS]]
+* ECOOP 2004 (Норвегия, Осло)
+** 18th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2004.html DBLP]
+** Совместно с: [[EOOWS]], [[PPPL]], [[QAOOSE]], [[Post-Java]], [[POIS]], [[CADS]], [[FTfJP]], [[COA-CAC]], [[MPOOL]], [[MASPEGHI]], [[RAM-SE]], [[WCAT]], [[WMDD]], [[IES]], [[WCOP]], [[MOS]], [[PLOS]], [[OOR]], [[ERLS]]
+* ECOOP 2003 (Германия, Дармштадт)
+** 17th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2003.html DBLP] • [http://www.st.informatik.tu-darmstadt.de:8080/ecoop/ Site]
+** Совместно с: [[EHOOS]], [[POOSC]], [[CADS]], [[.NET]], [[WCOP]], [[FTfJP]], [[WOOR]], [[MOS]], [[QAOOSE]], [[CMC]], [[WCL]], [[PTSD]], [[Post-Java]], [[AAOS]], [[MVOOPL]], [[EOOWS]], [[ASARTI]], [[IWACO]]
+* ECOOP 2002 (Испания, Малага)
+** 16th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2002.html DBLP] • [http://ecoop2002.lcc.uma.es/ Site]
+** Совместно с: [[ResMan]], [[GP]], [[IWWOST]], [[WCOP]], [[700DOS|701DOS]], [[USE]], [[WCL]], [[InhWS]], [[MBSR]], [[QAOOSE]], [[MPOOL]], [[KBOOSE]], [[OOOSWS]], [[WITUML]], [[MOS]], [[Redefined]], [[FTfJP]]
+* ECOOP 2001 (Венгрия, Будапешт)
+** 15th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2001.html DBLP] • [http://ecoop2001.inf.elte.hu/ Site]
+** Совместно с: [[QoSDOS]], [[DMMOS]], [[FTfJP]], [[AOOM]], [[AOM MT]], [[SIVOOES]], [[FICS]], [[COP]], [[ASC]], [[MPOOL]], [[GP]], [[OOAE]], [[SCE]], [[MOS]], [[MPP]], [[700DOS]], [[QAOOSE]], [[MEI]], [[ECOOSE]], [[WOOBS]], [[OOOSWS]]
+* ECOOP 2000 (Франция, София Антиполис и Канны)
+** 14th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2000.html DBLP] • [http://users.polytech.unice.fr/~jpr/www-ecoop2000/ Site] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t1850.htm Proc]
+** Совместно с: [[RMA]], [[EHOOS]], [[OOOSWS]], [[FTfJP]], [[COP]], [[OPT]], [[DOPP]], [[TEUOOC]], [[QAOOSE]], [[IWME]], [[MAOMPM]], [[DPS UML]], [[OrgPatterns]], [[OC]], [[OOAE]], [[SIVOOES]], [[QoSDOS]], [[XOT]], [[ADC]], [[PCS]], [[MOS]], [[WOI]]
+* ECOOP 1999 (Португалия, Лиссабон)
+** 13th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop99.html DBLP] • [http://ecoop99.di.fc.ul.pt/ Site] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t1628.htm Proc]
+** Совместно с: [[WOI]], [[OOOSWS]], [[UML FAQ]], [[OOAE]], [[MOOE]], [[FTfJP]], [[IWAAOS]], [[EOOR]], [[COP]], [[OTPLA]], [[OODBWS]], [[POOSC]], [[IHFUCOOM]], [[COTICWS]], [[WISDOM]], [[AOP]], [[WSOP]], [[QAOOSE]], [[IOODP]]
+* ECOOP 1998 (Бельгия, Брюссель)
+** 12th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop98.html DBLP] • [http://ecoop98.vub.ac.be/ Site] • [http://ecoop98.vub.ac.be/workshops.html Workshops] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t1445.htm Proc]
+* ECOOP 1997 (Финляндия, Ювяскюля)
+** 11th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop97.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t1241.htm Proc]
+* ECOOP 1996 (Австрия, Линц)
+** 10th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop96.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t1098.htm Proc]
+* ECOOP 1995 (Дания, Орхус)
+** 9th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop95.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t0952.htm Proc]
+* ECOOP 1994 (Италия, Болонья)
+** 8th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop94.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t0821.htm Proc]
+* ECOOP 1993 (Германия, Кайзерслаутерн)
+** 7th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop93.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t0707.htm Proc]
+* ECOOP 1992 (Нидерланды, Утрехт)
+** 6th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop92.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t0615.htm Proc]
+* ECOOP 1991 (Швейцария, Женева)
+** 5th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop91.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t0512.htm Proc]
+* ECOOP/OOPSLA 1990 (Канада, Оттава)
+** 4th European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/oopsla/oopsla90.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/tec90.htm Proc]
+* Совместно с: [[SPLASH|OOPSLA]]
+* ECOOP 1989 (Англия, Ноттингем)
+** 3rd European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop89.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/tec89.htm Proc]
+* ECOOP 1988 (Норвегия, Осло)
+** 2nd European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop88.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t0322.htm Proc]
+* ECOOP 1987 (Франция, Париж)
+** 1st European Conference on Object-Oriented Programming
+** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop87.html DBLP] • [http://www.ifs.uni-linz.ac.at/~ecoop/cd/tocs/t0276.htm Proc]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/ecoop/ ECOOP] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/662/ ECOOP] на [[Academic]]
+* [http://www.ecoop.org/ ECOOP.org] — официальный сайт серии
+* [http://www.ifs.uni-linz.ac.at/~ecoop/cd/start.htm Все сборники трудов конференций с 1987 по 2000 годы]
+* [http://www.ifs.uni-linz.ac.at/~ecoop/cd/html/authind.htm Список публиковавшихся авторов]
