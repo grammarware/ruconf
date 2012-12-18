@@ -6,31 +6,31 @@
 * …
 
 == Архив ==
-* MRT 2012 (Австрия, Иннсбрук)
+* MRT [[2012]] (Австрия, Иннсбрук)
 ** 7th International Workshop on Models@run.time
 ** [http://www.comp.lancs.ac.uk/~bencomo/MRT12/ Сайт]
 ** Совместно с: [[MoDELS]]
-* MRT 2011 (Новая Зеландия, Веллингтон)
+* MRT [[2011]] (Новая Зеландия, Веллингтон)
 ** 6th international workshop models@run.time
 ** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP] • [http://www.comp.lancs.ac.uk/~bencomo/MRT11/ Сайт] • [http://ceur-ws.org/Vol-794 Сборник трудов]
 ** Совместно с: [[MoDELS]]
-* MRT 2010 (Норвегия, Осло)
+* MRT [[2010]] (Норвегия, Осло)
 ** 5th international workshop models@run.time
 ** [http://dblp.uni-trier.de/db/conf/models/models2010w.html DBLP] • [http://www.comp.lancs.ac.uk/~bencomo/MRT10/ Сайт] • [http://ceur-ws.org/Vol-641 Сборник трудов]
 ** Совместно с: [[MoDELS]]
-* MRT 2009 (США, Денвер)
+* MRT [[2009]] (США, Денвер)
 ** 4th International Workshop Models@run.time
 ** [http://dblp.uni-trier.de/db/conf/models/models2009w.html DBLP] • [http://www.comp.lancs.ac.uk/~bencomo/MRT09/ Сайт] • [http://www.comp.lancs.ac.uk/~bencomo/MRT09/modelsatruntime09_Summary.pdf Отчёт] • [http://ceur-ws.org/Vol-509 Сборник трудов]
 ** Совместно с: [[MoDELS]]
-* MRT 2008 (Франция, Тулуза)
+* MRT [[2008]] (Франция, Тулуза)
 ** 3rd International workshop Models@run.time
 ** [http://dblp.uni-trier.de/db/conf/models/models2008w.html DBLP] • [http://www.comp.lancs.ac.uk/~bencomo/MRT08/ Сайт] • [http://www.comp.lancs.ac.uk/~bencomo/MRT08/modelsatruntime08_Summary.pdf Отчёт] • [http://www.comp.lancs.ac.uk/~bencomo/MRT08/MRT2008Proceedings.pdf Сборник трудов]
 ** Совместно с: [[MoDELS]]
-* MRT 2007 (США, Нашвилл)
+* MRT [[2007]] (США, Нашвилл)
 ** 2nd International Workshop on Models@run.time
 ** [http://dblp.uni-trier.de/db/conf/models/models2007w.html DBLP] • [http://www.comp.lancs.ac.uk/~bencomo/MRT07/ Сайт] • [http://www.comp.lancs.ac.uk/~bencomo/MRT07/modelsatruntime07Final.pdf Отчёт]
 ** Совместно с: [[MoDELS]]
-* MRT 2006 (Италия, Генуя)
+* MRT [[2006]] (Италия, Генуя)
 ** Model@run.time
 ** [http://dblp.uni-trier.de/db/conf/models/models2006w.html DBLP] • [http://www.comp.lancs.ac.uk/~bencomo/MRT06/ Сайт] • [http://www.comp.lancs.ac.uk/computing/users/bencomo/MART06/modelsatruntimeSummary.pdf Отчёт]
 ** Совместно с: [[MoDELS]]

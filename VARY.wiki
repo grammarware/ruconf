@@ -16,11 +16,11 @@
 * Выполнение и динамические свойства моделей изменчивости
 
 == Архив ==
-* VARY 2012 (Австрия, Иннсбрук)
+* VARY [[2012]] (Австрия, Иннсбрук)
 ** VARiability for You
 ** [http://vary2012.irisa.fr/ Сайт]
 ** Как часть: [[MoDELS]]
-* MPM 2011 (Новая Зеландия, Веллингтон)
+* MPM [[2011]] (Новая Зеландия, Веллингтон)
 ** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP] • [http://vary2011.irisa.fr/ Сайт] • [http://itu.dk/en/Forskning/Technical-Reports/2011/TR-2011-144 Сборник трудов]
 ** Как часть: [[MoDELS]]
 

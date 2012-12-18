@@ -6,31 +6,31 @@
 * …
 
 == Архив ==
-* ME 2012 (Австрия, Иннсбрук)
+* ME [[2012]] (Австрия, Иннсбрук)
 ** Models and Evolution
 ** [http://www.models-and-evolution.com/ Сайт]
 ** Совместно с: [[MoDELS]]
-* ME 2011 (Новая Зеландия, Веллингтон)
+* ME [[2011]] (Новая Зеландия, Веллингтон)
 ** Models and Evolution
 ** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP] • [http://www.di.univaq.it/ME2011/ Сайт]
 ** Совместно с: [[MoDELS]]
-* ME 2010 (Норвегия, Осло)
+* ME [[2010]] (Норвегия, Осло)
 ** International Workshop on Models and Evolution
 ** [http://dblp.uni-trier.de/db/conf/models/models2010w.html DBLP] • [http://www.modse.fr/doku.php Сайт]
 ** Совместно с: [[MoDELS]]
-* MoDSE/MCCM 2009 (США, Денвер)
-** Joint MoDSE-MCCM 2009 Workshop
+* MoDSE/MCCM [[2009]] (США, Денвер)
+** Joint MoDSE-MCCM [[2009]] Workshop
 ** [http://dblp.uni-trier.de/db/conf/models/models2009w.html DBLP] • [http://www.modse.fr/modsemccm09/doku.php Сайт]
 ** Совместно с: [[MoDELS]]
-* MCCM 2008 (Франция, Тулуза)
+* MCCM [[2008]] (Франция, Тулуза)
 ** 1st International Workshop on Model Co-Evolution and Consistency Management
 ** [http://dblp.uni-trier.de/db/conf/models/models2008w.html DBLP] • [http://www.info.fundp.ac.be/mccm/2008/ Сайт]
 ** Совместно с: [[MoDELS]]
-* MoDSE 2008 (Греция, Афины)
+* MoDSE [[2008]] (Греция, Афины)
 ** 2nd Workshop on Model-Driven Software Evolution
 ** [http://www.lina.sciences.univ-nantes.fr/conf/MoDSE2008/index.html Сайт]
 ** Совместно с: [[CSMR]]
-* MoDSE 2007 (Нидерланды, Амстердам)
+* MoDSE [[2007]] (Нидерланды, Амстердам)
 ** Workshop on Model-Driven Software Evolution
 ** [http://www.sciences.univ-nantes.fr/MoDSE2007/ Сайт]
 ** Совместно с: [[CSMR]]

@@ -13,7 +13,7 @@
 * Обмен моделями и взаимодействие моделей между технологическими областями
 
 == Архив ==
-* MotPW 2012 (Австрия, Иннсбрук)
+* MotPW [[2012]] (Австрия, Иннсбрук)
 ** Modelling of the Physical World Workshop
 ** [https://sites.google.com/site/motpw2012/ Сайт]
 ** Совместно с: [[MoDELS]]

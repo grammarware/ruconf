@@ -6,7 +6,7 @@
 * …
 
 == Архив ==
-* MDHPCL 2012 (Австрия, Иннсбрук)
+* MDHPCL [[2012]] (Австрия, Иннсбрук)
 ** 1st International Workshop on Model-Driven Engineering for High Performance and CLoud computing
 ** [http://www.irit.fr/MDHPCL2012/MDHPCL2012/Home.html Сайт]
 ** Совместно с: [[MoDELS]]

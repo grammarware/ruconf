@@ -6,19 +6,19 @@
 * …
 
 == Архив ==
-* FOSD 2012 (Германия, Дрезден)
+* FOSD [[2012]] (Германия, Дрезден)
 ** 4th International Workshop on Feature-Oriented Software Development
 ** [http://planet-sl.org/fosd2012 Сайт]
 ** Совместно с: [[SLE]], [[GPCE]], [[ITSLE]]
-* FOSD 2011 (Германия, Мюнхен)
+* FOSD [[2011]] (Германия, Мюнхен)
 ** 3rd International Workshop on Feature-Oriented Software Development
 ** [http://www.informatik.uni-trier.de/~ley/db/conf/splc/splc2011w.html DBLP] • [http://wwwiti.cs.uni-magdeburg.de/iti_db/workshops/FOSD11/ Сайт]
 ** Совместно с: [[SPLC]], [[SCArVeS]], [[MAPLE]]/[[SCALE]], [[FMSPLE]], [[KOPLE]], [[QMSPLE]], [[DSPL]]
-* FOSD 2010 (Нидерланды, Эйндховен)
+* FOSD [[2010]] (Нидерланды, Эйндховен)
 ** 2nd International Workshop on Feature-Oriented Software Development
 ** [http://www.informatik.uni-trier.de/~ley/db/conf/gpce/fosd2010.html DBLP] • [http://www.fosd.de/2010 Сайт]
 ** Совместно с: [[GPCE]], [[SLE]]
-* FOSD 2009 (США, Денвер)
+* FOSD [[2009]] (США, Денвер)
 ** 1nd International Workshop on Feature-Oriented Software Development
 ** [http://www.informatik.uni-trier.de/~ley/db/conf/models/fosd2009.html DBLP] • [http://www.infosun.fim.uni-passau.de/spl/apel/FOSD2009/ Сайт]
 ** Совместно с: [[MoDELS]], [[GPCE]], [[SLE]], [[ACES MB]], [[AOM]], [[MODSE]], [[MCCM]], [[MRT]], [[MoDeVVa]], [[MPM]], [[NFPinDSML]], [[OCL]], [[TWOMDE]]

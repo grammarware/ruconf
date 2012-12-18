@@ -6,63 +6,63 @@
 * …
 
 == Архив ==
-* WCRE 2012 (Канада, Кингстон)
+* WCRE [[2012]] (Канада, Кингстон)
 ** 19th Working Conference on Reverse Engineering
 ** [http://www.distat.unimol.it/wcre2012/ Сайт]
-* WCRE 2011 (Ирландия, Лимерик)
+* WCRE [[2011]] (Ирландия, Лимерик)
 ** 18th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2011.html DBLP] • [http://twitter.com/wcre11 Твиттер] • [http://www.facebook.com/wcre2011 Facebook] • [http://www.cs.wm.edu/semeru/wcre2011/ Сайт] (не работает, архива нет)
-* WCRE 2010 (США, Беверли)
+* WCRE [[2010]] (США, Беверли)
 ** 17th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2010.html DBLP] • [http://web.soccerlab.polymtl.ca/wcre2010/ Сайт]
-* WCRE 2009 (Франция, Лилль)
+* WCRE [[2009]] (Франция, Лилль)
 ** 16th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2009.html DBLP] • [http://web.soccerlab.polymtl.ca/wcre2009/ Сайт]
-* WCRE 2008 (Бельгия, Антверпен)
+* WCRE [[2008]] (Бельгия, Антверпен)
 ** 15th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2008.html DBLP] • [http://swerl.tudelft.nl/wcre2008/ Сайт]
-* WCRE 2007 (Канада, Ванкувер)
+* WCRE [[2007]] (Канада, Ванкувер)
 ** 14th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2007.html DBLP] • [http://www.rcost.unisannio.it/wcre2007/ Сайт]
-* WCRE 2006 (Италия, Беневенто)
+* WCRE [[2006]] (Италия, Беневенто)
 ** 13th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2006.html DBLP] • [http://www.rcost.unisannio.it/wcre2006/ Сайт]
-* WCRE 2005 (США, Питтсбург)
+* WCRE [[2005]] (США, Питтсбург)
 ** 12th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2005.html DBLP] • [http://www.rcost.unisannio.it/wcre2005/ Руины сайта]
 ** Совместно с: [[CoBaSSA]], [[RER]], [[R2PL]], [[PCoDA]]
-* WCRE 2004 (Нидерланды, Дельфт)
+* WCRE [[2004]] (Нидерланды, Дельфт)
 ** 11th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2004.html DBLP] • [http://swerl.tudelft.nl/wcre2004/ Сайт]
-* WCRE 2003 (Канада, Виктория)
+* WCRE [[2003]] (Канада, Виктория)
 ** 10th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2003.html DBLP] • [http://www.reengineer.org/wcre/ Сайт]
-* WCRE 2002 (США, Ричмонд)
+* WCRE [[2002]] (США, Ричмонд)
 ** 9th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2002.html DBLP]
-* WCRE 2001 (Германия, Штутгарт)
+* WCRE [[2001]] (Германия, Штутгарт)
 ** 8th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2001.html DBLP]
-* WCRE 2000 (Австралия, Брисбен)
+* WCRE [[2000]] (Австралия, Брисбен)
 ** 7th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2000.html DBLP]
-* WCRE 1999 (США, Атланта)
+* WCRE [[1999]] (США, Атланта)
 ** 6th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre1999.html DBLP]
-* WCRE 1998 (США, Гонолулу)
+* WCRE [[1998]] (США, Гонолулу)
 ** 5th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre1998.html DBLP]
-* WCRE 1997 (Нидерланды, Амстердам)
+* WCRE [[1997]] (Нидерланды, Амстердам)
 ** 4th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre1997.html DBLP] • [http://www.science.uva.nl/research/WCRE97/reports/index.html Сайт]
-* WCRE 1996 (США, Монтерей)
+* WCRE [[1996]] (США, Монтерей)
 ** 3rd Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre1996.html DBLP] • [http://people.cs.kuleuven.be/~dirk/ada-belgium/events/96/961108-wcre.html Программа]
-* WCRE 1995 (Канада, Торонто)
+* WCRE [[1995]] (Канада, Торонто)
 ** 2nd Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre1995.html DBLP] • [http://www.cc.gatech.edu/conferences/WCRE95/info.html Сайт]
 ** Совместно с: [[CASE]]
-* WCRE 1993 (США, Балтимор)
+* WCRE [[1993]] (США, Балтимор)
 ** 1st Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre1993.html DBLP]
 

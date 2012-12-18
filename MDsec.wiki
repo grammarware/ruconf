@@ -6,7 +6,7 @@
 * …
 
 == Архив ==
-* MDsec 2012 (Австрия, Иннсбрук)
+* MDsec [[2012]] (Австрия, Иннсбрук)
 ** 1st Model-Driven Security Workshop
 ** [http://mdsec2012.pst.ifi.lmu.de/ Сайт]
 ** Совместно с: [[MoDELS]]

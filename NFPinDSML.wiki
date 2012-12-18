@@ -8,19 +8,19 @@
 * Оценка нефункциональных качеств программного обеспечения
 
 == Архив ==
-* NFPinDSML 2012 (Австрия, Иннсбрук)
+* NFPinDSML [[2012]] (Австрия, Иннсбрук)
 ** Fourth International Workshop on Non-functional System Properties in Domain Specific Modeling Languages
 ** [https://nfpindsml.semtech.athabascau.ca/ Сайт] • [http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=23426 CfP]
 ** Совместно с: [[MoDELS]]
-* NFPinDSML 2010 (Норвегия, Осло)
+* NFPinDSML [[2010]] (Норвегия, Осло)
 ** 3rd International Workshop on Non-functional Properties in Domain Specific Languages
 ** [http://dblp.uni-trier.de/db/conf/models/models2010w.html DBLP] • [http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=10451 CfP] • [http://www.artist-embedded.org/artist/Overview,2133.html Сайт]
 ** Совместно с: [[MoDELS]]
-* NFPinDSML 2009 (США, Денвер)
+* NFPinDSML [[2009]] (США, Денвер)
 ** 2nd International Workshop on Non-functional System Properties and Domain Specific Modeling Languages
 ** [http://dblp.uni-trier.de/db/conf/models/models2009w.html DBLP] • [http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=5919 CfP]
 ** Совместно с: [[MoDELS]]
-* NFPinDSML 2008 (Франция, Тулуза)
+* NFPinDSML [[2008]] (Франция, Тулуза)
 ** 1st International Workshop on Non-functional System Properties in Domain Specific Modeling Languages
 ** [http://dblp.uni-trier.de/db/conf/models/models2008w.html DBLP] • [http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=3110 CfP]
 ** Совместно с: [[MoDELS]]

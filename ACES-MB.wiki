@@ -6,23 +6,23 @@
 * …
 
 == Архив ==
-* ACES MB 2012 (Австрия, Иннсбрук)
+* ACES MB [[2012]] (Австрия, Иннсбрук)
 ** 5th International Workshop on Model Based Architecting and Construction of Embedded Systems
 ** [http://emsig.embedded-systems-portal.org/index.php/hosted-events/all/2012/aces-mb-2012/overview/ Сайт]
 ** Совместно с: [[MoDELS]]
-* ACES MB 2011 (Новая Зеландия, Веллингтон)
+* ACES MB [[2011]] (Новая Зеландия, Веллингтон)
 ** 4th International Workshop on Model Based Architecting and Construction of Embedded Systems
 ** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP]
 ** Совместно с: [[MoDELS]]
-* ACES MB 2010 (Норвегия, Осло)
+* ACES MB [[2010]] (Норвегия, Осло)
 ** 3rd International Workshop on Model Based Architecting and Construction of Embedded Systems
 ** [http://dblp.uni-trier.de/db/conf/models/models2010w.html DBLP]
 ** Совместно с: [[MoDELS]]
-* ACES MB 2009 (США, Денвер)
+* ACES MB [[2009]] (США, Денвер)
 ** 2nd International Workshop on Model Based Architecting and Construction of Embedded Systems
 ** [http://dblp.uni-trier.de/db/conf/models/models2009w.html DBLP]
 ** Совместно с: [[MoDELS]]
-* ACES MB 2008 (Франция, Тулуза)
+* ACES MB [[2008]] (Франция, Тулуза)
 ** 1st International Workshop on Model Based Architecting and Construction of Embedded Systems
 ** [http://dblp.uni-trier.de/db/conf/models/models2008w.html DBLP]
 ** Совместно с: [[MoDELS]]

@@ -28,118 +28,118 @@
 ** 34th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://pldi2013.ucombinator.org/ Сайт]
 ** Совместно с [[ISMM]], [[LCTES]], [[PASTE]], [[X10]], [[MSPC]]
-* PLDI 2012 (Китай, Пекин):
+* PLDI [[2012]] (Китай, Пекин):
 ** 33rd ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2012.html DBLP] • [http://pldi12.cs.purdue.edu/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=18676&copyownerid=692 CfP]
 ** Совместно с [[LCTES]], [[ECOOP]], [[ISMM]], [[APPLC]]
-* PLDI 2011 (США, Сан-Хосе)
+* PLDI [[2011]] (США, Сан-Хосе)
 ** 32nd ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2011.html DBLP] • [http://pldi11.cs.utah.edu/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=11254&copyownerid=5598 CfP]
 ** Как часть: [[FCRC]]
-* PLDI 2010 (Канада, Торонто)
+* PLDI [[2010]] (Канада, Торонто)
 ** 31st ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2010.html DBLP] • [http://cs.stanford.edu/pldi10/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=6266&copyownerid=602 CfP]
 ** Совместно с [[ISMM]], [[PASTE]], [[APLWACA]], [[AMP]], [[LFX]], [[PLAS]]
-* PLDI 2009 (Ирландия, Дублин)
+* PLDI [[2009]] (Ирландия, Дублин)
 ** 30th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2009.html DBLP] • [http://www-plan.cs.colorado.edu/~pldi09/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=3264&copyownerid=2 CfP]
 ** Совместно с: [[PLAS]], [[LCTES]], [[ISMM]]
-* PLDI 2008 (США, Тусон)
+* PLDI [[2008]] (США, Тусон)
 ** 29th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2008.html DBLP] • [http://pldi2008.cs.ucr.edu/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=1179&copyownerid=2 CfP]
 ** Совместно с: [[PLAS]], [[SAW]], [[LCTES]], [[ISMM]]
-* PLDI 2007 (США, Сан-Диего)
+* PLDI [[2007]] (США, Сан-Диего)
 ** 28th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2007.html DBLP] • [http://ties.ucsd.edu/PLDI/ Сайт]
 ** Как часть: [[FCRC]]
-* PLDI 2006 (Канада, Оттава)
+* PLDI [[2006]] (Канада, Оттава)
 ** 27th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2006.html DBLP] • [http://research.microsoft.com/en-us/um/redmond/events/pldi06/ Сайт]
 ** Совместно с: [[PLAS]], [[TRANSACT]], [[ISMM]], [[LCTES]], [[VEE]]
-* PLDI 2005 (США, Чикаго)
+* PLDI [[2005]] (США, Чикаго)
 ** 26th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2005.html DBLP] • [http://research.ihost.com/pldi2005/ Сайт]
 ** Совместно с: [[VEE]], [[MSP]], [[Bugs]], [[LCTES]], [[PPoPP]]
-* PLDI 2004 (США, Вашингтон)
+* PLDI [[2004]] (США, Вашингтон)
 ** 25th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2004.html DBLP] • [http://www.cs.umd.edu/~pugh/pldi04/ Сайт]
 ** Совместно с: [[IVME]], [[MSP]], [[PASTE]], [[LCTES]]
 * Юбилейный выпуск лучших статей за двадцать лет (1979–1999), вышел в 2004
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2004best.html DBLP]
-* PLDI 2003 (США, Сан-Диего)
+* PLDI [[2003]] (США, Сан-Диего)
 ** 24th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2003.html DBLP] • [http://www.cs.ucr.edu/~gupta/PLDI2003/ Сайт]
 ** Совместно с: [[PPoPP]], [[LCTES]], [[SAS]], [[PEPM]], [[IVME]]
-* PLDI 2002 (Германия, Берлин)
+* PLDI [[2002]] (Германия, Берлин)
 ** 23rd ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2002.html DBLP] • [http://web.archive.org/web/20070723103736/http://sunshine.cs.uni-dortmund.de/~knoop/PLDI2002/pldi2002_main.html Архив сайта]
 ** Совместно с: [[MSP]], [[CD]], [[ISMM]], [[LCTES]], [[SCOPES]]
-* PLDI 2001 (США, Сноубёрд)
+* PLDI [[2001]] (США, Сноубёрд)
 ** 22nd ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2001.html DBLP]
-* PLDI 2000 (Канада, Ванкувер)
+* PLDI [[2000]] (Канада, Ванкувер)
 ** 21st ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi2000.html DBLP] • [http://suif.stanford.edu/~lam/pldi00/ Программа]
-* PLDI 1999 (США, Атланта)
+* PLDI [[1999]] (США, Атланта)
 ** 20th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi99.html DBLP] • [http://www.cs.rutgers.edu/pldi99/ Сайт]
 ** Как часть: [[FCRC]] ([http://web.archive.org/web/20070811200833/http://www.acm.org/fcrc/fcrc99/index.html Архив])
-* PLDI 1998 (Канада, Монреаль)
+* PLDI [[1998]] (Канада, Монреаль)
 ** 19th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi98.html DBLP]
-* PLDI 1997 (США, Лас-Вегас)
+* PLDI [[1997]] (США, Лас-Вегас)
 ** 18th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi97.html DBLP] • [http://www.cs.bu.edu/pub/pldi97/ Сайт]
 ** Совместно с: [[PPoPP]], [[LCTES|LCT-RTS]]
-* PLDI 1996 (США, Филадельфия)
+* PLDI [[1996]] (США, Филадельфия)
 ** 17th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi96.html DBLP] • [http://pages.cs.wisc.edu/~fischer/pldi96/ Сайт]
 ** Как часть: [[FCRC]]
-* PLDI 1995 (США, Ла-Хойя)
+* PLDI [[1995]] (США, Ла-Хойя)
 ** 16th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi95.html DBLP] • [http://compilers.iecc.com/comparch/article/95-03-065 Программа]
 ** Совместно с: [[PEPM]], [[FPCA]]
-* PLDI 1994 (США, Орландо)
+* PLDI [[1994]] (США, Орландо)
 ** 15th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi94.html DBLP]
-* PLDI 1993 (США, Альбукерке)
+* PLDI [[1993]] (США, Альбукерке)
 ** 14th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi93.html DBLP]
-* PLDI 1992 (США, Сан-Франциско)
+* PLDI [[1992]] (США, Сан-Франциско)
 ** 13th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi92.html DBLP]
-* PLDI 1991 (Канада, Торонто)
+* PLDI [[1991]] (Канада, Торонто)
 ** 12th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi91.html DBLP]
-* PLDI 1990 (США, Уайт-Плейнс)
+* PLDI [[1990]] (США, Уайт-Плейнс)
 ** 11th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi90.html DBLP]
-* PLDI 1989 (США, Портленд)
+* PLDI [[1989]] (США, Портленд)
 ** 10th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi89.html DBLP]
-* PLDI 1988 (США, Атланта)
+* PLDI [[1988]] (США, Атланта)
 ** 9th ACM SIGPLAN Conference on Programming Language Design and Implementation
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi88.html DBLP]
-* PLDI 1987 (США, Сент-Пол)
+* PLDI [[1987]] (США, Сент-Пол)
 ** Symposium on Interpreters and Interpretive Techniques
 ** [http://dblp.uni-trier.de/db/conf/pldi/pldi1987.html DBLP]
-* SCC 1986 (США, Пало-Альто)
+* SCC [[1986]] (США, Пало-Альто)
 ** SIGPLAN Symposium on Compiler Construction
 ** [http://dblp.uni-trier.de/db/conf/sigplan/sigplan1986.html DBLP]
-* SLIPE 1985 (США, Сиэтл)
+* SLIPE [[1985]] (США, Сиэтл)
 ** SIGPLAN Symposium on Language Issues in Programming Environments
-* SCC 1984 (Канада, Монреаль)
+* SCC [[1984]] (Канада, Монреаль)
 ** SIGPLAN Symposium on Compiler Construction
 ** [http://dblp.uni-trier.de/db/conf/sigplan/sigplan1984.html DBLP]
-* SPLISS 1983 (США, Сан-Франциско)
+* SPLISS [[1983]] (США, Сан-Франциско)
 ** SIGPLAN Symposium on Programming Language Issues in Software Systems
-* SСС 1982 (США, Бостон)
+* SСС [[1982]] (США, Бостон)
 ** SIGPLAN Symposium on Compiler Construction
 ** [http://dblp.uni-trier.de/db/conf/sigplan/sigplan82.html DBLP]
-* SCC 1979 (США, Денвер)
+* SCC [[1979]] (США, Денвер)
 ** SIGPLAN Symposium on Compiler Construction
 ** [http://dblp.uni-trier.de/db/conf/sigplan/sigplan1979.html DBLP]
-* SCO 1970 (США, Урбана)
+* SCO [[1970]] (США, Урбана)
 ** SIGPLAN Symposium on Compiler Optimization
 
 == Ссылки ==

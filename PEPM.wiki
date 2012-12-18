@@ -37,106 +37,106 @@
 * Применение вышеперечисленных техник на практике
 
 == Архив ==
-* PEPM 2012 (США, Филадельфия)
-** ACM SIGPLAN 2012 Workshop on Partial Evaluation and Program Manipulation
+* PEPM [[2012]] (США, Филадельфия)
+** ACM SIGPLAN [[2012]] Workshop on Partial Evaluation and Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2012.html DBLP] • [http://web.archive.org/web/20110708050651/http://www.program-transformation.org/PEPM12 Архив сайта]
-* PEPM 2011 (США, Остин)
-* ACM SIGPLAN 2011 Workshop on Partial Evaluation and Program Manipulation, 20th Anniversary Edition
+* PEPM [[2011]] (США, Остин)
+** ACM SIGPLAN [[2011]] Workshop on Partial Evaluation and Program Manipulation, 20th Anniversary Edition
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2011.html DBLP] • [http://web.archive.org/web/20110708050106/http://www.program-transformation.org/PEPM11 Архив сайта]
 ** Совместно с: [[POPL]]
 ** рабочая встреча, 2 дня
-* PEPM 2010 (Испания, Мадрид)
+* PEPM [[2010]] (Испания, Мадрид)
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2010.html DBLP] • [http://web.archive.org/web/20110708050140/http://www.program-transformation.org/PEPM10 Архив сайта] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=6037&copyownerid=2 CfP]
 ** Совместно с: [[POPL]]
 ** рабочая встреча, 2 дня
-* PEPM 2009 (США, Саванна)
+* PEPM [[2009]] (США, Саванна)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2009.html DBLP] • [http://clip.dia.fi.upm.es/Conferences/PEPM09/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=3532&copyownerid=2 CfP]
 ** Совместно с: [[POPL]]
 ** рабочая встреча, 2 дня
-* PEPM 2008 (США, Сан-Франциско)
+* PEPM [[2008]] (США, Сан-Франциско)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2008.html DBLP] • [http://web.archive.org/web/20110707185933/http://www.program-transformation.org/PEPM08 Архив сайта] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=1585&copyownerid=178 CfP]
 ** Совместно с: [[POPL]]
 ** рабочая встреча, 2 дня
-* PEPM 2007 (Франция, Ницца)
+* PEPM [[2007]] (Франция, Ницца)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2007.html DBLP] • [http://web.archive.org/web/20110707183400/http://www.program-transformation.org/PEPM07 Архив сайта]
 ** Совместно с: [[POPL]]
 ** рабочая встреча, 2 дня
-* PEPM 2006 (США, Чарльстон)
+* PEPM [[2006]] (США, Чарльстон)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2006.html DBLP] • [http://santos.cis.ksu.edu/pepm06/ Сайт]
 ** Совместно с: [[POPL]]
 ** симпозиум, 2 дня
-* PEPM 2004 (Италия, Верона)
+* PEPM [[2004]] (Италия, Верона)
 ** ACM SIGPLAN Symposium on Partial Evaluation and Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2004.html DBLP] • [http://profs.sci.univr.it/~pepm04/ Сайт]
 ** Совместно с: [[LOPSTR]], [[PPDP]], [[SAS]]
 ** симпозиум, 2 дня
-* PEPM 2003 (США, Сан-Диего)
-** ACM SIGPLAN 2003 Workshop on Partial Evaluation and Semantics Based Program Manipulation
+* PEPM [[2003]] (США, Сан-Диего)
+** ACM SIGPLAN [[2003]] Workshop on Partial Evaluation and Semantics Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2003.html DBLP] • [http://users.ecs.soton.ac.uk/mal/PEPM03/ CfP]
 ** Как часть [[FCRC]]
 ** рабочая встреча, 1 день
-* ASIA-PEPM 2002 (Япония, Айдзу)
+* ASIA-PEPM [[2002]] (Япония, Айдзу)
 ** ASIAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/asiapepm2002.html DBLP] • [http://web.archive.org/web/20081226161556/http://www.comp.nus.edu.sg/asia-pepm02/ Архив сайта] • [http://takeichi.ipl-lab.org/FLOPS2002/CFP/index.html CfP]
 ** Совместно с: [[FLOPS]]
 ** симпозиум, 3 дня
-* PEPM 2002 (США, Портленд)
+* PEPM [[2002]] (США, Портленд)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2002.html DBLP] • [http://www.informatik.uni-freiburg.de/~thiemann/pepm02/ Сайт]
 ** Совместно с: [[POPL]]
 ** рабочая встреча, 2 дня
-* PEPM 2000 (США, Бостон)
+* PEPM [[2000]] (США, Бостон)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm2000.html DBLP]
 ** рабочая встреча, 2 дня
-* PEPTD 1999 (Япония, Токио)
+* PEPTD [[1999]] (Япония, Токио)
 ** Partial Evaluation and Program Transformation Day 1999
 ** [http://www.springerlink.com/content/g10702542k5ph564/ Труды]
 ** коллоквиум, 1 день
-* PEPM 1999 (США, Сан-Антонио)
+* PEPM [[1999]] (США, Сан-Антонио)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm1999.html DBLP] • [http://www.daimi.au.dk/~pepm99/ Сайт]
 ** Совместно с: [[POPL]]
 ** рабочая встреча, 2 дня
-* DIKU PE 1998 (Дания, Копенгаген)
-** Partial Evaluation - Practice and Theory, DIKU 1998 International Summer School
+* DIKU PE [[1998]] (Дания, Копенгаген)
+** Partial Evaluation - Practice and Theory, DIKU [[1998]] International Summer School
 ** [http://web.archive.org/web/20080517120656/http://partial-eval.org/events/pe1998.html Архив сайта]
 ** летняя школа, 12 дней
-* PEPM 1997 (Нидерланды, Амстердам)
+* PEPM [[1997]] (Нидерланды, Амстердам)
 ** ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm97.html DBLP]
 ** симпозиум, 2 дня
-* PE 1996 (Германия, Дагштуль)
+* PE [[1996]] (Германия, Дагштуль)
 ** Dagstuhl Meeting on Partial Evaluation: Dagstuhl Castle, Germany; 5 day seminar.
 ** [http://www.dagstuhl.de/9607 Сайт]
 ** Как часть: [[Dagstuhl]]
 ** семинар, 5 дней
-* PEPM 1995 (США, Ла-Хойя)
+* PEPM [[1995]] (США, Ла-Хойя)
 ** ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm95.html DBLP]
 ** симпозиум, 3 дня
-* PEPM 1994 (США, Орландо)
+* PEPM [[1994]] (США, Орландо)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm94.html DBLP]
 ** Совместно с: [[PEPM]], [[LFP]]
 ** рабочая встреча, 1 день
-* PEPM 1993 (Дания, Копенгаген)
+* PEPM [[1993]] (Дания, Копенгаген)
 ** ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm93.html DBLP]
 ** симпозиум, 3 дня
-* PEPM 1992 (США, Сан-Франциско)
+* PEPM [[1992]] (США, Сан-Франциско)
 ** ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm92.html DBLP]
 ** рабочая встреча, 3 дня
-* PEPM 1991 (США, Нью-Хейвен)
+* PEPM [[1991]] (США, Нью-Хейвен)
 ** Symposium on Partial Evaluation and Semantics-Based Program Manipulation
 ** [http://dblp.uni-trier.de/db/conf/pepm/pepm91.html DBLP]
 ** симпозиум, 3 дня
-* WPEMC 1987 (Дания, Gammel Avernæs)
+* WPEMC [[1987]] (Дания, Gammel Avernæs)
 ** Workshop on Partial Evaluation and Mixed Computation
 ** рабочая встреча, 5 дней
 
