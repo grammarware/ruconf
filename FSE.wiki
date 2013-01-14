@@ -94,3 +94,4 @@
 
 == Ссылки ==
 * [http://dblp.uni-trier.de/db/conf/sigsoft/ FSE] на [[DBLP]]
+* @[http://twitter.com/esecfse ESECFSE] в [[Twitter]]

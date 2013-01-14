@@ -53,8 +53,8 @@ if __name__ == '__main__':
 	refd.sort()
 	f = open('TODO.wiki','w')
 	g = open('All.wiki','w')
-	f.write('Статьи, требующие создания:\n\n')
-	g.write('Вики уже содержит следующие статьи:\n\n')
+	f.write('Статьи, требующие создания (%i):\n\n' % len(filter(lambda x:x not in found,refd)))
+	g.write('Вики уже содержит следующие статьи (%i):\n\n' % len(filter(lambda n:n not in ('All','Home','Years','TODO') and n not in listnames.values() and not n.isdigit(),found)))
 	cx1 = cx2 = 0
 	for n in refd:
 		if n not in found:

@@ -46,6 +46,7 @@
 ** Совместно с: [[MoDELS]]
 * ATEM [[2007]] (США, Нашвилл)
 ** «Рабочая встреча по метамоделям, схемам, грамматикам и онтологиям в обратной разработке» — один из основных предшественников конференций SLE
+** Название «ATEM» — это «META» наоборот, так как изначально встреча планировалась по применению ''мета''моделей в ''обратной'' разработке
 ** 4th International Workshop on Software Language Engineering: Engineering of Metamodels, Schemas, Grammars and Onthologies
 ** [http://www.megaplanet.org/atem2007/ Сайт] • [http://web.archive.org/web/20090316063623/http://models2007.isis.vanderbilt.edu/workshops.html#w2 Архив описания]
 ** Совместно с: [[MoDELS]]

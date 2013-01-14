@@ -64,4 +64,5 @@
 
 == Ссылки ==
 * [http://dblp.uni-trier.de/db/conf/esec/ ESEC] на [[DBLP]]
+* @[http://twitter.com/esecfse ESECFSE] в [[Twitter]]
 * [http://academic.research.microsoft.com/Conference/682/ ESEC] на [[Academic]]
