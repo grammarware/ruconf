@@ -11,12 +11,12 @@
 * [[MoDELS]]
 * [[MoDeVVa]]
 * [[MPM]]
-* [[VARY|MPM]]
 * [[MRT]]
 * [[OCL]]
 * [[PEPM]]
 * [[PLDI]]
 * [[SLE]]
+* [[VARY]]
 * [[WCRE]]
 
 ----

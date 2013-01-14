@@ -1,71 +1,71 @@
 Конференции по годам:
 ; [[1970]]
-: 
+: [[PLDI|SCO]]
 ; [[1979]]
-: 
+: [[PLDI|SCC]]
 ; [[1982]]
-: 
+: [[PLDI|SСС]]
 ; [[1983]]
-: 
+: [[PLDI|SPLISS]]
 ; [[1984]]
-: 
+: [[PLDI|SCC]]
 ; [[1985]]
-: 
+: [[PLDI|SLIPE]]
 ; [[1986]]
-: 
+: [[PLDI|SCC]]
 ; [[1987]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[PLDI]] • [[PEPM|WPEMC]]
 ; [[1988]]
-: 
+: [[ECOOP]] • [[PLDI]]
 ; [[1989]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[PLDI]]
 ; [[1990]]
-: 
+: [[ECOOP|ECOOP/OOPSLA]] • [[PLDI]]
 ; [[1991]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[PEPM]] • [[PLDI]]
 ; [[1992]]
-: 
+: [[ECOOP]] • [[PEPM]] • [[PLDI]]
 ; [[1993]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[FSE]] • [[PEPM]] • [[PLDI]] • [[WCRE]]
 ; [[1994]]
-: 
+: [[ECOOP]] • [[FSE]] • [[PEPM]] • [[PLDI]]
 ; [[1995]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[FSE]] • [[PEPM]] • [[PLDI]] • [[WCRE]]
 ; [[1996]]
-: 
+: [[ECOOP]] • [[FSE]] • [[PEPM|PE]] • [[PLDI]] • [[WCRE]]
 ; [[1997]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[FSE]] • [[PEPM]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]]
 ; [[1998]]
-: 
+: [[PEPM|DIKU PE]] • [[ECOOP]] • [[FSE]] • [[OCL]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]]
 ; [[1999]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[FSE]] • [[IFM]] • [[OCL]] • [[PEPM]] • [[PEPM|PEPTD]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]]
 ; [[2000]]
-: 
+: [[ECOOP]] • [[FSE]] • [[IFM]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]] • [[XM|XPM]]
 ; [[2001]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[FSE]] • [[OCL]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]]
 ; [[2002]]
-: 
+: [[PEPM|ASIA-PEPM]] • [[ECOOP]] • [[FSE]] • [[IFM]] • [[PEPM]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]]
 ; [[2003]]
-: 
+: [[SLE|ATEM]] • [[ECOOP]] • [[ESEC]] • [[FSE]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]]
 ; [[2004]]
-: 
+: [[SLE|ATEM]] • [[ECOOP]] • [[FSE]] • [[IFM]] • [[MoDeVVa|MoDeVA]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[MoDELS|UML]] • [[WCRE]]
 ; [[2005]]
-: 
+: [[ECOOP]] • [[ESEC]] • [[FSE]] • [[GTTSE]] • [[IFM]] • [[MoDELS]] • [[MoDeVVa|MoDeVA]] • [[OCL]] • [[PLDI]] • [[WCRE]]
 ; [[2006]]
-: 
+: [[SLE|ATEM]] • [[ECOOP]] • [[FSE]] • [[MoDELS]] • [[MoDeVVa|MoDeV2a]] • [[MPM]] • [[MRT]] • [[OCL|OCLApps]] • [[PEPM]] • [[PLDI]] • [[WCRE]]
 ; [[2007]]
-: 
+: [[SLE|ATEM]] • [[ECOOP]] • [[ESEC]] • [[FSE]] • [[GTTSE]] • [[IFM]] • [[MoDELS]] • [[MoDeVVa]] • [[ME|MoDSE]] • [[MPM]] • [[MRT]] • [[OCL|OCL4All]] • [[PEPM]] • [[PLDI]] • [[WCRE]]
 ; [[2008]]
-: 
+: [[ACES-MB|ACES MB]] • [[ECOOP]] • [[FSE]] • [[ME|MCCM]] • [[MoDELS]] • [[MoDeVVa]] • [[ME|MoDSE]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[SLE]] • [[WCRE]]
 ; [[2009]]
-: 
+: [[ACES-MB|ACES MB]] • [[ECOOP]] • [[ESEC]] • [[FOSD]] • [[FSE]] • [[GTTSE]] • [[IFM]] • [[MoDELS]] • [[MoDeVVa]] • [[ME|MoDSE/MCCM]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[SLE]] • [[WCRE]]
 ; [[2010]]
-: 
+: [[ACES-MB|ACES MB]] • [[ECOOP]] • [[FOSD]] • [[FSE]] • [[IFM]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[SLE]] • [[WCRE]]
 ; [[2011]]
-: 
+: [[ACES-MB|ACES MB]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[FOSD]] • [[FSE]] • [[GTTSE]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[SLE]] • [[VARY]] • [[WCRE]]
 ; [[2012]]
-: 
+: [[ACES-MB|ACES MB]] • [[AMT]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[FOSD]] • [[FSE]] • [[IFM]] • [[MDHPCL]] • [[MDsec]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MotPW]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[SLE]] • [[VARY]] • [[WCRE]] • [[XM]]
 ; [[2013]]
-: 
+: [[ECOOP]] • [[IFM]] • [[MoDELS]] • [[PLDI]] • [[SLE]]
 ----
 — ''Список обновлён 2013-01-14''

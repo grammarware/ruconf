@@ -1,4 +1,4 @@
-Статьи, требующие создания (342):
+Статьи, требующие создания (344):
 
 * '''[[.NET]]''' (⇐ [[ECOOP]])
 * '''[[700DOS]]''' (⇐ [[ECOOP]])
@@ -55,6 +55,7 @@
 * '''[[ConcurrencyUML]]''' (⇐ [[MoDELS]])
 * '''[[ConsistencyUML]]''' (⇐ [[MoDELS]])
 * '''[[ConstraintUML]]''' (⇐ [[MoDELS]])
+* '''[[CyberChair]]''' (⇐ [[ECOOP]], [[Home]], [[MoDELS]])
 * '''[[DAC]]''' (⇐ [[Home]])
 * '''[[DATE]]''' (⇐ [[Home]])
 * '''[[DBLP]]''' (⇐ [[ECOOP]], [[ESEC]], [[FSE]], [[GTTSE]], [[Home]], [[IFM]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[SLE]], [[WCRE]])
@@ -88,6 +89,7 @@
 * '''[[EUROSYS]]''' (⇐ [[Home]])
 * '''[[EVOL]]''' (⇐ [[ESEC]], [[FSE]])
 * '''[[EWSPT]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[Easychair]]''' (⇐ [[GTTSE]], [[Home]], [[IFM]], [[SLE]])
 * '''[[FCRC]]''' (⇐ [[PEPM]], [[PLDI]])
 * '''[[FICS]]''' (⇐ [[ECOOP]])
 * '''[[FLOPS]]''' (⇐ [[PEPM]])
@@ -170,6 +172,7 @@
 * '''[[LFP]]''' (⇐ [[PEPM]])
 * '''[[LFX]]''' (⇐ [[PLDI]])
 * '''[[LICS]]''' (⇐ [[Home]])
+* '''[[LNCS]]''' (⇐ [[ECOOP]], [[GTTSE]], [[IFM]], [[MoDELS]], [[SLE]])
 * '''[[LOPSTR]]''' (⇐ [[PEPM]])
 * '''[[LinkedIn]]''' (⇐ [[Home]])
 * '''[[M-ADAPT]]''' (⇐ [[ECOOP]])
@@ -294,7 +297,6 @@
 * '''[[SYANCO]]''' (⇐ [[ESEC]], [[FSE]])
 * '''[[SenSys]]''' (⇐ [[Home]])
 * '''[[SoSEA]]''' (⇐ [[ESEC]], [[FSE]])
-* '''[[Summer-school]]''' (⇐ [[Home]])
 * '''[[TACAS]]''' (⇐ [[Home]])
 * '''[[TASE]]''' (⇐ [[Home]])
 * '''[[TEAM]]''' (⇐ [[ECOOP]])

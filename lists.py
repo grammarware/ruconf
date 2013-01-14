@@ -102,6 +102,11 @@ if __name__ == '__main__':
 		csnew = sorted(byyear[year],key=lambda x:x[1].lower())
 		if csnew == csold:
 			print 'Year %s is unchanged.' % year
+			for c in csold:
+				if c[0]==c[1]:
+					y.append('[[%s]]' % c[0])
+				else:
+					y.append('[[%s|%s]]' % c)
 		else:
 			# print 'OLD:',csold,'\nNEW:',csnew
 			csupd = []
