@@ -2,12 +2,19 @@
 * Перевод: '''Европейская конференция по объектно-ориентированному программированию'''
 * Статус: [[International-Conference|международная конференция]]
 
+== Детали ==
+* Анонимное рецензирование (рецензентам видны авторы, авторам виден только список всех рецензентов)
+* Стиль оформления — [[LNCS]] (одна колонка, большие поля)
+* Предельный объём — 25 страниц
+* Система подачи и обработки статей — [[CyberChair]]
+
 == Тематика ==
 * …
 
 == Архив ==
 * ECOOP 2013 (Франция, Монпелье)
 ** 27th European Conference on Object-Oriented Programming
+** [http://www.lirmm.fr/ecoop13/ Сайт]
 * ECOOP [[2012]] (Китай, Пекин)
 ** 26th European Conference on Object-Oriented Programming
 ** [http://dblp.uni-trier.de/db/conf/ecoop/ecoop2012.html DBLP] • [http://ecoop12.cs.purdue.edu/ Site]
