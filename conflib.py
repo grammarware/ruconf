@@ -74,6 +74,9 @@ def namerus(s):
 	else:
 		return 'ERROR'
 
-def sign(f):
-	f.write("\n--''Список обновлён %s''\n" % str(datetime.datetime.now()).split()[0])
+def sign(f,cs):
+	f.write('\n----\n')
+	if cs:
+		f.write("— ''Категории: %s.''<br/>\n" % ' | '.join(['[[%s|%s]]' % (c[0],c[1]) for c in cs]))
+	f.write("— ''Список обновлён %s''\n" % str(datetime.datetime.now()).split()[0])
 	f.close()

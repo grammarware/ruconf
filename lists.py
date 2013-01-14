@@ -33,12 +33,18 @@ if __name__ == '__main__':
 				refby[link.replace(' ','-')].append(n)
 		if n != 'Home':
 			for link in content.split('== Архив ==')[1].split('== Ссылки ==')[0].split('\n'):
+				# print 'Link is "%s"' %link
 				if link.startswith('* '):
 					# print link
 					year = link.split('(')[0].split()[-1]
+					if year.startswith('[[') and year.endswith(']]'):
+						year = year[2:-2]
+					# print 'Year is "%s"' %year
 					if not year.isdigit():
 						continue
 					rname = link.split(year)[0][2:].strip()
+					if rname.endswith('[['):
+						rname = rname[:-2].strip()
 					# print '-->',n,'as',rname,'in',year
 					if year not in byyear.keys():
 						byyear[year] = []
@@ -59,12 +65,12 @@ if __name__ == '__main__':
 		if n not in ('All','Home','Years','TODO') and n not in listnames.values() and not n.isdigit():
 			g.write("* '''[[%s]]''': [[%s|%s]]\n" % (n,n,names[n]))
 			cx1 += 1
-	sign(f)
-	sign(g)
+	sign(f,[])
+	sign(g,[])
 	for status in sts.keys():
 		try:
 			f = open('%s.wiki' % namelist(status),'r')
-			b = filter(lambda x:not x.startswith('* ') and not x.startswith('--') and x.strip(), f.readlines())
+			b = filter(lambda x:not x.startswith('* ') and not x.startswith('--') and not x.startswith('—') and x.strip(), f.readlines())
 			f.close()
 		except IOError,e:
 			b = []
@@ -77,9 +83,10 @@ if __name__ == '__main__':
 		if b:
 			b.sort()
 			f.writelines(b)
-		sign(f)
+		sign(f,[])
 	f = open('Years.wiki','w')
 	f.write('Конференции по годам:')
+	# print sorted(byyear.keys())
 	for year in sorted(byyear.keys()):
 		y = []
 		f.write('\n; [[%s]]\n: ' % year)
@@ -96,6 +103,7 @@ if __name__ == '__main__':
 		if csnew == csold:
 			print 'Year %s is unchanged.' % year
 		else:
+			# print 'OLD:',csold,'\nNEW:',csnew
 			csupd = []
 			g = open(year+'.wiki','w')
 			g.write('Конференции, проведённые в %s году:\n' % year)
@@ -108,8 +116,8 @@ if __name__ == '__main__':
 				else:
 					g.write('* [[%s|%s]]\n' % c)
 					y.append('[[%s|%s]]' % c)
-			sign(g)
+			sign(g,[('Years','Годы')])
 			print 'Year %s is updated with %s.' % (year,', '.join(csupd))
 		f.write(' • '.join(y))
-	sign(f)
+	sign(f,[])
 	print 'Done, %i venues done, %i yet to go.' % (cx1, cx2)

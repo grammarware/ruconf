@@ -20,17 +20,21 @@
 * Применение инноваторских предметно-ориентированных или «малых» языков
 
 == Архив ==
+* SLE [[2013]] (США, Индианаполис)
+** 6th International Conference on Software Language Engineering
+** [http://planet-sl.org/sle2013/ Сайт]
+** Совместно с: [[GPCE]], [[SPLASH]]
 * SLE [[2012]] (Германия, Дрезден)
 ** 5th International Conference on Software Language Engineering
-** [http://planet-sl.org/sle2012/ Сайт] • [http://events.linkedin.com/sle-2012-905279 LinkedIn] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=20977&copyownerid=420 CfP]
+** [http://planet-sl.org/sle2012/ Сайт] • [http://dblp.uni-trier.de/db/conf/sle/sle2012d.html DBLP (Doctoral Symposium)] • [http://events.linkedin.com/sle-2012-905279 LinkedIn] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=20977&copyownerid=420 CfP]
 ** Совместно с: [[GPCE]], [[FOSD]], [[ITSLE]]
 * SLE [[2011]] (Португалия, Брага)
 ** 4th International Conference on Software Language Engineering
-** [http://dblp.uni-trier.de/db/conf/sle/sle2011.html DBLP] • [http://planet-sl.org/sle2011/ Сайт] (не работает) • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=14544&copyownerid=21277 CfP]
+** [http://dblp.uni-trier.de/db/conf/sle/sle2011.html DBLP] • [http://planet-sl.org/sle2011/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=14544&copyownerid=21277 CfP]
 ** Совместно с: [[GTTSE]], [[ITSLE]]
 * SLE [[2010]] (Нидерланды, Эйндховен)
 ** 3rd International Conference on Software Language Engineering
-** [http://dblp.uni-trier.de/db/conf/sle/sle2010.html DBLP] • [http://planet-sl.org/sle2010/ Сайт] (не работает) • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=8563&copyownerid=9565 CfP]
+** [http://dblp.uni-trier.de/db/conf/sle/sle2010.html DBLP] • [http://planet-sl.org/sle2010/ Сайт] • [http://wikicfp.com/cfp/servlet/event.showcfp?eventid=8563&copyownerid=9565 CfP]
 ** Совместно с: [[GPCE]]
 * SLE [[2009]] (США, Денвер)
 ** 2nd International Conference on Software Language Engineering
