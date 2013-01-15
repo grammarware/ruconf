@@ -1,0 +1,111 @@
+* Название: '''Symposium on Implementation and Application of Functional Languages'''
+* Перевод: '''Симпозиум по реализации и применению функциональных языков'''
+* Статус: [[Symposium|симпозиум]], раньше — [[Workshop|рабочая встреча]]
+
+== Детали ==
+* Поверхностная фильтрация допущенных к докладу председателем программного комитета работ
+* Полноценное рецензирование для послеконференционного сборника трудов, выходящего почти через год
+* Стиль оформления — [[LNCS]] (одна колонка, большие поля)
+* Предельный объём — 16 страниц
+* Система подачи и обработки статей — [[EasyChair]]
+* Лучшая статья получает Премию Питера Лэндина
+
+== Тематика ==
+* Языковые концепции
+* Типизация и проверка типов
+* Контракты
+* Техники компиляции
+* Отложенная компиляция
+* Специализация функций в момент выполнения
+* Создание кода во время выполнения
+* Частичные вычисления
+* Абстрактная интерпретация
+* Обобщённое программирование
+* Автоматическое создание программ
+* Обработка массивов и списков
+* Параллельное программирование
+* Параллельное исполнение программ
+* Функциональное программирование и встроенные системы
+* Функциональное программирование и веб-приложения
+* Функциональное программирование и безопасность
+* Новые техники управления памятью
+* Измерение производительности и профилирование во время исполнения
+* Отладка и трассировка
+* Виртуальные и абстрактные компьютерные архитектуры
+* Валидация и верификация функциональных программ
+* Инструменты и техники программирования
+* Индустриальное применение функционального программирования
+
+== Архив ==
+* IFL 2013 (Нидерланды, Неймеген)
+** 25th International Symposium on Implementation and Application of Functional Languages
+* IFL 2012 (Великобритания, Оксфорд)
+** 24th International Symposium on Implementation and Application of Functional Languages
+** [http://www.cs.ox.ac.uk/conferences/IFL2012/ Сайт]
+* IFL 2011 (США, Лоуренс)
+** 23rd International Symposium on Implementation and Application of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl2011.html DBLP]
+* IFL 2010 (Нидерланды, Алфен-ан-ден-Рейн)
+** 22nd International Symposium on Implementation and Application of Functional Languages
+** [http://www.cs.uu.nl/wiki/bin/view/IFL2010/WebHome Сайт] • [http://dblp.uni-trier.de/db/conf/ifl/ifl2010.html DBLP]
+* IFL 2009 (США, South Orange)
+** 21st International Symposium on Implementation and Application of Functional Languages
+* IFL 2008 (Великобритания, Хэтфилд)
+** 20th International Symposium on Implementation and Application of Functional Languages
+** [http://webcache.googleusercontent.com/search?q=cache:C3DwpQpACoIJ:events.sac-home.org/ifl2008/+&cd=4&hl=ru&ct=clnk Кэш сайта] • [http://dblp.uni-trier.de/db/conf/ifl/ifl2008.html DBLP]
+* IFL 2007 (Германия, Фрайбург)
+** 19th International Symposium on Implementation and Application of Functional Languages
+** [http://proglang.informatik.uni-freiburg.de/IFL2007/ Сайт] • [http://dblp.uni-trier.de/db/conf/ifl/ifl2007.html DBLP]
+** Совместно с: [[ICFP]]
+* IFL 2006 (Венгрия, Будапешт)
+** 18th International Symposium on Implementation and Application of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl2006.html DBLP]
+* IFL 2005 (Ирландия, Дублин)
+** 17th International Workshop on Implementation and Application of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl2005.html DBLP]
+* IFL 2004 (Германия, Любек)
+** 16th International Workshop on Implementation and Application of Functional Languages
+** [http://web.archive.org/web/20070621190534/http://www.isp.uni-luebeck.de/ifl04/index.htm Архив сайта] • [http://dblp.uni-trier.de/db/conf/ifl/ifl2004.html DBLP]
+* IFL 2003 (Великобритания, Эдинбург)
+** 15th International Workshop on Implementation of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl2003.html DBLP]
+* IFL 2002 (Испания, Мадрид)
+** 14th International Workshop on Implementation of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl2002.html DBLP]
+* IFL 2001 (Швеция, Стокгольм)
+** 13th International Workshop on Implementation of Functional Languages
+** [http://web.archive.org/web/20030205123856/http://www.ericsson.com/cslab/ifl2001/ Архив сайта] • [http://dblp.uni-trier.de/db/conf/ifl/ifl2001.html DBLP]
+* IFL 2000 (Германия, Аахен)
+** 12th International Workshop on Implementation of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl2000.html DBLP]
+* IFL 1999 (Нидерланды, Лохем)
+** 11th International Workshop on Implementation of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl1999.html DBLP]
+* IFL 1998 (Великобритания, Лондон)
+** 10th International Workshop on Implementation of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl1998.html DBLP]
+* IFL 1997 (Великобритания, Сент-Андрус)
+** Ninth International Workshop on Implementation of Functional Languages
+** [http://dblp.uni-trier.de/db/conf/ifl/ifl97.html DBLP]
+* IFL 1996 (Германия, Бад Годесберг)
+** Eighth International Workshop on Implementation of Functional Languages
+** Первый опубликованный сборник трудов
+** [http://www.informatik.uni-kiel.de/inf/Kluge/calendar/ifl96.html Сайт] • [http://dblp.uni-trier.de/db/conf/ifl/ifl96.html DBLP]
+* IFL 1995 (Швеция, Бостад)
+** Seventh International Workshop on Implementation of Functional Languages
+* IFL 1994 (Великобритания, Норвич)
+** Sixth International Workshop on Implementation of Functional Languages
+* IFL 1993 (Нидерланды, Неймеген)
+** Fifth International Workshop on Implementation of Functional Languages
+* IFL 1992 (Германия, Аахен)
+** Fourth International Workshop on Implementation of Functional Languages
+* IFL 1991 (Великобритания, Саутгемптон)
+** Third International Workshop on Implementation of Functional Languages
+* IFL 1990 (Нидерланды, Неймеген)
+** Second International Workshop on Implementation of Functional Languages
+* IFL 1989 (Нидерланды, Неймеген)
+** International Workshop on Implementation of Functional Languages
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/ifl/ IFL] на [[DBLP]]
+* [http://web.archive.org/web/20120411193032/http://www.ifl-workshops.org/ Архив сайта всей серии симпозиумов]

@@ -58,7 +58,7 @@
 * '''[[CyberChair]]''' (⇐ [[ECOOP]], [[Home]], [[MoDELS]])
 * '''[[DAC]]''' (⇐ [[Home]])
 * '''[[DATE]]''' (⇐ [[Home]])
-* '''[[DBLP]]''' (⇐ [[ECOOP]], [[ESEC]], [[FSE]], [[GTTSE]], [[Home]], [[IFM]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[SLE]], [[WCRE]])
+* '''[[DBLP]]''' (⇐ [[ECOOP]], [[ESEC]], [[FSE]], [[GTTSE]], [[Home]], [[IFL]], [[IFM]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[SLE]], [[WCRE]])
 * '''[[DLS]]''' (⇐ [[ECOOP]])
 * '''[[DMMOS]]''' (⇐ [[ECOOP]])
 * '''[[DO21]]''' (⇐ [[ECOOP]])
@@ -89,7 +89,7 @@
 * '''[[EUROSYS]]''' (⇐ [[Home]])
 * '''[[EVOL]]''' (⇐ [[ESEC]], [[FSE]])
 * '''[[EWSPT]]''' (⇐ [[ESEC]], [[FSE]])
-* '''[[Easychair]]''' (⇐ [[GTTSE]], [[Home]], [[IFM]], [[SLE]])
+* '''[[EasyChair]]''' (⇐ [[GTTSE]], [[Home]], [[IFL]], [[IFM]], [[SLE]])
 * '''[[FCRC]]''' (⇐ [[PEPM]], [[PLDI]])
 * '''[[FICS]]''' (⇐ [[ECOOP]])
 * '''[[FLOPS]]''' (⇐ [[PEPM]])
@@ -123,7 +123,7 @@
 * '''[[ICDCS]]''' (⇐ [[Home]])
 * '''[[ICDE]]''' (⇐ [[Home]])
 * '''[[ICDM]]''' (⇐ [[Home]])
-* '''[[ICFP]]''' (⇐ [[Home]])
+* '''[[ICFP]]''' (⇐ [[Home]], [[IFL]])
 * '''[[ICMCS]]''' (⇐ [[Home]])
 * '''[[ICML]]''' (⇐ [[Home]])
 * '''[[ICMT]]''' (⇐ [[OCL]])
@@ -172,7 +172,7 @@
 * '''[[LFP]]''' (⇐ [[PEPM]])
 * '''[[LFX]]''' (⇐ [[PLDI]])
 * '''[[LICS]]''' (⇐ [[Home]])
-* '''[[LNCS]]''' (⇐ [[ECOOP]], [[GTTSE]], [[IFM]], [[MoDELS]], [[SLE]])
+* '''[[LNCS]]''' (⇐ [[ECOOP]], [[GTTSE]], [[IFL]], [[IFM]], [[MoDELS]], [[SLE]])
 * '''[[LOPSTR]]''' (⇐ [[PEPM]])
 * '''[[LinkedIn]]''' (⇐ [[Home]])
 * '''[[M-ADAPT]]''' (⇐ [[ECOOP]])
@@ -346,4 +346,4 @@
 * '''[[eTX]]''' (⇐ [[ECOOP]])
 
 ----
-— ''Список обновлён 2013-01-14''
+— ''Список обновлён 2013-01-15''
