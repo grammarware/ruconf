@@ -1,0 +1,88 @@
+* Название: '''International Conference on Rewriting Techniques and Applications'''
+* Перевод: '''Международная конференция по техникам переписывания и их применению'''
+* Статус: [[International-Conference|международная конференция]]
+
+== Тематика ==
+Одна из профильных конференций по всем темам, касающимся переписывания и систем переписывающих правил (конференции близкой тематики — [[IJCAR]], [[CADE]], [[FroCoS]], [[FTP]], [[TABLEAUX]], [[ICC]]). Область интересов покрывает как минимум следующие направления:
+* «Применение»: частные случаи применения переписывания, анализ криптографических протоколов, функциональное и логическое программирование, символьные и алгебраические вычисления, решения SMT формул, автоматизированное доказательство теорем, синтез и верификация систем, проверки доказательств, теория языков программирования и логики, преобразование программ, запросы и преобразования XML, системная биология, теория гомотопий, неявная вычислительная сложность;
+* «Основы»: логика уравнений, универсальная алгебра, логика переписывания, переписывание моделей программ, соответствие и унификация, сужение, техники дополнения, стратегии, исчисления переписываний, разрешение ограничений, автоматы на деревьях, задачи об остановке, сложность, модульность;
+* «Техники»: переписывание строк, термов, сетей и графов, лямбда-исчисление и переписывание высших порядков, ограниченное переписывание и выведение, категориальное и бесконечное переписывание, стохастическое переписывание, техники связывания, сети Петри, многомерное переписывание;
+* «Внедрение»: техники реализации, параллельное выполнение, утилиты переписывания и дополнения, сертификация свойств переписывания, абстрактные автоматы, явные замены, автоматизированные доказательства слияния, остановки или отсутствия остановки, автоматизированный анализ сложности.
+
+== Архив ==
+* RTA 2013 (Нидерланды, Эйндховен)
+** 24th International Conference on Rewriting Techniques and Applications
+** [http://rta2013.few.vu.nl Сайт]
+* RTA 2012 (Япония, Нагоя)
+** 23rd International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2012.html DBLP]
+* RTA 2011 (Сербия, Нови-Сад)
+** 22nd International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2011.html DBLP]
+* RTA 2010 (Шотландия, Эдинбург)
+** 21st International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2010.html DBLP]
+* RTA 2009 (Бразилия, Бразилиа)
+** 20th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2009.html DBLP]
+* RTA 2008 (Австрия, Хагенберг)
+** 19th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2008.html DBLP]
+* RTA 2007 (Франция, Париж)
+** 18th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2007.html DBLP]
+* RTA 2006 (США, Сиэтл)
+** 17th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2006.html DBLP]
+* RTA 2005 (Япония, Нара)
+** 16th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2005.html DBLP]
+* RTA 2004 (Германия, Ахен)
+** 15th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2004.html DBLP]
+* RTA 2003 (Испания, Валенсия)
+** 14th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2003.html DBLP]
+* RTA 2002 (Дания, Копенгаген)
+** 13th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2002.html DBLP]
+* RTA 2001 (Нидерланды, Утрехт)
+** 12th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2001.html DBLP]
+* RTA 2000 (Англия, Норидж)
+** 11th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta2000.html DBLP]
+* RTA 1999 (Италия, Тренто)
+** 10th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta99.html DBLP]
+* RTA 1998 (Япония, Цукуба)
+** 9th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta98.html DBLP]
+* RTA 1997 (Испания, Сиджес)
+** 8th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta97.html DBLP]
+* RTA 1996 (США, Нью-Брансуик)
+** 7th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta96.html DBLP]
+* RTA 1995 (Германия, Кайзерслаутерн)
+** 6th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta95.html DBLP]
+* RTA 1993 (Канада, Монреаль)
+** 5th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta93.html DBLP]
+* RTA 1991 (Италия, Комо)
+** 4th International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta91.html DBLP]
+* RTA 1989 (США, Чапел-Хилл)
+** 3rd International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta89.html DBLP]
+* RTA 1987 (Франция, Бордо)
+** 2nd International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta87.html DBLP]
+* RTA 1985 (Франция, Дижон)
+** First International Conference on Rewriting Techniques and Applications
+** [http://dblp.uni-trier.de/db/conf/rta/rta85.html DBLP]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/rta/ RTA] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/246/ RTA] на [[Academic]]
