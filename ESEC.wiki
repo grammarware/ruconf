@@ -33,7 +33,7 @@
 * ESEC [[2013]] (Россия, Санкт-Петербург)
 ** 14th European Software Engineering Conference
 ** The 9th joint meeting of ESEC and FSE
-** [http://http://esec-fse.inf.ethz.ch// Сайт]
+** [http://esec-fse.inf.ethz.ch/ Сайт]
 ** Совместно с: [[FSE]], [[WoSQ]], [[ASAS]], [[PASTE]], [[SSE]], [[IWPSE]]/[[EVOL]], [[WebQUeST]]
 * ESEC [[2011]] (Венгрия, Сегед)
 ** 13th European Software Engineering Conference
