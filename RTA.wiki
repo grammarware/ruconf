@@ -46,6 +46,7 @@
 ** 18th International Conference on Rewriting Techniques and Applications
 ** [http://dblp.uni-trier.de/db/conf/rta/rta2007.html DBLP] • [http://www.lsv.ens-cachan.fr/Events/rdp07/rta.html Сайт]
 ** Как часть [[RDP]] (совместно с [[TLCA]])
+** Совместно с: [[HOR]], [[PATE]], [[RULE]], [[SecReT]], [[UNIF]], [[WFLP]], [[WRS]], [[WST]]
 * RTA 2006 (США, Сиэтл)
 ** 17th International Conference on Rewriting Techniques and Applications
 ** [http://dblp.uni-trier.de/db/conf/rta/rta2006.html DBLP]

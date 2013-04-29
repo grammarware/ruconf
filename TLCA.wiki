@@ -1,0 +1,64 @@
+* Название: '''International Conference on Typed Lambda Calculi and Applications'''
+* Перевод: '''Международная конференция по типизированным лямбда-исчислениям и их применениям'''
+* Статус: [[International-Conference|международная конференция]]
+
+== Тематика ==
+* Типизированные и нетипизированные лямбда-исчисления в качестве вычислительных моделей.
+* Теория доказательств: натуральная дедукция, последовательное исчисление, устранение отсечения, нормализация.
+* Высказывания как типы, линейная логика, доказательные сети.
+* Типизиция: подтипы, зависимые типы, вывод типов, полиморфизм, типизация в целях безопасности.
+* Семантика: денотационная семантика, игровая семантика, реализуемость, категорные модели.
+* Языки программирования: основы функционального и объектно-ориентированного программирования, поиск доказательств, логическое программирование, проверка типов.
+* Реализация: абстрактные машины, параллельное выполнение, оптимальное сведение, оптимизация программ.
+* Автоматизированные рассуждения.
+
+== Архив ==
+* TLCA 2013 (Нидерланды, Эйндховен)
+** 11th International Conference on Typed Lambda Calculi and Applications
+** [http://www.kurims.kyoto-u.ac.jp/tlca2013/ Сайт]
+** Как часть [[RDP]] (совместно с [[RTA]])
+** Совместно с: [[COS]], [[HART]], [[WRS]], [[UNIF]], [[IWC]], [[WIR]]
+* TLCA 2011 (Сербия, Нови-Сад)
+** 10th International Conference on Typed Lambda Calculi and Applications
+** [http://www.rdp2011.uns.ac.rs/tlca/ Сайт] • [http://dblp.uni-trier.de/db/conf/tlca/tlca2011.html DBLP] • [http://link.springer.com/book/10.1007/978-3-642-21691-6/ Сборник трудов]
+** Как часть [[RDP]] (совместно с [[RTA]])
+** Совместно с: [[COBRA]], [[HDTT]], [[TPDC]], [[2FC]], [[WRS]]
+* TLCA 2009 (Бразилия, Бразилиа)
+** Ninth International Conference on Typed Lambda Calculi and Applications
+** [http://rdp09.cic.unb.br/tlca.html Сайт] • [http://dblp.uni-trier.de/db/conf/tlca/tlca2009.html DBLP] • [http://www.springer.com/computer/theoretical+computer+science/book/978-3-642-02272-2 Сборник трудов]
+** Как часть [[RDP]] (совместно с [[RTA]])
+** Совместно с: [[ISR]], [[HOR]], [[LSFA]], [[RULE]], [[WFLP]], [[WRS]]
+* TLCA 2007 (Франция, Париж)
+** Eighth International Conference on Typed Lambda Calculi and Applications
+** [http://www.lsv.ens-cachan.fr/Events/rdp07/tlca.html Сайт] • [http://dblp.uni-trier.de/db/conf/tlca/tlca2007.html DBLP] • [http://www.springerlink.com/content/t844v08623l1/ Сборник трудов]
+** Как часть [[RDP]] (совместно с [[RTA]])
+** Совместно с: [[HOR]], [[PATE]], [[RULE]], [[SecReT]], [[UNIF]], [[WFLP]], [[WRS]], [[WST]]
+* TLCA 2005 (Япония, Нара)
+** Seventh International Conference on Typed Lambda Calculi and Applications
+** [http://www.kurims.kyoto-u.ac.jp/rdp05/tlca/ Сайт] • [http://dblp.uni-trier.de/db/conf/tlca/tlca2005.html DBLP] • [http://www.springerlink.com/content/g4xru0fyppp2/ Сборник трудов]
+** Как часть [[RDP]] (вместе с [[RTA]], [[RULE]], [[UNIF]], [[WRS]])
+* TLCA 2003 (Испания, Валенсия)
+** Sixth International Conference on Typed Lambda Calculi and Applications
+** [http://users.dsic.upv.es/~rdp03/tlca/ Сайт] • [http://dblp.uni-trier.de/db/conf/tlca/tlca2003.html DBLP] • [http://www.springerlink.com/content/29lpxhkd5qnl/ Сборник трудов]
+** Как часть [[RDP]] (вместе с [[RTA]], [[FTP]], [[RULE]], [[UNIF]], [[WFLP]], [[WRS]], [[WST]])
+* TLCA 2001 (Польша, Краков)
+** Fifth International Conference on Typed Lambda Calculi and Applications
+** [http://web.archive.org/web/20080629143045/http://www.ii.uj.edu.pl/zpi/tlca2001/ Архив сайта] • [http://dblp.uni-trier.de/db/conf/tlca/tlca2001.html DBLP] • [http://www.springerlink.com/content/wbvcxfxg7fnd/ Сборник трудов]
+* TLCA 1999 (Италия, Л’Акуила)
+** Fourth International Conference on Typed Lambda Calculi and Applications
+** [http://web.archive.org/web/20050207211631/http://w3.dm.univaq.it/tlca99/ Архив сайта] • [http://dblp.uni-trier.de/db/conf/tlca/tlca99.html DBLP] • [http://www.springerlink.com/content/rtfp3kj4m87u/ Сборник трудов]
+* TLCA 1997 (Франция, Нанси)
+** Third International Conference on Typed Lambda Calculi and Applications
+** [http://dblp.uni-trier.de/db/conf/tlca/tlca97.html DBLP] • [http://www.springerlink.com/content/m0mk18441j51/ Сборник трудов]
+* TLCA 1995 (Великобритания, Эдинбург)
+** Second International Conference on Typed Lambda Calculi and Applications
+** [http://dblp.uni-trier.de/db/conf/tlca/tlca95.html DBLP] • [http://www.springerlink.com/content/n858188070nu/ Сборник трудов]
+* TLCA 1993 (Нидерланды, Утрехт)
+** International Conference on Typed Lambda Calculi and Applications
+** [http://dblp.uni-trier.de/db/conf/tlca/tlca93.html DBLP] • [http://www.springerlink.com/content/m65g43120w1h/ Сборник трудов]
+
+== Ссылки ==
+* [http://www.mimuw.edu.pl/tlca/ Официальный сайт серии]
+* [http://dblp.uni-trier.de/db/conf/tlca/ TLCA] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/418/ TLCA] на [[Academic]]
+* ''“[http://www.users.waitrose.com/~hindley/LamConfsIn70s.pdf Lambda-Calculus Conferences in the 1970s]”,'' статья Роджера Хиндли о предшественниках TLCA
