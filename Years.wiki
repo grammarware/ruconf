@@ -66,8 +66,8 @@
 ; [[2012]]
 : [[ACES-MB|ACES MB]] • [[AMT]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[FOSD]] • [[FSE]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[MDsec]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MotPW]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[RTA]] • [[SLE]] • [[VARY]] • [[WCRE]] • [[XM]]
 ; [[2013]]
-: [[ECOOP]] • [[ESEC]] • [[IFL]] • [[IFM]] • [[MoDELS]] • [[PLDI]] • [[RTA]] • [[SLE]] • [[TLCA]]
+: [[AMT]] • [[CMA|CMA@MODELS]] • [[CMA|CMA@RE]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PLDI]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[XM]]
 ; [[2014]]
 : [[RTA]]
 ----
-— ''Список обновлён 2013-04-29''
+— ''Список обновлён 2013-05-01''

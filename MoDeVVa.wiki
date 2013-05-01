@@ -10,19 +10,23 @@
 * Любое скрещивание тем верификации и валидации с модельным подходом
 
 == Архив ==
+* MoDeVVa [[2013]] (США, Майями)
+** 10th Workshop on Model-Driven Engineering, Verification, and Validation
+** [http://wwwdi.supelec.fr/modevva/ Сайт]
+** Совместно с: [[MoDELS]]
 * MoDeVVa [[2012]] (Австрия, Иннсбрук)
 ** 9th Workshop on Model-Driven Engineering, Verification and Validation
-** [http://wwwdi.supelec.fr/modevva/ Сайт]
+** [http://wwwdi.supelec.fr/modevva/2012/ Сайт] • [http://dl.acm.org/citation.cfm?id=2427376 Сборник трудов]
 ** Совместно с: [[MoDELS]]
 * MoDeVVa [[2011]] (Новая Зеландия, Веллингтон)
 ** Model-Driven Engineering, Verification, And Validation: Integrating Verification And Validation In MDE
-** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP] • [http://www.model-based-testing.de/modevva11/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP] • [http://www.model-based-testing.de/modevva11/ Сайт] • [http://dl.acm.org/citation.cfm?id=2095654 Сборник трудов]
 ** Совместно с: [[MoDELS]]
 * MoDeVVa [[2010]] (Норвегия, Осло)
-** [http://dblp.uni-trier.de/db/conf/models/models2010w.html DBLP] • [http://www.model-based-testing.de/modevva10/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2010w.html DBLP] • [http://www.model-based-testing.de/modevva10/ Сайт] • [http://doi.ieeecomputersociety.org/10.1109/MoDeVVa.2010.2 Сборник трудов]
 ** Совместно с: [[MoDELS]]
 * MoDeVVa [[2009]] (США, Денвер)
-** [http://dblp.uni-trier.de/db/conf/models/models2009w.html DBLP] • [http://www.model-based-testing.de/modevva09/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2009w.html DBLP] • [http://www.model-based-testing.de/modevva09/ Сайт] • [http://www.springerlink.com/content/28265m7t21156843/ Сборник трудов]
 ** Совместно с: [[MoDELS]]
 * MoDeVVa [[2008]] (Норвегия, Лиллехаммер)
 ** Model Driven Engineering, Verification, And Validation: Integrating Verification And Validation In MDE
@@ -30,18 +34,18 @@
 ** Совместно с: [[ICST]], [[MoVaH]]
 * MoDeVVa [[2007]] (США, Нашвилл)
 ** 4th International Workshop on Model Driven Engineering, Verification, and Validation: Integrating Verification and Validation in MDE
-** [http://dblp.uni-trier.de/db/conf/models/models2007w.html DBLP] • [http://www.modeva.org/2007/index.html Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2007w.html DBLP] • [http://www.modeva.org/2007/index.html Сайт] • [http://www.modeva.org/2007/modevva07.pdf Сборник трудов]
 ** Совместно с: [[MoDELS]]
 * MoDeV2a [[2006]] (Италия, Генуя)
 ** 3rd Workshop on Model Design and Validation
-** [http://dblp.uni-trier.de/db/conf/models/models2006w.html DBLP] • [http://modeva.itee.uq.edu.au/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2006w.html DBLP] • [http://modeva.itee.uq.edu.au/ Сайт] • [http://modeva.itee.uq.edu.au/accepted_papers/main.pdf Сборник трудов]
 ** Совместно с: [[MoDELS]]
 * MoDeVA [[2005]] (Ямайка, Монтего-Бей)
 ** 2nd Workshop on Model Development and Validation
 ** [http://dblp.uni-trier.de/db/conf/uml/models2005se.html DBLP] • [http://www.modeva.org/2005/index.htm Сайт]
 ** Совместно с: [[MoDELS]]
 * MoDeVA [[2004]] (Франция, Ренн)
-** [http://www.issre.org/2004/program-modeva.php Сайт]
+** [http://www.issre.org/2004/program-modeva.php Сайт] • [http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9766 Сборник трудов]
 ** Совместно с: [[ISSRE]]
 
 == Ссылки ==

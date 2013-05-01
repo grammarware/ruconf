@@ -6,8 +6,12 @@
 * …
 
 == Архив ==
+* EESSMod [[2013]] (США, Майями)
+** International Workshop on Experiences and Empirical Studies in Software Modelling
+** [http://users.dsic.upv.es/workshops/eessmod13/ Сайт]
+** Совместно с: [[MoDELS]]
 * EESSMod [[2012]] (Австрия, Иннсбрук)
-** [http://www.eesmod.org/ Сайт]
+** [http://users.dsic.upv.es/workshops/eessmod12/ Сайт] • [https://gupea.ub.gu.se/bitstream/2077/30461/1/gupea_2077_30461_1.pdf Сборник трудов]
 ** Совместно с: [[MoDELS]]
 * EESSMod [[2011]] (Новая Зеландия, Веллингтон)
 ** [http://dblp.uni-trier.de/db/conf/models/eessmod2011.html DBLP] • [http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=17044 CfP] • [http://dl.dropbox.com/u/12330750/EESSMod%202011%20-%20Proceedings.pdf Сборник трудов]

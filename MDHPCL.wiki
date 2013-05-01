@@ -6,6 +6,10 @@
 * …
 
 == Архив ==
+* MDHPCL [[2013]] (США, Майями)
+** 2nd International Workshop on Model-Driven Engineering for High Performance and CLoud computing
+** [http://www.irit.fr/MDHPCL2013/Home.html Сайт]
+** Совместно с: [[MoDELS]]
 * MDHPCL [[2012]] (Австрия, Иннсбрук)
 ** 1st International Workshop on Model-Driven Engineering for High Performance and CLoud computing
 ** [http://www.irit.fr/MDHPCL2012/MDHPCL2012/Home.html Сайт]

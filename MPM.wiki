@@ -15,30 +15,34 @@
 * Приложения существующих техник мультипарадигменного моделирования (особенно в индустрии)
 
 == Архив ==
+* MPM [[2013]] (США, Майями)
+** 7th MoDELS Workshop on Multi-Paradigm Modeling
+** [http://msdl.cs.mcgill.ca/conferences/MPM/ Сайт]
+** Совместно с: [[MoDELS]]
 * MPM [[2012]] (Австрия, Иннсбрук)
 ** 6th MoDELS Workshop on Multi-Paradigm Modeling
 ** [http://avalon.aut.bme.hu/mpm12/ Сайт]
-** Как часть: [[MoDELS]]
+** Совместно с: [[MoDELS]]
 * MPM [[2011]] (Новая Зеландия, Веллингтон)
 ** 5th MoDELS Workshop on Multi-Paradigm Modeling
 ** [http://avalon.aut.bme.hu/~mesztam/conferences/mpm11 Сайт]
-** Как часть: [[MoDELS]]
+** Совместно с: [[MoDELS]]
 * MPM [[2010]] (Норвегия, Осло)
 ** 4th MoDELS Workshop on Multi-Paradigm Modeling
 ** [http://avalon.aut.bme.hu/mpm10 Сайт]
-** Как часть: [[MoDELS]]
+** Совместно с: [[MoDELS]]
 * MPM [[2009]] (США, Денвер)
 ** 3rd MoDELS Workshop on Multi-Paradigm Modeling
 ** [http://avalon.aut.bme.hu/mpm09 Сайт]
-** Как часть: [[MoDELS]]
+** Совместно с: [[MoDELS]]
 * MPM [[2007]] (США, Нашвилл)
 ** 2nd MoDELS Workshop on Multi-Paradigm Modeling
 ** [http://avalon.aut.bme.hu/~mesztam/conferences/mpm07 Сайт]
-** Как часть: [[MoDELS]]
+** Совместно с: [[MoDELS]]
 * MPM [[2006]] (Италия, Генуя)
 ** 1st MoDELS Workshop on Multi-Paradigm Modeling
 ** [http://avalon.aut.bme.hu/~mesztam/conferences/mpm06 Сайт]
-** Как часть: [[MoDELS]]
+** Совместно с: [[MoDELS]]
 
 == Ссылки ==
 * Рабочие встречи [http://dblp.uni-trier.de/db/conf/models/ MoDELS] на [[DBLP]]

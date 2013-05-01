@@ -3,16 +3,24 @@
 * Статус: [[Workshop|рабочая встреча]]
 
 == Тематика ==
-Это необычная рабочая встреча, потому что целью подготовки к ней является не написание статьи, а разработка модели заранее заданной системы (товарной линии системы обработки ДТП) в рамках своего модельного подхода, чтобы потом во время самой встречи сравнить модели и сделать выводы о сравнении самих подходов.
+Это необычная рабочая встреча, потому что целью подготовки к ней является не написание статьи, а разработка модели заранее заданной системы (товарной линии системы обработки ДТП) в рамках своего модельного подхода, чтобы потом во время самой встречи сравнить модели и сделать выводы о сравнении самих подходов. Также она необычна тем, что в 2013 году состоялась несколько раз в рамках разных конференций.
 
 == Архив ==
+* CMA@MODELS [[2013]] (США, Майями)
+** Fourth International Comparing Modeling Approaches Workshop
+** [http://cserg0.site.uottawa.ca/cma2013models/ Сайт]
+** Совместно с: [[MoDELS]]
+* CMA@RE [[2013]] (Бразилия, Рио-де-Жанейро)
+** Third International Comparing Modeling Approaches Workshop
+** [http://cserg0.site.uottawa.ca/cma2013re/ Сайт]
+** Совместно с: [[RE]]
 * CMA [[2012]] (Австрия, Иннсбрук)
 ** 2nd International Comparing Modeling Approaches Workshop
-** [http://cserg0.site.uottawa.ca/cma2012/ Сайт]
+** [http://cserg0.site.uottawa.ca/cma2012/ Сайт] • [http://dx.doi.org/10.1145/2459031.2459032 Отчёт]
 ** Совместно с: [[MoDELS]]
 * CMA [[2011]] (Новая Зеландия, Веллингтон)
 ** 1st International Comparing Modeling Approaches Workshop
-** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP] • [http://cserg0.site.uottawa.ca/cma2011/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/models/models2011w.html DBLP] • [http://cserg0.site.uottawa.ca/cma2011/ Сайт] • [http://dx.doi.org/10.1007/978-3-642-29645-1_22 Отчёт]
 ** Совместно с: [[MoDELS]]
 
 == Ссылки ==

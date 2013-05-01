@@ -6,6 +6,10 @@
 * …
 
 == Архив ==
+* MRT [[2013]] (США, Майями)
+** 8th International Workshop on Models at run.time
+** [http://st.inf.tu-dresden.de/MRT13/ Сайт]
+** Совместно с: [[MoDELS]]
 * MRT [[2012]] (Австрия, Иннсбрук)
 ** 7th International Workshop on Models@run.time
 ** [http://www.comp.lancs.ac.uk/~bencomo/MRT12/ Сайт]

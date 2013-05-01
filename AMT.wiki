@@ -15,6 +15,10 @@
 * Примеры применения анализа преобразований моделей
 
 == Архив ==
+* AMT [[2013]] (США, Майями)
+** 2nd Workshop on the Analysis of Model Transformations
+** [http://msdl.cs.mcgill.ca/conferences/AMT/ Сайт]
+** Совместно с: [[MoDELS]]
 * AMT [[2012]] (Австрия, Иннсбрук)
 ** 1st Workshop on the Analysis of Model Transformations
 ** [http://msdl.cs.mcgill.ca/conferences/AMT/ Сайт]
