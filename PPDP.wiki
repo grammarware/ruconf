@@ -1,0 +1,75 @@
+* Название: '''International Symposium on Principles and Practice of Declarative Programming'''
+* Перевод: '''Международный симпозиум по принципам и практике декларативного программирования'''
+* Статус: [[Symposium|симпозиум]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* PPDP 2013 (Испания, Мадрид)
+** 15th International Symposium on Principles and Practice of Declarative Programming
+** [http://users.ugent.be/~tschrijv/PPDP2013/ Сайт]
+** Совместно с: [[LOPSTR]]
+* PPDP 2012 (Бельгия, Лёвен)
+** 14th International Symposium on Principles and Practice of Declarative Programming
+** [http://dtai.cs.kuleuven.be/events/PPDP2012/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2012.html DBLP] • [http://dl.acm.org/citation.cfm?id=2370776 Сборник трудов]
+** Совместно с: [[LOPSTR]]
+* PPDP 2011 (Дания, Оденсе)
+** 13th International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming
+** [http://www-ps.informatik.uni-kiel.de/ppdp11/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2011.html DBLP] • [http://dl.acm.org/citation.cfm?id=2003476 Сборник трудов]
+** Совместно с: [[LOPSTR]], [[WFLP]], [[AAIP]]
+* PPDP 2010 (Австрия, Хагенберг)
+** 12th International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming
+** [http://www.risc.jku.at/conferences/ppdp2010/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2010.html DBLP] • [http://dl.acm.org/citation.cfm?id=1836089 Сборник трудов]
+** Совместно с: [[LOPSTR]]
+* PPDP 2009 (Португалия, Коимбра)
+** 11th International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming
+** [http://www.dcc.fc.up.pt/ppdp09/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2009.html DBLP] • [http://dl.acm.org/citation.cfm?id=1599410 Сборник трудов]
+** Совместно с: [[CSL]], [[LOPSTR]]
+* PPDP 2008 (Испания, Валенсия)
+** 10th International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming
+** [http://clip.dia.fi.upm.es/Conferences/PPDP08/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2008.html DBLP] • [http://dl.acm.org/citation.cfm?id=1389449 Сборник трудов]
+** Совместно с: [[SAS]], [[LOPSTR]], [[PLID]]
+* PPDP 2007 (Польша, Вроцлав)
+** 9th International ACM SIGPLAN Symposium on Principles and Practice of Declarative Programming
+** [http://ppdp07.ii.uni.wroc.pl/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2007.html DBLP] • [http://dl.acm.org/citation.cfm?id=1273920 Сборник трудов]
+** Совместно с: [[LICS]], [[ICALP]], [[LC]]
+* PPDP 2006 (Италия, Венеция)
+** Eighth ACM-SIGPLAN International Symposium on Principles and Practice of Declarative Programming
+** [http://www.dsi.unive.it/ppdp06 !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2006.html DBLP] • [http://dl.acm.org/citation.cfm?id=1140335 Сборник трудов]
+** Совместно с: [[ICALP]], [[LOPSTR]]
+* PPDP 2005 (Португалия, Лиссабон)
+** Principles and Practice of Declarative Programming
+** [http://centria.di.fct.unl.pt/conferences/ppdp05/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2005.html DBLP] • [http://dl.acm.org/citation.cfm?id=1069774 Сборник трудов]
+** Совместно с: [[ICALP]]
+* PPDP 2004 (Италия, Верона)
+** 6th ACM-SIGPLAN International Conference on Principles and Practice of Declarative Programming
+** [http://profs.sci.univr.it/~ppdp04/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2004.html DBLP] • [http://dl.acm.org/citation.cfm?id=1013963 Сборник трудов]
+** Совместно с: [[PEPM]], [[LOPSTR]], [[SAS]]
+* PPDP 2003 (Швеция, Уппсала)
+** Fifth ACM-SIGPLAN International Conference on Principles and Practice of Declarative Programming
+** [http://www.it.uu.se/ppdp03/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2003.html DBLP] • [http://dl.acm.org/citation.cfm?id=888251 Сборник трудов]
+** Как часть: [[PLI]]
+** Совместно с: [[ICFP]]
+* PPDP 2002 (США, Питтсбург)
+** The 4th International Conference on Principles and Practice of Declarative Programming
+** [http://ppdp2002.cs.brown.edu/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2002.html DBLP] • [http://dl.acm.org/citation.cfm?id=571157 Сборник трудов]
+** Совместно с: [[ICFP]], [[GPCE]]
+* PPDP 2001 (Италия, Флоренция)
+** The colloquium on Principles, Logics, and Implementations of high-level programming languages
+** [http://music.dsi.unifi.it/pli01/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2001.html DBLP] • [http://dl.acm.org/citation.cfm?id=773184 Сборник трудов]
+** Как часть: [[PLI]]
+** Совместно с: [[ICFP]], [[ERLANG]], [[HASKELL]], [[SCHEME]], [[RULE]], [[VCL]], [[SAIG]], [[QAPL]], [[BABEL]], [[FICS]]
+* PPDP 2000 (Канада, Монреаль)
+** 2nd International Conference on Principles and Practice of Declarative Programming
+** [http://www.cse.yorku.ca/ppdp00/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp2000.html DBLP]
+** Как часть: [[PLI]]
+* PPDP 1999 (Франция, Париж)
+** International Conference on Principles and Practice of Declarative Programming
+** [http://contraintes.inria.fr/~fages/PPDP/PPDP99/ !] • [http://dblp.uni-trier.de/db/conf/ppdp/ppdp1999.html DBLP] • [http://www.springer.com/computer/swe/book/978-3-540-66540-3 Сборник трудов]
+** Как часть: [[PLI]]
+
+== Ссылки ==
+* [https://sites.google.com/site/ppdpconf/ PPDP] — официальный сайт серии
+* [http://dblp.uni-trier.de/db/conf/ppdp/ PPDP] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/228/ PPDP] на [[Academic]]
