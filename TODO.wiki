@@ -1,4 +1,4 @@
-Статьи, требующие создания (446):
+Статьи, требующие создания (445):
 
 * '''[[.NET]]''' (⇐ [[ECOOP]])
 * '''[[2FC]]''' (⇐ [[RTA]], [[TLCA]])
@@ -29,7 +29,7 @@
 * '''[[ASE]]''' (⇐ [[Home]])
 * '''[[ASPLOS]]''' (⇐ [[Home]])
 * '''[[ASPOCP]]''' (⇐ [[RTA]])
-* '''[[Academic]]''' (⇐ [[ECOOP]], [[ESEC]], [[Home]], [[IFM]], [[MoDELS]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[TLCA]], [[WCRE]])
+* '''[[Academic]]''' (⇐ [[CIG]], [[ECOOP]], [[ESEC]], [[FDG]], [[Home]], [[IFM]], [[ISMAR]], [[MoDELS]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[TLCA]], [[WCRE]])
 * '''[[Alloy]]''' (⇐ [[FSE]])
 * '''[[BABEL]]''' (⇐ [[PPDP]])
 * '''[[BSUP]]''' (⇐ [[ECOOP]])
@@ -76,7 +76,7 @@
 * '''[[CyberChair]]''' (⇐ [[ECOOP]], [[Home]], [[MoDELS]])
 * '''[[DAC]]''' (⇐ [[Home]])
 * '''[[DATE]]''' (⇐ [[Home]])
-* '''[[DBLP]]''' (⇐ [[ECOOP]], [[ESEC]], [[FSE]], [[GTTSE]], [[Home]], [[IFL]], [[IFM]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[SLE]], [[TLCA]], [[WCRE]])
+* '''[[DBLP]]''' (⇐ [[CIG]], [[ECOOP]], [[ESEC]], [[FDG]], [[FSE]], [[GTTSE]], [[Home]], [[IFL]], [[IFM]], [[ISMAR]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[SLE]], [[TLCA]], [[WCRE]])
 * '''[[DCM]]''' (⇐ [[RTA]])
 * '''[[DLS]]''' (⇐ [[ECOOP]])
 * '''[[DMMOS]]''' (⇐ [[ECOOP]])
@@ -183,7 +183,6 @@
 * '''[[ISAW]]''' (⇐ [[FSE]])
 * '''[[ISCA]]''' (⇐ [[Home]])
 * '''[[ISLPED]]''' (⇐ [[Home]])
-* '''[[ISMAR]]''' (⇐ [[Home]])
 * '''[[ISMM]]''' (⇐ [[ECOOP]], [[PLDI]])
 * '''[[ISNN]]''' (⇐ [[Home]])
 * '''[[ISQED]]''' (⇐ [[Home]])
@@ -448,4 +447,4 @@
 * '''[[eTX]]''' (⇐ [[ECOOP]])
 
 ----
-— ''Список обновлён 2013-05-04''
+— ''Список обновлён 2013-05-06''

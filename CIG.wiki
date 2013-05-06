@@ -1,0 +1,28 @@
+* Название: '''Conference on Computational Intelligence and Games'''
+* Перевод: '''Конференция по вычислительному интеллекту и играм'''
+* Статус: [[International-Conference|международная конференция]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* CIG 2012: Granada, Spain
+** [http://dblp.uni-trier.de/db/conf/cig/cig2012.html DBLP]
+* CIG 2011: Seoul, South Korea
+** [http://dblp.uni-trier.de/db/conf/cig/cig2011.html DBLP]
+* CIG 2010: Copenhagen, Denmark
+** [http://dblp.uni-trier.de/db/conf/cig/cig2010.html DBLP]
+* CIG 2009: Milano, Italy
+** [http://dblp.uni-trier.de/db/conf/cig/cig2009.html DBLP]
+* CIG 2008: Perth, Australia
+** [http://dblp.uni-trier.de/db/conf/cig/cig2008.html DBLP]
+* 3. CIG 2007: Honolulu, Hawaii, USA
+** [http://dblp.uni-trier.de/db/conf/cig/cig2007.html DBLP]
+* 2. CIG 2006: Reno/Lake Tahoe, NV, USA
+** [http://dblp.uni-trier.de/db/conf/cig/cig2006.html DBLP]
+* 1. CIG 2005: Colchester, Essex, UK
+** [http://dblp.uni-trier.de/db/conf/cig/cig2005.html DBLP]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/cig/ CIG] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/1857/ CIG] на [[Academic]]

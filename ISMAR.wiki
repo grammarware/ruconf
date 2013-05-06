@@ -1,0 +1,37 @@
+* Название: '''International Symposium on Mixed and Augmented Reality'''
+* Перевод: '''Международный симпозиум по смешанной и расширенной реальности'''
+* Статус: [[Symposium|симпозиум]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* ISMAR 2012: Atlanta, GA, USA
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2012.html DBLP]
+* ISMAR 2011: Basel, Switzerland
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2011.html DBLP]
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar-amh2011.html DBLP]
+* ISMAR 2010: Seoul, Korea
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2010.html DBLP]
+* ISMAR 2009: Orlando, Florida, USA
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2009.html DBLP]
+* ISMAR 2008: Cambridge, UK
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2008.html DBLP]
+* ISMAR 2007: Nara, Japan
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2007.html DBLP]
+* ISMAR 2006: Santa Barbara, CA, USA
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2006.html DBLP]
+* ISMAR 2005: Vienna, Austria
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2005.html DBLP]
+* ISMAR 2004: Arlington, VA, USA
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2004.html DBLP]
+* ISMAR 2003: Tokyo, Japan
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2003.html DBLP]
+* ISMAR 2002: Darmstadt, Germany
+** [http://dblp.uni-trier.de/db/conf/ismar/ismar2002.html DBLP]
+* ISAR 2001: New York, NY, USA
+** [http://dblp.uni-trier.de/db/conf/ismar/isar2001.html DBLP]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/ismar/ ISMAR] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/90/ ISMAR] на [[Academic]]

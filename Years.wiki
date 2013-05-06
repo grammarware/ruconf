@@ -62,12 +62,12 @@
 ; [[2010]]
 : [[ACES-MB|ACES MB]] • [[ECOOP]] • [[FOSD]] • [[FSE]] • [[IFL]] • [[IFM]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[WCRE]]
 ; [[2011]]
-: [[ACES-MB|ACES MB]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[FOSD]] • [[FSE]] • [[GTTSE]] • [[IFL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[VARY]] • [[WCRE]]
+: [[ACES-MB|ACES MB]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[FDG]] • [[FOSD]] • [[FSE]] • [[GTTSE]] • [[IFL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[VARY]] • [[WCRE]]
 ; [[2012]]
-: [[ACES-MB|ACES MB]] • [[AMT]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[FOSD]] • [[FSE]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[MDsec]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MotPW]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[VARY]] • [[WCRE]] • [[XM]]
+: [[ACES-MB|ACES MB]] • [[AMT]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[FDG]] • [[FOSD]] • [[FSE]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[MDsec]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MotPW]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[VARY]] • [[WCRE]] • [[XM]]
 ; [[2013]]
-: [[AMT]] • [[CMA|CMA@MODELS]] • [[CMA|CMA@RE]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[XM]]
+: [[AMT]] • [[CMA|CMA@MODELS]] • [[CMA|CMA@RE]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[FDG]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[XM]]
 ; [[2014]]
 : [[RTA]]
 ----
-— ''Список обновлён 2013-05-04''
+— ''Список обновлён 2013-05-06''

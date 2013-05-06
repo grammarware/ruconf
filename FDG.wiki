@@ -1,0 +1,23 @@
+* Название: '''International Conference on the Foundations of Digital Games'''
+* Перевод: '''Международная конференция по основам цифровых игр'''
+* Статус: [[International-Conference|международная конференция]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* FDG 2013 (Греция, Ханья)
+** 8th International Conference on the Foundations of Digital Games
+** [http://www.fdg2013.org/ Сайт]
+* FDG 2012 (США, Роли)
+** [http://dblp.uni-trier.de/db/conf/fdg/fdg2012.html DBLP]
+* FDG 2011 (Франция, Бордо)
+** [http://dblp.uni-trier.de/db/conf/fdg/fdg2011.html DBLP]
+* FDG 2010: Pacific Grove, CA, USA
+** [http://dblp.uni-trier.de/db/conf/fdg/fdg2010.html DBLP]
+* FDG 2009: Orlando, Florida, USA
+** [http://dblp.uni-trier.de/db/conf/fdg/fdg2009.html DBLP]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/fdg/ FDG] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/2689/ FDG] на [[Academic]]
