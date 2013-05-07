@@ -58,9 +58,9 @@
 ; [[2008]]
 : [[ACES-MB|ACES MB]] • [[ECOOP]] • [[FSE]] • [[IFL]] • [[ME|MCCM]] • [[MoDELS]] • [[MoDeVVa]] • [[ME|MoDSE]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[WCRE]]
 ; [[2009]]
-: [[ACES-MB|ACES MB]] • [[ECOOP]] • [[ESEC]] • [[FOSD]] • [[FSE]] • [[GTTSE]] • [[IFL]] • [[IFM]] • [[MoDELS]] • [[MoDeVVa]] • [[ME|MoDSE/MCCM]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[WCRE]]
+: [[ACES-MB|ACES MB]] • [[ECOOP]] • [[ESEC]] • [[FDG]] • [[FOSD]] • [[FSE]] • [[GTTSE]] • [[IFL]] • [[IFM]] • [[MoDELS]] • [[MoDeVVa]] • [[ME|MoDSE/MCCM]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[WCRE]]
 ; [[2010]]
-: [[ACES-MB|ACES MB]] • [[ECOOP]] • [[FOSD]] • [[FSE]] • [[IFL]] • [[IFM]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[WCRE]]
+: [[ACES-MB|ACES MB]] • [[ECOOP]] • [[FDG]] • [[FOSD]] • [[FSE]] • [[IFL]] • [[IFM]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[WCRE]]
 ; [[2011]]
 : [[ACES-MB|ACES MB]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[FDG]] • [[FOSD]] • [[FSE]] • [[GTTSE]] • [[IFL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[PPDP]] • [[RTA]] • [[SLE]] • [[TLCA]] • [[VARY]] • [[WCRE]]
 ; [[2012]]
@@ -70,4 +70,4 @@
 ; [[2014]]
 : [[RTA]]
 ----
-— ''Список обновлён 2013-05-06''
+— ''Список обновлён 2013-05-07''
