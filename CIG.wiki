@@ -3,24 +3,47 @@
 * Статус: [[International-Conference|международная конференция]]
 
 == Тематика ==
-* …
+* Обучение в играх
+* Коэволюция в играх
+* Подходы с использованием нейтронных сетей в играх
+* Подходы с использованием нечёткой логики в играх
+* Моделирование игрока/противника в играх
+* Разработка игр, основанная на вычислительном или искусственном интеллекте
+* Мультиагентное и мультистратегическое обучение
+* Приложения теории игр
+* Вычислительный интеллект для аффективного моделирования игрока
+* Разумный интерактивный нарратив
+* Неполная информация и недетерминированные игры
+* Удовлетворение игрока и игровой опыт
+* Теоретический и эмпирический анализ техник вычислительного интеллекта
+* Вычислительный интеллект для неигровых персонажей в играх
+* Сравнительные эксперименты и оценка по игре
+* Основанные на вычислительном интеллекте цифровые помощники разработчика
+* Автоматическое создание модулей и уровней игры
+* Вычислительный и искусственный интеллект в видеоиграх, настольных играх, карточных играх, экономических играх, математических играх, серьёзных играх, расширенной и смешанной реальности
 
 == Архив ==
-* CIG 2012: Granada, Spain
+* CIG 2013 (Канада, Ниагара Фоллс)
+** IEEE Conference on Computational Intelligence and Games
+** [http://eldar.mathstat.uoguelph.ca/dashlock/CIG2013/CIG2013cfp2.html Сайт]
+* CIG 2012 (Испания, Гранада)
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2012.html DBLP]
-* CIG 2011: Seoul, South Korea
+* CIG 2011 (Северная Корея, Сеул)
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2011.html DBLP]
-* CIG 2010: Copenhagen, Denmark
+* CIG 2010 (Дания, Копенгаген)
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2010.html DBLP]
-* CIG 2009: Milano, Italy
+* CIG 2009 (Италия, Милан)
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2009.html DBLP]
-* CIG 2008: Perth, Australia
+* CIG 2008 (Австралия, Перт)
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2008.html DBLP]
-* 3. CIG 2007: Honolulu, Hawaii, USA
+* CIG 2007 (США, Гонолулу)
+** Third Conference on Computational Intelligence and Games
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2007.html DBLP]
-* 2. CIG 2006: Reno/Lake Tahoe, NV, USA
+* CIG 2006 (США, Рено)
+** Second Conference on Computational Intelligence and Games
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2006.html DBLP]
-* 1. CIG 2005: Colchester, Essex, UK
+* CIG 2005 (Великобритания, Колчестер)
+** Conference on Computational Intelligence and Games
 ** [http://dblp.uni-trier.de/db/conf/cig/cig2005.html DBLP]
 
 == Ссылки ==
