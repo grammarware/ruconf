@@ -2,6 +2,11 @@
 * Перевод: '''Конференция по вычислительному интеллекту и играм'''
 * Статус: [[International-Conference|международная конференция]]
 
+== Детали ==
+* Стиль оформления — [[IEEE]] (две колонки, мелкий шрифт)
+* Предельный объём — 8 страниц
+* Система подачи и обработки статей — [[EasyChair]]
+
 == Тематика ==
 * Обучение в играх
 * Коэволюция в играх
@@ -23,29 +28,35 @@
 * Вычислительный и искусственный интеллект в видеоиграх, настольных играх, карточных играх, экономических играх, математических играх, серьёзных играх, расширенной и смешанной реальности
 
 == Архив ==
-* CIG 2013 (Канада, Ниагара Фоллс)
+* CIG 2013 (Канада, Ниагара-Фолс)
 ** IEEE Conference on Computational Intelligence and Games
 ** [http://eldar.mathstat.uoguelph.ca/dashlock/CIG2013/CIG2013cfp2.html Сайт]
 * CIG 2012 (Испания, Гранада)
-** [http://dblp.uni-trier.de/db/conf/cig/cig2012.html DBLP]
+** IEEE Conference on Computational Intelligence and Games
+** [http://geneura.ugr.es/cig2012/ Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2012.html DBLP] • [http://geneura.ugr.es/cig2012/proceedings.html Сборник трудов]
 * CIG 2011 (Северная Корея, Сеул)
-** [http://dblp.uni-trier.de/db/conf/cig/cig2011.html DBLP]
+** IEEE Conference on Computational Intelligence and Games
+** [http://cilab.sejong.ac.kr/cig2011/ Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2011.html DBLP] • [http://cilab.sejong.ac.kr/cig2011/proceedings/start.html Сборник трудов]
 * CIG 2010 (Дания, Копенгаген)
-** [http://dblp.uni-trier.de/db/conf/cig/cig2010.html DBLP]
+** IEEE Symposium on Computational Intelligence and Games
+** [http://game.itu.dk/cig2010/ Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2010.html DBLP] • [http://game.itu.dk/cig2010/proceedings/Start.html Сборник трудов] • [http://vimeo.com/channels/cig2010 Видеозаписи докладов]
 * CIG 2009 (Италия, Милан)
-** [http://dblp.uni-trier.de/db/conf/cig/cig2009.html DBLP]
+** IEEE Symposium on Computational Intelligence and Games
+** [http://www.ieee-cig.org/2009 Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2009.html DBLP] • [http://www.ieee-cig.org/cig-2009/Proceedings/ Сборник трудов]
 * CIG 2008 (Австралия, Перт)
-** [http://dblp.uni-trier.de/db/conf/cig/cig2008.html DBLP]
+** IEEE Symposium on Computational Intelligence and Games
+** [http://www.csse.uwa.edu.au/cig08/ Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2008.html DBLP] • [http://www.csse.uwa.edu.au/cig08/acceptedPapers.html Статьи]
 * CIG 2007 (США, Гонолулу)
-** Third Conference on Computational Intelligence and Games
-** [http://dblp.uni-trier.de/db/conf/cig/cig2007.html DBLP]
+** IEEE Symposium on Computational Intelligence and Games
+** [http://cswww.essex.ac.uk/cig/2007/ Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2007.html DBLP] • [http://cswww.essex.ac.uk/cig/2007/index.jsp?page=papers.html Статьи]
 * CIG 2006 (США, Рено)
-** Second Conference on Computational Intelligence and Games
-** [http://dblp.uni-trier.de/db/conf/cig/cig2006.html DBLP]
+** IEEE Symposium on Computational Intelligence and Games
+** [http://www.cse.unr.edu/~sushil/cig06/ Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2006.html DBLP] • [http://www.cse.unr.edu/~sushil/cig06/proceedings/cigv5.pdf Сборник трудов]
 * CIG 2005 (Великобритания, Колчестер)
-** Conference on Computational Intelligence and Games
-** [http://dblp.uni-trier.de/db/conf/cig/cig2005.html DBLP]
+** IEEE Symposium on Computational Intelligence and Games
+** [http://cswww.essex.ac.uk/cig/2005/ Сайт] • [http://dblp.uni-trier.de/db/conf/cig/cig2005.html DBLP] • [http://cswww.essex.ac.uk/cig/2005/index.jsp?page=papers.html Сборник трудов]
 
 == Ссылки ==
+* [http://www.ieee-cig.org/ IEEE CIG] — официальный сайт серии
 * [http://dblp.uni-trier.de/db/conf/cig/ CIG] на [[DBLP]]
 * [http://academic.research.microsoft.com/Conference/1857/ CIG] на [[Academic]]
