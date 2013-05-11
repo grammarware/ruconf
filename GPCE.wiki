@@ -2,6 +2,7 @@
 * Перевод: '''Международная конференция по порождающему программированию, концепциям и опыту'''
 * Раньше называлась международной конференцией по порождающему программированию и компонентной разработке
 * Статус: [[International-Conference|международная конференция]]
+* Появилась в 2002 году как результат объединения [[GCSE]] и [[SAIG]]
 
 == Детали ==
 * Анонимное рецензирование (рецензентам видны авторы, авторам виден только список всех рецензентов)
@@ -42,33 +43,43 @@
 * GPCE 2013 (США, Индианаполис)
 ** 12th International Conference on Generative Programming: Concepts & Experiences 
 ** [http://program-transformation.org/GPCE13 Сайт]
+** Совместно с: [[SPLASH]], [[OOPSLA]], [[SLE]]
 * GPCE 2012 (Германия, Дрезден)
 ** 11th International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2012.html DBLP] • [http://www.program-transformation.org/GPCE12/ Сайт]
+** Совместно с: [[SLE]], [[FOSD]]
 * GPCE 2011 (США, Портленд)
 ** Tenth International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2011.html DBLP] • [http://www.program-transformation.org/GPCE11/ Сайт]
+** Совместно с: [[SPLASH]]
 * GPCE 2010 (Нидерланды, Эйндховен)
 ** Ninth International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2010.html DBLP] • [http://www.program-transformation.org/GPCE10/ Сайт]
+** Совместно с: [[SLE]], [[FOSD]]
 * GPCE 2009 (США, Денвер)
 ** Eighth International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2009.html DBLP] • [http://www.program-transformation.org/GPCE09/ Сайт]
+** Совместно с: [[MoDELS]], [[SLE]]
 * GPCE 2008 (США, Нашвилл)
 ** Seventh International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2008.html DBLP] • [http://www.program-transformation.org/GPCE08/ Сайт]
+** Совместно с: [[OOPSLA]]
 * GPCE 2007 (Австрия, Зальцбург)
 ** Sixth International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2007.html DBLP] • [http://www.program-transformation.org/GPCE07/ Сайт]
+** Совместно с: [[ESWEEK]]
 * GPCE 2006 (США, Портленд)
 ** Fifth International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2006.html DBLP] • [http://www.program-transformation.org/GPCE06/ Сайт]
+** Совместно с: [[OOPSLA]]
 * GPCE 2005 (Эстония, Таллин)
 ** Fourth International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2005.html DBLP] • [http://www.program-transformation.org/Gpce05/ Сайт] • [http://www.springer.com/computer/swe/book/978-3-540-29138-1 Сборник трудов]
+** Совместно с: [[ICFP]], [[TFP]]
 * GPCE 2004 (Канада, Ванкувер)
 ** Third International Conference on Generative Programming and Component Engineering
 ** [http://dblp.uni-trier.de/db/conf/gpce/gpce2004.html DBLP] • [http://www.program-transformation.org/Gpce04/ Сайт]
+** Совместно с: [[OOPSLA]], [[ISMM]]
 * GPCE 2003 (Германия, Эрфурт)
 ** Second International Conference on Generative Programming and Component Engineering
 ** [http://www.cc.gatech.edu/GPCE03/ Сайт] • [http://dblp.uni-trier.de/db/conf/gpce/gpce2003.html DBLP]
