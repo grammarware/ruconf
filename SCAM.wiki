@@ -1,0 +1,65 @@
+* Название: '''International Working Conference on Source Code Analysis and Manipulation'''
+* Перевод: '''Международная рабочая конференция по анализу исходного кода и манипуляциям с ним'''
+* Статус: [[Working-Conference|рабочая конференция]] (до 2007 года — рабочая встреча)
+
+== Тематика ==
+* …
+
+== Архив ==
+* SCAM 2013 (Нидерланды, Эйндховен)
+** 13th IEEE International Working Conference on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2013/ Сайт]
+** Совместно с: [[ICSM]]
+* SCAM 2012 (Италия, Рива-дель-Гарда)
+** 12th IEEE International Working Conference on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2012/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2012.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2011 (США, Вильямсбург)
+** 11th IEEE International Working Conference on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2011/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2011.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2010 (Румыния, Тимишоара)
+** Tenth IEEE International Working Conference on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2010/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2010.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2009 (Канада, Эдмонтон)
+** Ninth IEEE International Working Conference on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2009/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2009.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2008 (Китай, Пекин)
+** Eighth IEEE International Working Conference on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2008/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2008.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2007 (Франция, Париж)
+** Seventh IEEE International Working Conference on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2007/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2007.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2006 (США, Филадельфия)
+** Sixth IEEE International Workshop on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2006/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2006.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2005 (Венгрия, Будапешт)
+** Fifth IEEE International Workshop on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2005/ Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2005.html DBLP]
+** Совместно с: [[ICSM]]
+* SCAM 2004 (США, Чикаго)
+** Fourth IEEE International Workshop on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2004/home.html Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2004.html DBLP] • [http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=30171&isYear=2004 Сборник трудов]
+** Совместно с: [[ICSM]], [[WSE]], [[VISSOFT]], [[STEP]], [[ELIZA]]
+* SCAM 2003 (Нидерланды, Амстердам)
+** Third IEEE International Workshop on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2003/home.html Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2003.html DBLP] • [http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=27776&isYear=2003 Сборник трудов]
+** Совместно с: [[ICSM]], [[Metrics]], [[WSE]], [[WESS]]
+* SCAM 2002 (Канада, Монреаль)
+** Second IEEE International Workshop on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2002/home.html Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2002.html DBLP]
+** Совместно с: [[ICSM]], [[WSE]], [[WESS]], [[DBMR]]
+* SCAM 2001 (Италия, Флоренция)
+** IEEE International Workshop on Source Code Analysis and Manipulation
+** [http://www.ieee-scam.org/2001/home.html Сайт] • [http://dblp.uni-trier.de/db/conf/scam/scam2001.html DBLP]
+** Совместно с: [[ICSM]], [[WESS]]
+
+== Ссылки ==
+* [http://www.ieee-scam.org/ IEEE SCAM] — официальный сайт серии
+* [http://dblp.uni-trier.de/db/conf/scam/ SCAM] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/2269/ SCAM] на [[Academic]]
