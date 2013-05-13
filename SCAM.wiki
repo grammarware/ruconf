@@ -1,6 +1,6 @@
 * Название: '''International Working Conference on Source Code Analysis and Manipulation'''
 * Перевод: '''Международная рабочая конференция по анализу исходного кода и манипуляциям с ним'''
-* Статус: [[Working-Conference|рабочая конференция]] (до 2007 года — рабочая встреча)
+* Статус: [[Working-Conference|рабочая конференция]], [[Workshop|рабочая встреча]]
 
 == Тематика ==
 * …

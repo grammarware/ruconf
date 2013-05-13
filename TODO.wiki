@@ -1,4 +1,4 @@
-Статьи, требующие создания (451):
+Статьи, требующие создания (459):
 
 * '''[[.NET]]''' (⇐ [[ECOOP]])
 * '''[[2FC]]''' (⇐ [[RTA]], [[TLCA]])
@@ -29,7 +29,7 @@
 * '''[[ASE]]''' (⇐ [[Home]])
 * '''[[ASPLOS]]''' (⇐ [[Home]])
 * '''[[ASPOCP]]''' (⇐ [[RTA]])
-* '''[[Academic]]''' (⇐ [[CIG]], [[ECOOP]], [[ESEC]], [[FDG]], [[GPCE]], [[Home]], [[IFM]], [[ISMAR]], [[MoDELS]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[TLCA]], [[WCRE]])
+* '''[[Academic]]''' (⇐ [[CIG]], [[ECOOP]], [[ESEC]], [[FDG]], [[GPCE]], [[Home]], [[IFM]], [[ISMAR]], [[MoDELS]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[SCAM]], [[TLCA]], [[WCRE]])
 * '''[[Alloy]]''' (⇐ [[FSE]])
 * '''[[BABEL]]''' (⇐ [[PPDP]])
 * '''[[BSUP]]''' (⇐ [[ECOOP]])
@@ -77,7 +77,8 @@
 * '''[[CyberChair]]''' (⇐ [[ECOOP]], [[Home]], [[MoDELS]])
 * '''[[DAC]]''' (⇐ [[Home]])
 * '''[[DATE]]''' (⇐ [[Home]])
-* '''[[DBLP]]''' (⇐ [[CIG]], [[ECOOP]], [[ESEC]], [[FDG]], [[FSE]], [[GPCE]], [[GTTSE]], [[Home]], [[IFL]], [[IFM]], [[ISMAR]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[SLE]], [[TLCA]], [[WCRE]])
+* '''[[DBLP]]''' (⇐ [[CIG]], [[ECOOP]], [[ESEC]], [[FDG]], [[FSE]], [[GPCE]], [[GTTSE]], [[Home]], [[IFL]], [[IFM]], [[ISMAR]], [[MoDELS]], [[MPM]], [[PEPM]], [[PLDI]], [[PPDP]], [[RTA]], [[SCAM]], [[SLE]], [[TLCA]], [[WCRE]])
+* '''[[DBMR]]''' (⇐ [[SCAM]])
 * '''[[DCM]]''' (⇐ [[RTA]])
 * '''[[DLS]]''' (⇐ [[ECOOP]])
 * '''[[DMMOS]]''' (⇐ [[ECOOP]])
@@ -99,6 +100,7 @@
 * '''[[EESSMOD]]''' (⇐ [[MoDELS]])
 * '''[[EFTS]]''' (⇐ [[ESEC]], [[FSE]])
 * '''[[EHOOS]]''' (⇐ [[ECOOP]])
+* '''[[ELIZA]]''' (⇐ [[SCAM]])
 * '''[[ELW]]''' (⇐ [[ECOOP]])
 * '''[[EMSQMS]]''' (⇐ [[RTA]])
 * '''[[EOOLT]]''' (⇐ [[ECOOP]], [[MoDELS]])
@@ -172,6 +174,7 @@
 * '''[[ICPT]]''' (⇐ [[Home]])
 * '''[[ICS]]''' (⇐ [[Home]])
 * '''[[ICSE]]''' (⇐ [[Home]])
+* '''[[ICSM]]''' (⇐ [[SCAM]])
 * '''[[ICSOC]]''' (⇐ [[Home]])
 * '''[[ICST]]''' (⇐ [[MoDeVVa]])
 * '''[[ICTEI]]''' (⇐ [[Home]])
@@ -264,6 +267,7 @@
 * '''[[MSPC]]''' (⇐ [[PLDI]])
 * '''[[MTP]]''' (⇐ [[MoDELS]])
 * '''[[MVOOPL]]''' (⇐ [[ECOOP]])
+* '''[[Metrics]]''' (⇐ [[SCAM]])
 * '''[[MoDeVVA]]''' (⇐ [[MoDELS]])
 * '''[[MoVaH]]''' (⇐ [[MoDeVVa]])
 * '''[[ModSec]]''' (⇐ [[MoDELS]])
@@ -378,6 +382,7 @@
 * '''[[SPLASH]]''' (⇐ [[ECOOP]], [[GPCE]], [[Home]], [[SLE]])
 * '''[[SPLC]]''' (⇐ [[FOSD]])
 * '''[[SSE]]''' (⇐ [[ESEC]], [[FSE]])
+* '''[[STEP]]''' (⇐ [[SCAM]])
 * '''[[STOC]]''' (⇐ [[Home]])
 * '''[[STOP]]''' (⇐ [[ECOOP]])
 * '''[[SVARM]]''' (⇐ [[RTA]])
@@ -412,6 +417,7 @@
 * '''[[VCL]]''' (⇐ [[PPDP]])
 * '''[[VEE]]''' (⇐ [[PLDI]])
 * '''[[VERIFY]]''' (⇐ [[RTA]])
+* '''[[VISSOFT]]''' (⇐ [[SCAM]])
 * '''[[VL/HCC]]''' (⇐ [[MoDELS]])
 * '''[[VLDB]]''' (⇐ [[Home]])
 * '''[[WASDeTT]]''' (⇐ [[ECOOP]])
@@ -420,6 +426,7 @@
 * '''[[WCL]]''' (⇐ [[ECOOP]], [[ESEC]], [[FSE]])
 * '''[[WCOP]]''' (⇐ [[ECOOP]])
 * '''[[WEH]]''' (⇐ [[FSE]])
+* '''[[WESS]]''' (⇐ [[SCAM]])
 * '''[[WESTAPP]]''' (⇐ [[RTA]])
 * '''[[WFLP]]''' (⇐ [[PPDP]], [[RTA]], [[TLCA]])
 * '''[[WING]]''' (⇐ [[RTA]])
@@ -437,6 +444,7 @@
 * '''[[WOWMOM]]''' (⇐ [[Home]])
 * '''[[WRS]]''' (⇐ [[RTA]], [[TLCA]])
 * '''[[WSDM]]''' (⇐ [[Home]])
+* '''[[WSE]]''' (⇐ [[SCAM]])
 * '''[[WSOP]]''' (⇐ [[ECOOP]])
 * '''[[WST]]''' (⇐ [[RTA]], [[TLCA]])
 * '''[[WTS]]''' (⇐ [[IFM]])
@@ -453,4 +461,4 @@
 * '''[[eTX]]''' (⇐ [[ECOOP]])
 
 ----
-— ''Список обновлён 2013-05-11''
+— ''Список обновлён 2013-05-13''

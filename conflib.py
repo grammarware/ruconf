@@ -37,7 +37,7 @@ def exists(url):
 	return False
 
 def implode(z):
-	s = z.lower()
+	s = z.lower().replace('-',' ')
 	if s.find('workshop') > -1:
 		return 'ws'
 	elif s.find('working conference') > -1:
