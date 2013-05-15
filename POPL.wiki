@@ -1,0 +1,147 @@
+* Название: '''Symposium on Principles of Programming Languages'''
+* Перевод: '''Симпозиум по принципам языков программирования'''
+* Статус: [[Symposium|симпозиум]]
+
+== Тематика ==
+* …
+
+== Архив ==
+* POPL 2014 (США, Сан-Диего)
+** 41st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://popl.mpi-sws.org/2014/ Сайт]
+* POPL 2013 (Италия, Рим)
+** 40th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://popl.mpi-sws.org/2013/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2013.html DBLP]
+** Совместно с: [[PEPM]], [[PLPV]], [[DDFP]]
+* POPL 2012 (США, Филадельфия)
+** 39th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cse.psu.edu/popl/12/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2012.html DBLP] • [http://dl.acm.org/citation.cfm?id=2103621 Сборник трудов]
+** Совместно с: [[PEPM]], [[PLPV]], [[DAMP]]
+* POPL 2011 (США, Остин)
+** 38th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cse.psu.edu/popl/11/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2011.html DBLP]
+** Совместно с: [[DAMP]], [[PEPM]], [[PLPV]], [[TLDI]]
+* POPL 2010 (Испания, Мадрид)
+** 37th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cse.psu.edu/popl/10/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2010.html DBLP]
+** Совместно с: [[DAMP]], [[PLPV]]
+* POPL 2009 (США, Саванна)
+** 36th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://cseweb.ucsd.edu/popl/09/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2009.html DBLP]
+** Совместно с: [[DAMP]], [[PLPV]]
+* POPL 2008 (США, Сан-Франциско)
+** 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://cseweb.ucsd.edu/popl/08/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2008.html DBLP]
+* POPL 2007 (Франция, Ницца)
+** 34th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://cseweb.ucsd.edu/popl/07/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2007.html DBLP]
+** Совместно с: [[DAMP]]
+* POPL 2006 (США, Чарлстон)
+** 33rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cs.princeton.edu/~dpw/popl/06/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2006.html DBLP]
+* POPL 2005 (США, Лонг-Бич)
+** 32nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cs.princeton.edu/~dpw/popl/05/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2005.html DBLP]
+** Совместно с: [[WITS]]
+* POPL 2004 (Италия, Венеция)
+** 31st Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cs.princeton.edu/~dpw/popl/04/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl2004.html DBLP]
+* POPL 2003 (США, Новый Орлеан)
+** 30th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://web.archive.org/web/20080220104104/http://www.cs.berkeley.edu/~aiken/popl03/ Архив сайта] • [http://dblp.uni-trier.de/db/conf/popl/popl2003.html DBLP]
+* POPL 2002 (США, Портленд)
+** 29th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://web.archive.org/web/20080207210356/http://www.cse.ogi.edu/PacSoft/conf/popl/ Архив сайта] • [http://dblp.uni-trier.de/db/conf/popl/popl2002.html DBLP]
+* POPL 2001 (Великобритания, Лондон)
+** 28th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://web.archive.org/web/20040609090448/http://www.daimi.au.dk/~popl01/ Архив сайта] • [http://dblp.uni-trier.de/db/conf/popl/popl2001.html DBLP]
+** Совместно с: [[CW]], [[FOOL]], [[SPACE]]
+* POPL 2000 (США, Бостон)
+** 27th ACM Principles of Programming Languages
+** [http://web.archive.org/web/20080216183053/http://www.research.ibm.com/people/w/wegman/POPL.html Архив сайта] • [http://dblp.uni-trier.de/db/conf/popl/popl2000.html DBLP]
+** Совместно с: [[Dynamo]], [[FOOL]], [[PEPM]], [[PADL]]
+* POPL 1999 (США, Сан-Антонио)
+** 26th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cs.princeton.edu/~appel/popl99/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl99.html DBLP]
+* POPL 1998 (США, Сан-Диего)
+** 25th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl98.html DBLP]
+* POPL 1997 (Франция, Париж)
+** 24th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cs.umd.edu/~pugh/popl97/ Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl97.html DBLP]
+* POPL 1996 (США, Сент-Пит-Бич)
+** 23rd ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [ftp://cm.bell-labs.com/who/Old/dbm/popl98/history/POPL96.html Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl96.html DBLP]
+* POPL 1995 (США, Сан-Франциско)
+** 22nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://www.cs.wustl.edu/~cytron/popl95.html Сайт] • [http://dblp.uni-trier.de/db/conf/popl/popl95.html DBLP]
+* POPL 1994 (США, Портленд)
+** 21st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl94.html DBLP]
+** Совместно с: [[IDL]]
+* POPL 1993 (США, Чарлстон)
+** Twentieth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl93.html DBLP]
+* POPL 1992 (США, Альбукерке)
+** Nineteenth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl92.html DBLP]
+* POPL 1991 (США, Орландо)
+** Eighteenth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl91.html DBLP]
+* POPL 1990 (США, Сан-Франциско)
+** Seventeenth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl90.html DBLP]
+* POPL 1989 (США, Остин)
+** Sixteenth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl89.html DBLP]
+* POPL 1988 (США, Сан-Диего)
+** Fifteenth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl88.html DBLP]
+* POPL 1987 (Германия, Мюнхен)
+** Fourteenth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl87.html DBLP]
+* POPL 1986 (США, Сент-Пит-Бич)
+** Thirteenth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl86.html DBLP]
+* POPL 1985 (США, Новый Орлеан)
+** Twelfth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl85.html DBLP]
+* POPL 1984 (США, Солт-Лейк-Сити)
+** Eleventh Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl84.html DBLP]
+* POPL: The First Ten Years
+** [http://dblp.uni-trier.de/db/conf/popl/cd1997.html DBLP]
+* POPL 1983 (США, Остин)
+** Tenth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl83.html DBLP]
+* POPL 1982 (США, Альбукерке)
+** Ninth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl82.html DBLP]
+* POPL 1981 (США, Вильямсбург)
+** Eighth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl81.html DBLP]
+* POPL 1980 (США, Лас-Вегас)
+** Seventh Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl80.html DBLP]
+* POPL 1979 (США, Сан-Антонио)
+** Sixth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl79.html DBLP]
+* POPL 1978 (США, Тусон)
+** Fifth Annual ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl78.html DBLP]
+* POPL 1977 (США, Лос-Анжелес)
+** Fourth ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl77.html DBLP]
+* POPL 1976 (США, Атланта)
+** Third ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl76.html DBLP]
+* POPL 1975 (США, Пало-Альто)
+** Second ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl75.html DBLP]
+* POPL 1973 (США, Бостон)
+** ACM Symposium on Principles of Programming Languages
+** [http://dblp.uni-trier.de/db/conf/popl/popl73.html DBLP]
+
+== Ссылки ==
+* [http://dblp.uni-trier.de/db/conf/popl/ POPL] на [[DBLP]]
+* [http://academic.research.microsoft.com/Conference/225/ POPL] на [[Academic]]
