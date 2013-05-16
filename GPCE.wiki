@@ -88,5 +88,7 @@
 
 == Ссылки ==
 * [http://www.sigplan.org/Conferences/GPCE/Main GPCE] — официальный сайт серии
+* [http://www.facebook.com/GPCEConference GPCE] на фейсбуке
+* [http://twitter.com/GPCECONF GPCECONF] в твиттере
 * [http://dblp.uni-trier.de/db/conf/gpce/ GPCE] на [[DBLP]]
 * [http://academic.research.microsoft.com/Conference/1030/ GPCE] на [[Academic]]
