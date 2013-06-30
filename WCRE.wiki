@@ -37,9 +37,12 @@
 * реинжиниринг производительности
 
 == Архив ==
+* WCRE [[2013]] (Германия, Кобленц)
+** 20th Working Conference on Reverse Engineering
+** [http://wcre.wikidot.com/2013 Сайт]
 * WCRE [[2012]] (Канада, Кингстон)
 ** 19th Working Conference on Reverse Engineering
-** [http://www.distat.unimol.it/wcre2012/ Сайт]
+** [http://dblp.uni-trier.de/db/conf/wcre/wcre2012.html DBLP] • [http://www.distat.unimol.it/wcre2012/ Сайт]
 * WCRE [[2011]] (Ирландия, Лимерик)
 ** 18th Working Conference on Reverse Engineering
 ** [http://dblp.uni-trier.de/db/conf/wcre/wcre2011.html DBLP] • [http://twitter.com/wcre11 Твиттер] • [http://www.facebook.com/wcre2011 Facebook] • [http://www.cs.wm.edu/semeru/wcre2011/ Сайт] (не работает, архива нет)
@@ -100,3 +103,5 @@
 == Ссылки ==
 * [http://dblp.uni-trier.de/db/conf/wcre/ WCRE] на [[DBLP]]
 * [http://academic.research.microsoft.com/Conference/480/ WCRE] на [[Academic]]
+* [http://twitter.com/wcreconf @wcreconf] в [[Twitter]]
+ 
