@@ -80,8 +80,8 @@
 ; [[2012]]
 : [[ACES-MB|ACES MB]] • [[AMT]] • [[CIG]] • [[CMA]] • [[ECOOP]] • [[EESSMod]] • [[FDG]] • [[FOSD]] • [[FSE]] • [[GPCE]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[MDsec]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MotPW]] • [[MPM]] • [[MRT]] • [[NFPinDSML]] • [[OCL]] • [[PEPM]] • [[PLDI]] • [[POPL]] • [[PPDP]] • [[RTA]] • [[SCAM]] • [[SLE]] • [[VARY]] • [[WCRE]] • [[XM]]
 ; [[2013]]
-: [[AMT]] • [[CIG]] • [[CMA|CMA@MODELS]] • [[CMA|CMA@RE]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[FDG]] • [[GPCE]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[PLDI]] • [[POPL]] • [[PPDP]] • [[RTA]] • [[SCAM]] • [[SLE]] • [[TLCA]] • [[WCRE]] • [[XM]]
+: [[AMT]] • [[CIG]] • [[CMA|CMA@MODELS]] • [[CMA|CMA@RE]] • [[ECOOP]] • [[EESSMod]] • [[ESEC]] • [[FDG]] • [[GPCE]] • [[IFL]] • [[IFM]] • [[MDHPCL]] • [[ME]] • [[MoDELS]] • [[MoDeVVa]] • [[MPM]] • [[MRT]] • [[OCL]] • [[OOPSLE]] • [[PLDI]] • [[POPL]] • [[PPDP]] • [[RTA]] • [[SCAM]] • [[SLE]] • [[TLCA]] • [[WCRE]] • [[XM]]
 ; [[2014]]
-: [[POPL]] • [[RTA]]
+: [[OOPSLE]] • [[POPL]] • [[RTA]]
 ----
-— ''Список обновлён 2013-06-30''
+— ''Список обновлён 2013-09-12''
